@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-P5PWXRJH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
+
+<meta charset="utf-8">
+<meta name="google-adsense-account" content="ca-pub-6709464128865038">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Upcoming IPOs — Plain Earnings</title>
+<meta name="description" content="The companies about to go public, in plain English: who's listing, when, at what price — and what each company actually does.">
+<meta property="og:title" content="Upcoming IPOs — Plain Earnings">
+<meta property="og:description" content="Every notable company about to IPO, explained in plain English.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://earnings.bragdoc.net/ipos/">
+<link rel="canonical" href="https://earnings.bragdoc.net/ipos/">
+<link rel="stylesheet" href="../assets/style.css">
+<link rel="alternate" type="application/rss+xml" title="Plain Earnings — new reports" href="../feed.xml">
+</head>
+<body>
+<header class="topbar">
+  <span class="brand-stack"><a class="brand" href="../">
+    <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><rect x="2" y="6" width="10" height="20" rx="2" fill="#2f3b4c"/><rect x="15" y="11" width="6" height="15" rx="2" fill="#3f7fbf"/><rect x="24" y="16" width="6" height="10" rx="2" fill="#3d9970"/></svg>
+    Plain&nbsp;Earnings
+  </a><a class="brand-url" href="https://earnings.bragdoc.net/">earnings.bragdoc.net</a></span>
+  <nav>
+    <a href="../ipos/">Upcoming IPOs</a>
+    <a href="../#companies">Companies</a>
+    <a href="../#how">How it works</a>
+    <a href="../#digest">Monthly digest</a>
+    <a href="../feed.xml">RSS</a>
+  </nav>
+</header>
+
+<div class="ad-slot-top">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6709464128865038"
+     crossorigin="anonymous"></script>
+<!-- plainearnings -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6709464128865038"
+     data-ad-slot="7743095279"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<section class="hero">
+  <h1>Upcoming IPOs,<br>in plain English.</h1>
+  <p class="sub">Before a company can sell shares to the public, it has to file its plans with the SEC. We track the notable ones — who's about to list, when, at what price, and what the company actually does — so when the first earnings report lands, you're already up to speed.</p>
+
+  <div class="search-wrap">
+    <input id="ipo-search" type="search" placeholder="Search an upcoming IPO — try “Anthropic” or “ANT”" autocomplete="off" aria-label="Search upcoming IPOs">
+    <div class="filter-bar" role="group" aria-label="Filter IPOs by status">
+      <button class="fbtn" data-status="scheduled" aria-pressed="false">Scheduled <span class="fcount" data-count="scheduled"></span></button>
+      <button class="fbtn" data-status="filed" aria-pressed="false">Filed <span class="fcount" data-count="filed"></span></button>
+    </div>
+    <div id="search-count" class="search-count"></div>
+  </div>
+</section>
+
+<main>
+  <section id="ipos">
+    <h2>Companies on their way to the stock market</h2>
+    <p class="section-sub">Two groups: <strong>scheduled</strong> IPOs have a listing date; <strong>filed</strong> companies have published their SEC paperwork and are waiting to pick a date. Terms can change, and deals can be delayed or pulled — we check this list regularly. Last updated Sat, Nov 14, 2026.</p>
+    <div id="tiles" class="tiles"></div>
+    <p id="no-results" class="no-results" hidden>No upcoming IPO matches that search and filter combination.</p>
+  </section>
+
+  <section id="how-ipos">
+    <h2>How an IPO works</h2>
+    <div class="steps">
+      <div class="step"><div class="step-num">1</div><h3>The company files</h3><p>It publishes an S-1 — a long SEC document with its financial history, risks and plans. That's when a company appears on this page as “filed”.</p></div>
+      <div class="step"><div class="step-num">2</div><h3>It sets a price range</h3><p>The company and its banks pitch big investors (the “roadshow”), set a price range, and take orders. Strong demand can push the price up; weak demand can delay the deal.</p></div>
+      <div class="step"><div class="step-num">3</div><h3>It prices and trades</h3><p>The final price is set the evening before trading starts. From day one it's a normal public company — and within a few months it files its first earnings report, which we'll explain like every other company here.</p></div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p><strong>Plain Earnings</strong> is an educational project. Nothing here is financial advice. IPO dates, price ranges and deal sizes come from companies' SEC filings and press reports, and they can change at any time — an IPO can be delayed, resized or withdrawn.</p>
+  <p>Visit and share: <a href="https://earnings.bragdoc.net/">earnings.bragdoc.net</a></p>
+  <p>Contact us: <a href="mailto:plainearnings@googlegroups.com">plainearnings@googlegroups.com</a></p>
+</footer>
+
+<script>
+fetch('ipos.json')
+  .then(r => r.json())
+  .then(data => {
+    const tiles = document.getElementById('tiles');
+    const input = document.getElementById('ipo-search');
+    const count = document.getElementById('search-count');
+    const noResults = document.getElementById('no-results');
+    const active = new Set();
+    const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    const fmtDate = iso => { const [y,m,d] = iso.split('-').map(Number); return MONTHS[m-1] + ' ' + d + ', ' + y; };
+    document.querySelectorAll('.fcount').forEach(el => {
+      el.textContent = '(' + data.ipos.filter(c => c.status === el.dataset.count).length + ')';
+    });
+    function render() {
+      const q = input.value.trim().toLowerCase();
+      const shown = data.ipos.filter(c => {
+        if (active.size && !active.has(c.status)) return false;
+        if (!q) return true;
+        return (c.name + ' ' + c.ticker + ' ' + c.sector).toLowerCase().includes(q);
+      });
+      tiles.innerHTML = shown.map(c => {
+        const chip = c.status === 'scheduled'
+          ? '<span class="chip chip-ipo-scheduled">Scheduled · ' + fmtDate(c.expectedDate) + '</span>'
+          : '<span class="chip chip-ipo-filed">Filed · awaiting date</span>';
+        const line = [c.exchange, c.priceRange ? c.priceRange + ' / share' : null, c.dealSize].filter(Boolean).join(' · ');
+        return '<article class="tile"><a class="tile-link" href="' + c.slug + '/">'
+          + '<div class="tile-top"><span class="chip chip-live">' + c.ticker + '</span>' + chip + '</div>'
+          + '<div class="tile-name">' + c.name + '</div>'
+          + '<div class="tile-sector">' + c.sector + '</div>'
+          + '<div class="tile-quarter">' + line + '</div>'
+          + '</a></article>';
+      }).join('');
+      count.textContent = shown.length + ' of ' + data.ipos.length + ' upcoming IPOs';
+      noResults.hidden = shown.length > 0;
+    }
+    input.addEventListener('input', render);
+    document.querySelectorAll('.fbtn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const s = btn.dataset.status;
+        if (active.has(s)) { active.delete(s); btn.setAttribute('aria-pressed', 'false'); }
+        else { active.add(s); btn.setAttribute('aria-pressed', 'true'); }
+        render();
+      });
+    });
+    render();
+  });
+</script>
+</body>
+</html>
