@@ -35,12 +35,12 @@ body {
 .hero .sub { font-size: 18.5px; color: #44506a; max-width: 720px; margin: 0 0 30px; }
 .hero-flow { width: 100%; max-width: 720px; height: auto; display: block; margin: 6px 0 34px; }
 .search-wrap { max-width: 640px; }
-#company-search {
+#company-search, #ipo-search {
   width: 100%; font-size: 17px; padding: 15px 18px;
   border: 2px solid var(--line); border-radius: 12px; outline: none; color: var(--ink);
   transition: border-color .15s;
 }
-#company-search:focus { border-color: var(--accent); }
+#company-search:focus, #ipo-search:focus { border-color: var(--accent); }
 .search-count { font-size: 13.5px; color: var(--muted); margin-top: 8px; min-height: 18px; }
 /* activity strip */
 .strip {
