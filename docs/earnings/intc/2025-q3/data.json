@@ -1,0 +1,170 @@
+{
+  "company": "Intel",
+  "flow": {
+    "costOfRevenueM": 8435,
+    "grossProfitM": 5218,
+    "netIncomeM": 4270,
+    "operatingIncomeM": 683,
+    "opex": [
+      {
+        "amountM": 3231,
+        "name": "Research and development",
+        "note": "Developing new CPUs, AI accelerators and process technology; down from $4,049M a year ago."
+      },
+      {
+        "amountM": 1129,
+        "name": "Marketing, general and administrative",
+        "note": "Sales, marketing and back-office costs; down from $1,383M a year ago."
+      },
+      {
+        "amountM": 175,
+        "name": "Restructuring and other charges",
+        "note": "Charges under Intel's 2025 Restructuring Plan, mostly severance, versus a $5,622M charge a year ago dominated by impairments. Intel excludes these from its non-GAAP results."
+      }
+    ],
+    "otherIncomeM": 3891,
+    "revenueM": 13653,
+    "taxM": 304
+  },
+  "follow100": [
+    {
+      "amount": 62.52,
+      "label": "Client Computing Group"
+    },
+    {
+      "amount": 30.15,
+      "label": "Data Center and AI"
+    },
+    {
+      "amount": 0.23,
+      "label": "Intel Foundry"
+    },
+    {
+      "amount": 7.1,
+      "label": "All other"
+    },
+    {
+      "amount": -61.78,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -23.67,
+      "label": "R&D"
+    },
+    {
+      "amount": -8.27,
+      "label": "Marketing, G&A"
+    },
+    {
+      "amount": -1.28,
+      "label": "Restructuring"
+    },
+    {
+      "amount": 28.5,
+      "label": "Other income"
+    },
+    {
+      "amount": -2.23,
+      "label": "Tax"
+    },
+    {
+      "amount": 31.28,
+      "label": "Net income"
+    }
+  ],
+  "follow100Note": "Intel Foundry is counted at its $32M of outside sales only (see the segment note); the $32M is from the Q3 2025 10-Q. Other income of $28.50 per $100 includes the $5,452M Altera sale gain partly offset by the $1,687M Escrowed Shares mark-to-market loss. Rows are rounded to the nearest cent.",
+  "footerNote": "Net income attributable to Intel: $4,063M, after $207M to non-controlling interests.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+3%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "diluted, attributable to Intel; non-GAAP EPS was $0.23",
+      "value": "$0.90"
+    },
+    {
+      "label": "Data Center and AI revenue",
+      "note": "-1% YoY; segment operating income $964M, up from $381M",
+      "value": "$4.1B"
+    },
+    {
+      "label": "Adjusted free cash flow",
+      "note": "Intel's non-GAAP measure; vs $(2.7)B a year ago; gross capex was $3.0B in the quarter",
+      "value": "$896M"
+    }
+  ],
+  "oneTimers": [
+    "A $5,452M pre-tax gain on selling a 51% stake in Altera, which closed September 12, 2025 and deconsolidated Altera from Intel's results; Intel kept a 49% stake now held as an equity investment. The gain sits in interest and other, net and is excluded from non-GAAP results.",
+    "A $1,687M mark-to-market loss on the obligation to issue Escrowed Shares \u2014 Intel shares held in escrow for the U.S. Department of Commerce under the CHIPS Act Secure Enclave agreement \u2014 also inside interest and other, net; excluded from non-GAAP results.",
+    "Gains on equity investments, net were a $221M gain, mostly mark-to-market moves on Intel's investment portfolio rather than chip sales; also excluded from non-GAAP results.",
+    "Restructuring and other charges were $175M, versus $5,622M a year ago \u2014 the year-ago charge was dominated by impairments, which is why Q3 2024 showed a $9,057M operating loss and a $16,639M net loss attributable to Intel.",
+    "Intel flags these results as preliminary: the accounting for its U.S. Government transactions is under consultation with SEC staff (delayed by the government shutdown), and if the staff disagrees, Intel may revise Q3 results \u2014 materially."
+  ],
+  "otherDetail": "Other income of $3,891M combines a $221M gain on equity investments, net with $3,670M of interest and other, net. That $3,670M holds the $5,452M pre-tax gain on selling 51% of Altera, partly offset by a $1,687M mark-to-market loss on Escrowed Shares. The $304M tax provision on $4,574M of pre-tax income is a 6.6% effective rate.",
+  "periodEnd": "2025-09-27",
+  "pngFooterNote": "GAAP profit flattered by a $5.5B Altera sale gain.",
+  "quarterLabel": "Q3 2025",
+  "quarterSlug": "2025-q3",
+  "reportedDate": "2025-10-23",
+  "revenueYoY": "+3%",
+  "segments": [
+    {
+      "amountM": 8535,
+      "name": "Client Computing Group",
+      "note": "PC and client chips; up 5% YoY on higher client demand. Segment operating income was $2,694M, down from $2,937M a year ago.",
+      "yoy": "+5%"
+    },
+    {
+      "amountM": 4117,
+      "name": "Data Center and AI",
+      "note": "Xeon server chips and AI data-center products; down 1% YoY. Segment operating income was $964M, up from $381M a year ago.",
+      "yoy": "-1%"
+    },
+    {
+      "amountM": 32,
+      "name": "Intel Foundry",
+      "note": "Intel's chip factories, shown at their $32M of sales to OUTSIDE customers only (Q3 2025 10-Q). Foundry's total segment revenue was $4,235M, but $4,203M of that was wafers sold to Intel's own product groups \u2014 counting it here would count the same dollars twice. Foundry lost $2,321M in the quarter."
+    },
+    {
+      "amountM": 969,
+      "name": "All other",
+      "note": "Mobileye (self-driving tech) and smaller businesses, including Altera through September 11, 2025, when it was deconsolidated. Intel reports this group at $993M; it is shown as $969M here, net of $24M of intersegment eliminations not attributable to Foundry, so the parts sum exactly to Intel's $13,653M total. Up 3% YoY.",
+      "yoy": "+3%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000169/q325earningsrelease.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended Sep 27, 2025 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "$5.5B",
+      "statColor": "#5b6b7c",
+      "text": "Intel's GAAP net income attributable to Intel was $4,063M, but it includes a $5,452M pre-tax gain from selling 51% of Altera, partly offset by a $1,687M mark-to-market loss on shares escrowed for the U.S. government. Strip those out and non-GAAP net income was $1,023M, or $0.23 a share.",
+      "title": "A $4.1B profit built on a one-time sale"
+    },
+    {
+      "stat": "+5%",
+      "statColor": "#3d7bc8",
+      "text": "Client Computing revenue rose 5% to $8,535M and earned $2,694M \u2014 the PC business is still Intel's profit engine. Data Center and AI slipped 1% to $4,117M, but its operating income more than doubled to $964M from $381M as costs fell.",
+      "title": "PC chips carried the quarter"
+    },
+    {
+      "stat": "-$2.3B",
+      "statColor": "#5b6b7c",
+      "text": "Intel Foundry booked $4,235M of revenue but lost $2,321M, and only $32M came from outside customers. Intel also took in $5.7B from the U.S. government plus $5.0B from NVIDIA and $2.0B from SoftBank \u2014 but the accounting for the government deal is still under SEC review, so these results could be revised.",
+      "title": "Foundry still loses money \u2014 and mostly sells to Intel"
+    }
+  ],
+  "ticker": "INTC",
+  "verdict": "Intel's revenue rose 3% to $13.7B and it reported $4.1B of net income attributable to Intel, but $5.5B of that came from selling a majority stake in Altera \u2014 without it, underlying profit was about $1.0B, and Foundry still lost $2.3B."
+}
