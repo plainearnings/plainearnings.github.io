@@ -1,1 +1,371 @@
-{"ipos":[{"dealSize":"~$61B (up to $64.4B at the top of the range)","exchange":"Nasdaq","expectedDate":"2026-11-19","expectedNote":"Pricing expected Wed Nov 18, first trades Thu Nov 19, 2026 (press reports — the filing itself sets no date)","filedDate":"2026-10-26","name":"Anthropic, PBC","priceRange":"$70–$78","sector":"Artificial intelligence","sharesOffered":"825M","slug":"anthropic","sources":[{"label":"StockAnalysis IPO calendar — ANT terms","url":"https://stockanalysis.com/ipos/calendar/"},{"label":"Phillip Nova — what the filings show ahead of the Nov 19 debut","url":"https://www.phillipnova.com.sg/market_trends/the-anthropic-ipo-what-the-latest-filings-show-ahead-of-the-ant-debut-on-19-november/"},{"label":"Lzzo IPO calendar — amended S-1 of Nov 10 sets $70–$78 range","url":"https://lzzo.com/ipo-calendar"}],"status":"scheduled","story":"Founded in 2021 in San Francisco by former OpenAI researchers and led by CEO Dario Amodei, Anthropic is set up as a public benefit corporation. It reported revenue of about $33B in the first nine months of 2026, up from $2.5B a year earlier. This is set to be the second-largest IPO in history, after SpaceX in June 2026.","ticker":"ANT","valuation":"~$968B at the range; up to ~$1.4T fully diluted","watchNotes":["Second-largest IPO ever, behind only SpaceX (June 2026)","Reported about 6× oversubscribed (Bloomberg), with an unusually large ~20% of the deal aimed at retail investors","Seven of its suppliers — Google, Nvidia, AMD, Broadcom, Micron, Microsoft and TSMC — agreed to buy $26B of stock alongside the IPO","Amazon will hold over 5% of the company after the offering"],"whatItDoes":"Anthropic builds Claude, a family of AI models used by businesses, developers and everyday users for writing, coding and analysis. It sells access to its models and subscriptions, and counts Google and Amazon among its biggest backers."},{"dealSize":"Up to ~$3B (reported)","exchange":"NYSE (planned)","expectedDate":null,"expectedNote":"No date set; the CEO has targeted a listing before the end of 2026","filedDate":"2026-09-18","name":"Nscale Limited","priceRange":null,"sector":"AI data centres","sharesOffered":null,"slug":"nscale","sources":[{"label":"StockAnalysis IPO filings — NSCL filed Sep 18, 2026","url":"https://stockanalysis.com/ipos/filings/"},{"label":"Admirals — upcoming IPOs 2026 (Nscale: NYSE planned, up to $3B raise)","url":"https://admiralmarkets.com/education/articles/general-trading/upcoming-ipos-2026-calendar"}],"status":"filed","story":"Founded in 2024 and based in London, Nscale grew out of a crypto-mining business and has signed large deals to build AI data centres in the UK, Europe and the US. It filed publicly on Sep 18, 2026.","ticker":"NSCL","valuation":null,"watchNotes":["One of the largest pure AI-infrastructure IPOs in the pipeline","Timing is a company target, not a set date — it may slip into 2027"],"whatItDoes":"Nscale builds and runs data centres packed with Nvidia GPUs, renting AI computing power to companies that train and run AI models — the picks-and-shovels side of the AI boom."},{"dealSize":"~$2.1B","exchange":null,"expectedDate":null,"expectedNote":"Filed — waiting for a listing date","filedDate":"2026-09-03","name":"Oura Inc.","priceRange":"$40–$44","sector":"Health tech","sharesOffered":"50M","slug":"oura","sources":[{"label":"StockAnalysis IPO filings — OURA filed Sep 3, 2026","url":"https://stockanalysis.com/ipos/filings/"}],"status":"filed","story":"Founded in 2013 in Finland, Oura created the smart-ring category and has sold millions of rings; it is one of the best-known consumer health-tech names to file in 2026.","ticker":"OURA","valuation":null,"watchNotes":["At ~$2.1B, one of the biggest consumer-tech deals in the current pipeline","Terms were already set in the filing ($40–$44), so a date could come quickly"],"whatItDoes":"Oura makes the Oura Ring, a finger-worn tracker that measures sleep, readiness, heart health and activity, paired with a subscription app."},{"dealSize":"~$304M","exchange":null,"expectedDate":null,"expectedNote":"Filed — waiting for a listing date","filedDate":"2026-10-09","name":"OPay Limited","priceRange":"$19.00","sector":"Fintech","sharesOffered":"16M","slug":"opay","sources":[{"label":"StockAnalysis IPO filings — OPAY filed Oct 9, 2026","url":"https://stockanalysis.com/ipos/filings/"}],"status":"filed","story":"Founded in 2018, OPay became a household name in Nigeria during the country's cash shortages and now serves tens of millions of users. It filed on Oct 9, 2026.","ticker":"OPAY","valuation":null,"watchNotes":["A rare large African fintech listing in the US","Single set price ($19) rather than a range in the current filing"],"whatItDoes":"OPay runs one of Africa's largest mobile-payment networks — transfers, cards, savings and an agent network that brings banking to people far from a bank branch, centred on Nigeria."},{"dealSize":"~$665M","exchange":null,"expectedDate":null,"expectedNote":"Filed — waiting for a listing date","filedDate":"2026-08-28","name":"Bamboo Insurance Services","priceRange":"$18–$20","sector":"Insurance","sharesOffered":"35M","slug":"bamboo-insurance","sources":[{"label":"StockAnalysis IPO filings — BMB filed Aug 28, 2026","url":"https://stockanalysis.com/ipos/filings/"}],"status":"filed","story":"Bamboo filed on Aug 28, 2026 with terms already set ($18–$20 for 35M shares), making it one of the larger insurance deals in the pipeline.","ticker":"BMB","valuation":null,"watchNotes":["~$665M deal size is large for an insurer IPO","Home insurance is a hot topic in states facing insurer exits and rising premiums"],"whatItDoes":"Bamboo is a US home insurer that sells policies online and through partners, using data to price household risk — including in states where big insurers have pulled back."},{"dealSize":"~$400M","exchange":null,"expectedDate":null,"expectedNote":"Filed — waiting for a listing date","filedDate":"2026-06-02","name":"CopperTech Metals","priceRange":"$16–$18","sector":"Mining — copper","sharesOffered":"23.5M","slug":"coppertech-metals","sources":[{"label":"StockAnalysis IPO filings — CUX filed Jun 2, 2026","url":"https://stockanalysis.com/ipos/filings/"}],"status":"filed","story":"CopperTech filed on Jun 2, 2026 at $16–$18 for about 23.5M shares. It has been in the pipeline longer than most names on this page, which can mean a deal waiting for the right market window.","ticker":"CUX","valuation":null,"watchNotes":["Copper prices and AI data-centre demand are the story here","A June filing with no date yet — treat timing as uncertain"],"whatItDoes":"CopperTech is a copper mining company. Copper is the metal of electrification — power grids, EVs and data centres all need far more of it."},{"dealSize":null,"exchange":null,"expectedDate":null,"expectedNote":"Filed — waiting for a listing date","filedDate":"2026-10-05","name":"DayOne Data Centers","priceRange":null,"sector":"Data centres","sharesOffered":null,"slug":"dayone-data-centers","sources":[{"label":"StockAnalysis IPO filings — DODC filed Oct 5, 2026","url":"https://stockanalysis.com/ipos/filings/"}],"status":"filed","story":"Formerly known as GDS International, DayOne is the overseas arm spun out of China's GDS Holdings. It filed on Oct 5, 2026; no price terms yet.","ticker":"DODC","valuation":null,"watchNotes":["Another way the AI build-out reaches the IPO market","No terms filed yet — earliest-stage entry on this page"],"whatItDoes":"DayOne builds and operates large data centres across Asia-Pacific — Singapore, Malaysia, Indonesia and beyond — renting space and power to cloud and AI companies."},{"dealSize":null,"exchange":null,"expectedDate":null,"expectedNote":"Filed — waiting for a listing date","filedDate":"2026-08-24","name":"Aggreko Inc.","priceRange":null,"sector":"Power rental","sharesOffered":null,"slug":"aggreko","sources":[{"label":"StockAnalysis IPO filings — AGKO filed Aug 24, 2026","url":"https://stockanalysis.com/ipos/filings/"}],"status":"filed","story":"Founded in 1962 in Scotland, Aggreko was listed in London for decades before being taken private in 2021. Its Aug 24, 2026 filing sets up a return to public markets, this time in the US. No terms yet.","ticker":"AGKO","valuation":null,"watchNotes":["A well-known, profitable business rather than a startup — a different flavour of IPO","Hurricane and grid-emergency work makes it quietly newsworthy most years"],"whatItDoes":"Aggreko is the world's largest renter of temporary power — generators, batteries and cooling that keep festivals, mines, factories and whole towns running when the grid can't."},{"dealSize":null,"exchange":null,"expectedDate":null,"expectedNote":"Filed — waiting for a listing date","filedDate":"2026-08-31","name":"The Wella Company","priceRange":null,"sector":"Beauty","sharesOffered":null,"slug":"wella","sources":[{"label":"StockAnalysis IPO filings — WELA filed Aug 31, 2026","url":"https://stockanalysis.com/ipos/filings/"}],"status":"filed","story":"The Wella name dates to 1880 in Germany. The company was spun out of Coty in 2020 under KKR's ownership and filed on Aug 31, 2026. No terms yet.","ticker":"WELA","valuation":null,"watchNotes":["A consumer-brand IPO — brands most people have used without knowing the parent company","KKR selling down usually means a large deal when it comes"],"whatItDoes":"Wella owns some of the best-known names in hair and nails: Wella and Clairol hair colour, OPI nail polish and ghd styling tools, sold to salons and in stores worldwide."},{"dealSize":null,"exchange":null,"expectedDate":null,"expectedNote":"Filed — waiting for a listing date","filedDate":"2026-07-10","name":"Tailored Brands","priceRange":null,"sector":"Retail — clothing","sharesOffered":null,"slug":"tailored-brands","sources":[{"label":"StockAnalysis IPO filings — MW filed Jul 10, 2026","url":"https://stockanalysis.com/ipos/filings/"}],"status":"filed","story":"Men's Wearhouse was founded in 1973 and was a public company for decades. The group went through bankruptcy in 2020 and its Jul 10, 2026 filing is a comeback listing. No terms yet.","ticker":"MW","valuation":null,"watchNotes":["A second-chance IPO — the business has already been public once","Uses the old Men's Wearhouse ticker, MW"],"whatItDoes":"Tailored Brands owns Men's Wearhouse and Jos. A. Bank — the suit shops famous for weddings, job interviews and 'you're going to like the way you look'."},{"dealSize":null,"exchange":null,"expectedDate":null,"expectedNote":"Filed — waiting for a listing date","filedDate":"2026-05-28","name":"Entrata","priceRange":null,"sector":"Software — property","sharesOffered":null,"slug":"entrata","sources":[{"label":"StockAnalysis IPO filings — ENT filed May 28, 2026","url":"https://stockanalysis.com/ipos/filings/"}],"status":"filed","story":"Founded in 2003 and based in Lehi, Utah, Entrata is one of the larger private software names in the 2026 pipeline. It filed on May 28, 2026; no terms yet.","ticker":"ENT","valuation":null,"watchNotes":["The longest-waiting software name on this page","Business software IPOs have been scarce — this one will test demand"],"whatItDoes":"Entrata makes the software that runs apartment buildings: leasing, rent payments, maintenance requests and resident apps, used by property managers across the US."},{"dealSize":null,"exchange":null,"expectedDate":null,"expectedNote":"Filed — waiting for a listing date","filedDate":"2026-09-01","name":"SB Energy","priceRange":null,"sector":"Energy — solar & storage","sharesOffered":null,"slug":"sb-energy","sources":[{"label":"StockAnalysis IPO filings — SBE filed Sep 1, 2026","url":"https://stockanalysis.com/ipos/filings/"}],"status":"filed","story":"SB Energy is backed by SoftBank Group and Ares. It filed on Sep 1, 2026; no terms yet. Data-centre power demand has made utility-scale solar and storage a market favourite.","ticker":"SBE","valuation":null,"watchNotes":["SoftBank's name on the register will draw attention","Power for AI data centres is the demand story"],"whatItDoes":"SB Energy builds and operates very large solar farms and battery-storage projects in the US, selling the power to utilities and big companies."},{"dealSize":null,"exchange":null,"expectedDate":null,"expectedNote":"Filed — waiting for a listing date","filedDate":"2026-07-06","name":"Syntiant","priceRange":null,"sector":"Semiconductors — edge AI","sharesOffered":null,"slug":"syntiant","sources":[{"label":"StockAnalysis IPO filings — SYTN filed Jul 6, 2026","url":"https://stockanalysis.com/ipos/filings/"}],"status":"filed","story":"Founded in 2017 in Irvine, California, Syntiant's chips ship in consumer devices worldwide. It filed on Jul 6, 2026; no terms yet.","ticker":"SYTN","valuation":null,"watchNotes":["A small-chip, big-market story: billions of edge devices","Filed in July with no terms — timing is uncertain"],"whatItDoes":"Syntiant designs ultra-low-power chips that let earbuds, remotes, doorbells and sensors run AI on the device itself — always listening for a wake word without draining the battery."}],"note":"Curated upcoming US IPOs for Plain Earnings: companies with a scheduled listing date, plus notable companies that have publicly filed and are waiting for a date. Terms come from SEC filings as summarised by StockAnalysis and press reports; dates and terms can change. Maintained alongside company-list.md.","updated":"2026-11-14"}
+{
+  "ipos": [
+    {
+      "dealSize": "~$61B (up to $64.4B at the top of the range)",
+      "exchange": "Nasdaq",
+      "expectedDate": "2026-11-19",
+      "expectedNote": "Pricing expected Wed Nov 18, first trades Thu Nov 19, 2026 (press reports — the filing itself sets no date)",
+      "filedDate": "2026-10-26",
+      "name": "Anthropic, PBC",
+      "priceRange": "$70–$78",
+      "sector": "Artificial intelligence",
+      "sharesOffered": "825M",
+      "slug": "anthropic",
+      "sources": [
+        {
+          "label": "StockAnalysis IPO calendar — ANT terms",
+          "url": "https://stockanalysis.com/ipos/calendar/"
+        },
+        {
+          "label": "Phillip Nova — what the filings show ahead of the Nov 19 debut",
+          "url": "https://www.phillipnova.com.sg/market_trends/the-anthropic-ipo-what-the-latest-filings-show-ahead-of-the-ant-debut-on-19-november/"
+        },
+        {
+          "label": "Lzzo IPO calendar — amended S-1 of Nov 10 sets $70–$78 range",
+          "url": "https://lzzo.com/ipo-calendar"
+        }
+      ],
+      "status": "scheduled",
+      "story": "Founded in 2021 in San Francisco by former OpenAI researchers and led by CEO Dario Amodei, Anthropic is set up as a public benefit corporation. It reported revenue of about $33B in the first nine months of 2026, up from $2.5B a year earlier. This is set to be the second-largest IPO in history, after SpaceX in June 2026.",
+      "ticker": "ANT",
+      "valuation": "~$968B at the range; up to ~$1.4T fully diluted",
+      "watchNotes": [
+        "Second-largest IPO ever, behind only SpaceX (June 2026)",
+        "Reported about 6× oversubscribed (Bloomberg), with an unusually large ~20% of the deal aimed at retail investors",
+        "Seven of its suppliers — Google, Nvidia, AMD, Broadcom, Micron, Microsoft and TSMC — agreed to buy $26B of stock alongside the IPO",
+        "Amazon will hold over 5% of the company after the offering"
+      ],
+      "whatItDoes": "Anthropic builds Claude, a family of AI models used by businesses, developers and everyday users for writing, coding and analysis. It sells access to its models and subscriptions, and counts Google and Amazon among its biggest backers."
+    },
+    {
+      "dealSize": "Up to ~$3B (reported)",
+      "exchange": "NYSE (planned)",
+      "expectedDate": null,
+      "expectedNote": "No date set; the CEO has targeted a listing before the end of 2026",
+      "filedDate": "2026-09-18",
+      "name": "Nscale Limited",
+      "priceRange": null,
+      "sector": "AI data centres",
+      "sharesOffered": null,
+      "slug": "nscale",
+      "sources": [
+        {
+          "label": "StockAnalysis IPO filings — NSCL filed Sep 18, 2026",
+          "url": "https://stockanalysis.com/ipos/filings/"
+        },
+        {
+          "label": "Admirals — upcoming IPOs 2026 (Nscale: NYSE planned, up to $3B raise)",
+          "url": "https://admiralmarkets.com/education/articles/general-trading/upcoming-ipos-2026-calendar"
+        }
+      ],
+      "status": "filed",
+      "story": "Founded in 2024 and based in London, Nscale grew out of a crypto-mining business and has signed large deals to build AI data centres in the UK, Europe and the US. It filed publicly on Sep 18, 2026.",
+      "ticker": "NSCL",
+      "valuation": null,
+      "watchNotes": [
+        "One of the largest pure AI-infrastructure IPOs in the pipeline",
+        "Timing is a company target, not a set date — it may slip into 2027"
+      ],
+      "whatItDoes": "Nscale builds and runs data centres packed with Nvidia GPUs, renting AI computing power to companies that train and run AI models — the picks-and-shovels side of the AI boom."
+    },
+    {
+      "dealSize": "~$2.1B",
+      "exchange": null,
+      "expectedDate": null,
+      "expectedNote": "Filed — waiting for a listing date",
+      "filedDate": "2026-09-03",
+      "name": "Oura Inc.",
+      "priceRange": "$40–$44",
+      "sector": "Health tech",
+      "sharesOffered": "50M",
+      "slug": "oura",
+      "sources": [
+        {
+          "label": "StockAnalysis IPO filings — OURA filed Sep 3, 2026",
+          "url": "https://stockanalysis.com/ipos/filings/"
+        }
+      ],
+      "status": "filed",
+      "story": "Founded in 2013 in Finland, Oura created the smart-ring category and has sold millions of rings; it is one of the best-known consumer health-tech names to file in 2026.",
+      "ticker": "OURA",
+      "valuation": null,
+      "watchNotes": [
+        "At ~$2.1B, one of the biggest consumer-tech deals in the current pipeline",
+        "Terms were already set in the filing ($40–$44), so a date could come quickly"
+      ],
+      "whatItDoes": "Oura makes the Oura Ring, a finger-worn tracker that measures sleep, readiness, heart health and activity, paired with a subscription app."
+    },
+    {
+      "dealSize": "~$304M",
+      "exchange": null,
+      "expectedDate": null,
+      "expectedNote": "Filed — waiting for a listing date",
+      "filedDate": "2026-10-09",
+      "name": "OPay Limited",
+      "priceRange": "$19.00",
+      "sector": "Fintech",
+      "sharesOffered": "16M",
+      "slug": "opay",
+      "sources": [
+        {
+          "label": "StockAnalysis IPO filings — OPAY filed Oct 9, 2026",
+          "url": "https://stockanalysis.com/ipos/filings/"
+        }
+      ],
+      "status": "filed",
+      "story": "Founded in 2018, OPay became a household name in Nigeria during the country's cash shortages and now serves tens of millions of users. It filed on Oct 9, 2026.",
+      "ticker": "OPAY",
+      "valuation": null,
+      "watchNotes": [
+        "A rare large African fintech listing in the US",
+        "Single set price ($19) rather than a range in the current filing"
+      ],
+      "whatItDoes": "OPay runs one of Africa's largest mobile-payment networks — transfers, cards, savings and an agent network that brings banking to people far from a bank branch, centred on Nigeria."
+    },
+    {
+      "dealSize": "~$665M",
+      "exchange": null,
+      "expectedDate": null,
+      "expectedNote": "Filed — waiting for a listing date",
+      "filedDate": "2026-08-28",
+      "name": "Bamboo Insurance Services",
+      "priceRange": "$18–$20",
+      "sector": "Insurance",
+      "sharesOffered": "35M",
+      "slug": "bamboo-insurance",
+      "sources": [
+        {
+          "label": "StockAnalysis IPO filings — BMB filed Aug 28, 2026",
+          "url": "https://stockanalysis.com/ipos/filings/"
+        }
+      ],
+      "status": "filed",
+      "story": "Bamboo filed on Aug 28, 2026 with terms already set ($18–$20 for 35M shares), making it one of the larger insurance deals in the pipeline.",
+      "ticker": "BMB",
+      "valuation": null,
+      "watchNotes": [
+        "~$665M deal size is large for an insurer IPO",
+        "Home insurance is a hot topic in states facing insurer exits and rising premiums"
+      ],
+      "whatItDoes": "Bamboo is a US home insurer that sells policies online and through partners, using data to price household risk — including in states where big insurers have pulled back."
+    },
+    {
+      "dealSize": "~$400M",
+      "exchange": null,
+      "expectedDate": null,
+      "expectedNote": "Filed — waiting for a listing date",
+      "filedDate": "2026-06-02",
+      "name": "CopperTech Metals",
+      "priceRange": "$16–$18",
+      "sector": "Mining — copper",
+      "sharesOffered": "23.5M",
+      "slug": "coppertech-metals",
+      "sources": [
+        {
+          "label": "StockAnalysis IPO filings — CUX filed Jun 2, 2026",
+          "url": "https://stockanalysis.com/ipos/filings/"
+        }
+      ],
+      "status": "filed",
+      "story": "CopperTech filed on Jun 2, 2026 at $16–$18 for about 23.5M shares. It has been in the pipeline longer than most names on this page, which can mean a deal waiting for the right market window.",
+      "ticker": "CUX",
+      "valuation": null,
+      "watchNotes": [
+        "Copper prices and AI data-centre demand are the story here",
+        "A June filing with no date yet — treat timing as uncertain"
+      ],
+      "whatItDoes": "CopperTech is a copper mining company. Copper is the metal of electrification — power grids, EVs and data centres all need far more of it."
+    },
+    {
+      "dealSize": null,
+      "exchange": null,
+      "expectedDate": null,
+      "expectedNote": "Filed — waiting for a listing date",
+      "filedDate": "2026-10-05",
+      "name": "DayOne Data Centers",
+      "priceRange": null,
+      "sector": "Data centres",
+      "sharesOffered": null,
+      "slug": "dayone-data-centers",
+      "sources": [
+        {
+          "label": "StockAnalysis IPO filings — DODC filed Oct 5, 2026",
+          "url": "https://stockanalysis.com/ipos/filings/"
+        }
+      ],
+      "status": "filed",
+      "story": "Formerly known as GDS International, DayOne is the overseas arm spun out of China's GDS Holdings. It filed on Oct 5, 2026; no price terms yet.",
+      "ticker": "DODC",
+      "valuation": null,
+      "watchNotes": [
+        "Another way the AI build-out reaches the IPO market",
+        "No terms filed yet — earliest-stage entry on this page"
+      ],
+      "whatItDoes": "DayOne builds and operates large data centres across Asia-Pacific — Singapore, Malaysia, Indonesia and beyond — renting space and power to cloud and AI companies."
+    },
+    {
+      "dealSize": null,
+      "exchange": null,
+      "expectedDate": null,
+      "expectedNote": "Filed — waiting for a listing date",
+      "filedDate": "2026-08-24",
+      "name": "Aggreko Inc.",
+      "priceRange": null,
+      "sector": "Power rental",
+      "sharesOffered": null,
+      "slug": "aggreko",
+      "sources": [
+        {
+          "label": "StockAnalysis IPO filings — AGKO filed Aug 24, 2026",
+          "url": "https://stockanalysis.com/ipos/filings/"
+        }
+      ],
+      "status": "filed",
+      "story": "Founded in 1962 in Scotland, Aggreko was listed in London for decades before being taken private in 2021. Its Aug 24, 2026 filing sets up a return to public markets, this time in the US. No terms yet.",
+      "ticker": "AGKO",
+      "valuation": null,
+      "watchNotes": [
+        "A well-known, profitable business rather than a startup — a different flavour of IPO",
+        "Hurricane and grid-emergency work makes it quietly newsworthy most years"
+      ],
+      "whatItDoes": "Aggreko is the world's largest renter of temporary power — generators, batteries and cooling that keep festivals, mines, factories and whole towns running when the grid can't."
+    },
+    {
+      "dealSize": null,
+      "exchange": null,
+      "expectedDate": null,
+      "expectedNote": "Filed — waiting for a listing date",
+      "filedDate": "2026-08-31",
+      "name": "The Wella Company",
+      "priceRange": null,
+      "sector": "Beauty",
+      "sharesOffered": null,
+      "slug": "wella",
+      "sources": [
+        {
+          "label": "StockAnalysis IPO filings — WELA filed Aug 31, 2026",
+          "url": "https://stockanalysis.com/ipos/filings/"
+        }
+      ],
+      "status": "filed",
+      "story": "The Wella name dates to 1880 in Germany. The company was spun out of Coty in 2020 under KKR's ownership and filed on Aug 31, 2026. No terms yet.",
+      "ticker": "WELA",
+      "valuation": null,
+      "watchNotes": [
+        "A consumer-brand IPO — brands most people have used without knowing the parent company",
+        "KKR selling down usually means a large deal when it comes"
+      ],
+      "whatItDoes": "Wella owns some of the best-known names in hair and nails: Wella and Clairol hair colour, OPI nail polish and ghd styling tools, sold to salons and in stores worldwide."
+    },
+    {
+      "dealSize": null,
+      "exchange": null,
+      "expectedDate": null,
+      "expectedNote": "Filed — waiting for a listing date",
+      "filedDate": "2026-07-10",
+      "name": "Tailored Brands",
+      "priceRange": null,
+      "sector": "Retail — clothing",
+      "sharesOffered": null,
+      "slug": "tailored-brands",
+      "sources": [
+        {
+          "label": "StockAnalysis IPO filings — MW filed Jul 10, 2026",
+          "url": "https://stockanalysis.com/ipos/filings/"
+        }
+      ],
+      "status": "filed",
+      "story": "Men's Wearhouse was founded in 1973 and was a public company for decades. The group went through bankruptcy in 2020 and its Jul 10, 2026 filing is a comeback listing. No terms yet.",
+      "ticker": "MW",
+      "valuation": null,
+      "watchNotes": [
+        "A second-chance IPO — the business has already been public once",
+        "Uses the old Men's Wearhouse ticker, MW"
+      ],
+      "whatItDoes": "Tailored Brands owns Men's Wearhouse and Jos. A. Bank — the suit shops famous for weddings, job interviews and 'you're going to like the way you look'."
+    },
+    {
+      "dealSize": null,
+      "exchange": null,
+      "expectedDate": null,
+      "expectedNote": "Filed — waiting for a listing date",
+      "filedDate": "2026-05-28",
+      "name": "Entrata",
+      "priceRange": null,
+      "sector": "Software — property",
+      "sharesOffered": null,
+      "slug": "entrata",
+      "sources": [
+        {
+          "label": "StockAnalysis IPO filings — ENT filed May 28, 2026",
+          "url": "https://stockanalysis.com/ipos/filings/"
+        }
+      ],
+      "status": "filed",
+      "story": "Founded in 2003 and based in Lehi, Utah, Entrata is one of the larger private software names in the 2026 pipeline. It filed on May 28, 2026; no terms yet.",
+      "ticker": "ENT",
+      "valuation": null,
+      "watchNotes": [
+        "The longest-waiting software name on this page",
+        "Business software IPOs have been scarce — this one will test demand"
+      ],
+      "whatItDoes": "Entrata makes the software that runs apartment buildings: leasing, rent payments, maintenance requests and resident apps, used by property managers across the US."
+    },
+    {
+      "dealSize": null,
+      "exchange": null,
+      "expectedDate": null,
+      "expectedNote": "Filed — waiting for a listing date",
+      "filedDate": "2026-09-01",
+      "name": "SB Energy",
+      "priceRange": null,
+      "sector": "Energy — solar & storage",
+      "sharesOffered": null,
+      "slug": "sb-energy",
+      "sources": [
+        {
+          "label": "StockAnalysis IPO filings — SBE filed Sep 1, 2026",
+          "url": "https://stockanalysis.com/ipos/filings/"
+        }
+      ],
+      "status": "filed",
+      "story": "SB Energy is backed by SoftBank Group and Ares. It filed on Sep 1, 2026; no terms yet. Data-centre power demand has made utility-scale solar and storage a market favourite.",
+      "ticker": "SBE",
+      "valuation": null,
+      "watchNotes": [
+        "SoftBank's name on the register will draw attention",
+        "Power for AI data centres is the demand story"
+      ],
+      "whatItDoes": "SB Energy builds and operates very large solar farms and battery-storage projects in the US, selling the power to utilities and big companies."
+    },
+    {
+      "dealSize": null,
+      "exchange": null,
+      "expectedDate": null,
+      "expectedNote": "Filed — waiting for a listing date",
+      "filedDate": "2026-07-06",
+      "name": "Syntiant",
+      "priceRange": null,
+      "sector": "Semiconductors — edge AI",
+      "sharesOffered": null,
+      "slug": "syntiant",
+      "sources": [
+        {
+          "label": "StockAnalysis IPO filings — SYTN filed Jul 6, 2026",
+          "url": "https://stockanalysis.com/ipos/filings/"
+        }
+      ],
+      "status": "filed",
+      "story": "Founded in 2017 in Irvine, California, Syntiant's chips ship in consumer devices worldwide. It filed on Jul 6, 2026; no terms yet.",
+      "ticker": "SYTN",
+      "valuation": null,
+      "watchNotes": [
+        "A small-chip, big-market story: billions of edge devices",
+        "Filed in July with no terms — timing is uncertain"
+      ],
+      "whatItDoes": "Syntiant designs ultra-low-power chips that let earbuds, remotes, doorbells and sensors run AI on the device itself — always listening for a wake word without draining the battery."
+    }
+  ],
+  "note": "Curated upcoming US IPOs for Plain Earnings: companies with a scheduled listing date, plus notable companies that have publicly filed and are waiting for a date. After a company lists, its status becomes 'listed' (with listedDate and finalPrice) and it stays on the page for 10 days before being removed. Terms come from SEC filings as summarised by StockAnalysis and press reports; dates and terms can change. Maintained alongside company-list.md.",
+  "updated": "2026-11-14"
+}

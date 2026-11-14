@@ -60,6 +60,7 @@
     <div class="filter-bar" role="group" aria-label="Filter IPOs by status">
       <button class="fbtn" data-status="scheduled" aria-pressed="false">Scheduled <span class="fcount" data-count="scheduled"></span></button>
       <button class="fbtn" data-status="filed" aria-pressed="false">Filed <span class="fcount" data-count="filed"></span></button>
+      <button class="fbtn" data-status="listed" aria-pressed="false">Now trading <span class="fcount" data-count="listed"></span></button>
     </div>
     <div id="search-count" class="search-count"></div>
   </div>
@@ -68,7 +69,7 @@
 <main>
   <section id="ipos">
     <h2>Companies on their way to the stock market</h2>
-    <p class="section-sub">Two groups: <strong>scheduled</strong> IPOs have a listing date; <strong>filed</strong> companies have published their SEC paperwork and are waiting to pick a date. Terms can change, and deals can be delayed or pulled — we check this list regularly. Last updated Sat, Nov 14, 2026.</p>
+    <p class="section-sub">Three groups: <strong>scheduled</strong> IPOs have a listing date; <strong>filed</strong> companies have published their SEC paperwork and are waiting to pick a date; <strong>now trading</strong> companies listed in the last 10 days — they stay here briefly, then graduate to the company list below. Terms can change, and deals can be delayed or pulled — we check this list daily. Last updated Sat, Nov 14, 2026.</p>
     <div id="tiles" class="tiles"></div>
     <p id="no-results" class="no-results" hidden>No upcoming IPO matches that search and filter combination.</p>
   </section>
@@ -113,8 +114,10 @@ fetch('ipos.json')
       tiles.innerHTML = shown.map(c => {
         const chip = c.status === 'scheduled'
           ? '<span class="chip chip-ipo-scheduled">Scheduled · ' + fmtDate(c.expectedDate) + '</span>'
+          : c.status === 'listed'
+          ? '<span class="chip chip-ipo-listed">Now trading · since ' + fmtDate(c.listedDate) + '</span>'
           : '<span class="chip chip-ipo-filed">Filed · awaiting date</span>';
-        const line = [c.exchange, c.priceRange ? c.priceRange + ' / share' : null, c.dealSize].filter(Boolean).join(' · ');
+        const line = [c.exchange, c.status === 'listed' && c.finalPrice ? 'IPO price ' + c.finalPrice : (c.priceRange ? c.priceRange + ' / share' : null), c.dealSize].filter(Boolean).join(' · ');
         return '<article class="tile"><a class="tile-link" href="' + c.slug + '/">'
           + '<div class="tile-top"><span class="chip chip-live">' + c.ticker + '</span>' + chip + '</div>'
           + '<div class="tile-name">' + c.name + '</div>'
