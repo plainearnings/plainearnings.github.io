@@ -38,6 +38,47 @@
       "whatItDoes": "Anthropic builds Claude, a family of AI models used by businesses, developers and everyday users for writing, coding and analysis. It sells access to its models and subscriptions, and counts Google and Amazon among its biggest backers."
     },
     {
+      "dealSize": "~$6B (Renaissance Capital estimate)",
+      "exchange": "NYSE",
+      "expectedDate": null,
+      "expectedNote": "Filed — waiting for a listing date; Barrick's CEO has said the IPO would launch by early next year",
+      "filedDate": "2026-11-10",
+      "name": "American Barrick Gold Corporation",
+      "priceRange": null,
+      "sector": "Mining — gold",
+      "sharesOffered": null,
+      "slug": "american-barrick-gold",
+      "sources": [
+        {
+          "label": "Reuters — Barrick files for IPO of North American business",
+          "url": "https://srnnews.com/canadas-barrick-mining-files-for-ipo-of-north-america-business-in-new-york/"
+        },
+        {
+          "label": "StockAnalysis IPO filings — ABGC filed Nov 10, 2026",
+          "url": "https://stockanalysis.com/ipos/filings/"
+        },
+        {
+          "label": "Renaissance Capital — weekly recap: ABGC could raise ~$6B",
+          "url": "https://www.renaissancecapital.com/IPO-Center/News/122727/us-ipo-weekly-recap-two-sizable-ipos-price-a-multibillion-dollar-deal"
+        },
+        {
+          "label": "Barrick Mining — press release on the S-1 filing",
+          "url": "https://www.goldseiten.de/artikel/720452--Barrick-Announces-American-Barrick-and-S-1-Filing-for-Proposed-Initial-Public-Offering.html"
+        }
+      ],
+      "status": "filed",
+      "story": "Barrick Mining, one of the world's biggest gold miners, is spinning off its North American gold business into a separate listed company. The new company filed its S-1 on Nov 10, 2026, with $11.4B of revenue in 2025; Barrick will stay in control after the offering and plans to return the IPO proceeds to its own shareholders. Reuters called it one of the most anticipated public offerings among gold miners in recent years.",
+      "ticker": "ABGC",
+      "valuation": null,
+      "watchNotes": [
+        "Renaissance Capital estimates it could raise ~$6B — a multibillion-dollar deal, rare for a miner",
+        "Holds Nevada Gold Mines, the world's largest gold-mining complex, plus the Pueblo Viejo mine in the Dominican Republic",
+        "Barrick stays in control after the listing — a partial spin-out, not a full exit",
+        "No price range or share count yet — terms come once the SEC review advances"
+      ],
+      "whatItDoes": "American Barrick Gold holds Barrick Mining's North American gold mines, including Nevada Gold Mines — the world's largest gold-mining complex — and the Pueblo Viejo mine in the Dominican Republic. It digs gold out of the ground and sells it."
+    },
+    {
       "dealSize": "Up to ~$3B (reported)",
       "exchange": "NYSE (planned)",
       "expectedDate": null,
@@ -99,8 +140,7 @@
       "dealSize": "~$304M",
       "exchange": null,
       "expectedDate": null,
-      "expectedNote": "Filed — waiting for a listing date",
-      "filedDate": "2026-10-09",
+      "expectedNote": "Filed — announced pricing but did not complete the offering; still waiting for a listing date",
       "name": "OPay Limited",
       "priceRange": "$19.00",
       "sector": "Fintech",
@@ -367,5 +407,5 @@
     }
   ],
   "note": "Curated upcoming US IPOs for Plain Earnings: companies with a scheduled listing date, plus notable companies that have publicly filed and are waiting for a date. After a company lists, its status becomes 'listed' (with listedDate and finalPrice) and it stays on the page for 10 days before being removed. Terms come from SEC filings as summarised by StockAnalysis and press reports; dates and terms can change. Maintained alongside company-list.md.",
-  "updated": "2026-11-14"
+  "updated": "2026-11-15"
 }
