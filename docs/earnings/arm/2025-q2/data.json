@@ -1,0 +1,145 @@
+{
+  "company": "Arm Holdings",
+  "flow": {
+    "costOfRevenueM": 32,
+    "costPlain": "The direct cost of delivering Arm's designs and support \u2014 tiny next to revenue, which is why gross margin is 96.2%.",
+    "equityM": -10,
+    "grossProfitM": 812,
+    "netIncomeM": 107,
+    "operatingIncomeM": 64,
+    "opex": [
+      {
+        "amountM": 507,
+        "name": "Research and development",
+        "note": "Designing new processors and platform technology; the GAAP figure includes $154M of share-based pay (paying staff in shares) and $31M of related employer taxes, net of R&D tax incentives."
+      },
+      {
+        "amountM": 241,
+        "name": "Selling, general and administrative",
+        "note": "Selling and running the company; the GAAP figure includes $57M of share-based pay and $10M of related employer taxes, plus $2M of disposal-related costs."
+      }
+    ],
+    "otherIncomeM": 10,
+    "revenueM": 844,
+    "taxM": -43
+  },
+  "follow100": [
+    {
+      "amount": 39.1,
+      "label": "License and other revenue"
+    },
+    {
+      "amount": 60.9,
+      "label": "Royalty revenue"
+    },
+    {
+      "amount": -3.79,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -60.07,
+      "label": "R&D"
+    },
+    {
+      "amount": -28.55,
+      "label": "SG&A"
+    },
+    {
+      "amount": 1.18,
+      "label": "Other income"
+    },
+    {
+      "amount": -1.18,
+      "label": "Loss on equity investments"
+    },
+    {
+      "amount": 5.09,
+      "label": "Tax benefit"
+    },
+    {
+      "amount": 12.68,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "License and royalty revenue split the $100 roughly 39/61 \u2014 but R&D took $60.07 of it and SG&A another $28.55. A $43M tax benefit added $5.09 back. Rows may not add exactly due to rounding.",
+  "footerNote": "Arm calls its direct cost 'cost of sales' ($32M); tax was a $43M benefit, not a bill.",
+  "kpis": [
+    {
+      "label": "Revenue",
+      "note": "+5% YoY \u2014 above the high end of guidance ($780\u2013830M)",
+      "value": "$844M"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "diluted, vs a $0.11 loss a year ago; non-GAAP $0.30",
+      "value": "$0.10"
+    },
+    {
+      "label": "Royalty revenue",
+      "note": "+23% YoY \u2014 a record for a Q2, on Armv9 and smartphone recovery",
+      "value": "$514M"
+    },
+    {
+      "label": "Remaining performance obligations",
+      "note": "+10% QoQ; ACV $1,253M, +13% YoY",
+      "value": "$2,385M"
+    }
+  ],
+  "oneTimers": [
+    "Arm's $43M tax benefit included a one-time benefit: the non-GAAP tax rate was 5.6% but would have been 13.5% without it \u2014 the benefit did much of the work in turning a $64M operating profit into $107M of net income.",
+    "Arm recorded a $10M loss from equity investments in the quarter, which it strips out of its non-GAAP results: excluding it (and share-based pay), non-GAAP net income was $317M versus $107M GAAP."
+  ],
+  "otherDetail": "Other items netted to zero: $29M of net interest income was offset by a $19M other non-operating loss, and equity investments lost $10M. Tax was a $43M benefit \u2014 a 67.2% effective benefit rate \u2014 including a one-time benefit (the non-GAAP tax rate would have been 13.5% without it).",
+  "periodEnd": "2024-09-30",
+  "pngFooterNote": "Record Q2 royalties; a tax benefit lifted net income.",
+  "quarterLabel": "Q2 FY25",
+  "quarterSlug": "2025-q2",
+  "reportedDate": "2024-11-06",
+  "revenueYoY": "+5%",
+  "segments": [
+    {
+      "amountM": 330,
+      "name": "License and other revenue",
+      "note": "Fees for licensing Arm chip designs, plus support and related services; down 15% YoY on the timing and size of high-value license agreements and contributions from backlog, though bookings were strong and ACV grew 13% YoY.",
+      "yoy": "-15%"
+    },
+    {
+      "amountM": 514,
+      "name": "Royalty revenue",
+      "note": "A cut of every chip shipped with Arm technology inside; up 23% YoY to a record for a Q2 on wider use of the Armv9 architecture \u2014 now around 25% of royalty revenue, up from around 10% a year ago \u2014 and smartphone market recovery, including Apple's iPhone 16 and MediaTek's Dimensity 9400.",
+      "yoy": "+23%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Results announcement, Form 6-K Exhibit 99.1 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973239/000197323924000036/exhibit991fye25q230-sepx24.htm"
+    },
+    {
+      "label": "Shareholder letter, Form 6-K Exhibit 99.2 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973239/000197323924000036/exhibit992fye25q230-sepx24.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "$844M",
+      "statColor": "#3e8e5a",
+      "text": "Revenue rose 5% to $844M, above the high end of guidance ($780\u2013830M), on record second-quarter royalty revenue. Royalty revenue grew 23% to $514M while license revenue fell 15% to $330M on the timing of high-value deals \u2014 but bookings were strong, ACV grew 13% to $1,253M, and RPO rose 10% sequentially to $2,385M. For the first half of the fiscal year, revenue was $1,783M, up 20% year over year.",
+      "title": "Revenue beat guidance on record royalties"
+    },
+    {
+      "stat": "+23%",
+      "statColor": "#3d7bc8",
+      "text": "Royalty revenue grew 23% to $514M on wider use of the Armv9 architecture and smartphone market recovery. Armv9 now contributes around 25% of royalty revenue, up from around 10% a year ago, with smartphone application-processor royalties growing strongly on Apple's iPhone 16 and MediaTek's Dimensity 9400. Microsoft's Azure Cobalt 100 and Google's Axion, both Arm-based cloud chips, reached general availability in the quarter.",
+      "title": "Royalties keep climbing on Armv9"
+    },
+    {
+      "stat": "$107M",
+      "statColor": "#5b6b7c",
+      "text": "GAAP net income was $107M, or $0.10 per share, versus a $0.11 loss a year ago \u2014 but operating income was just $64M, a 7.6% margin, as R&D climbed to $507M on a 21% jump in engineering headcount. A $43M tax benefit, including a one-time benefit, plus $29M of net interest income did the heavy lifting. Excluding the equity loss and share-based pay, non-GAAP net income was $317M, or $0.30 per share. Free cash flow was -$65M on working-capital timing.",
+      "title": "A tax benefit did the heavy lifting"
+    }
+  ],
+  "ticker": "ARM",
+  "verdict": "Arm's revenue rose 5% to $844M, above the high end of guidance, on record second-quarter royalty revenue of $514M, and a $43M tax benefit lifted a thin $64M operating profit to $107M of net income."
+}

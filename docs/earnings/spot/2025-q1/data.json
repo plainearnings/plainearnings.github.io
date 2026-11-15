@@ -1,0 +1,149 @@
+{
+  "company": "Spotify",
+  "flow": {
+    "costOfRevenueM": 3097.42,
+    "grossProfitM": 1434.07,
+    "netIncomeM": 243.34,
+    "operatingIncomeM": 550.48,
+    "opex": [
+      {
+        "amountM": 409.89,
+        "name": "Research & development",
+        "note": "Building the app, recommendation systems and new formats like video podcasts and audiobooks \u2014 down 3% YoY as personnel costs fell with the timing of annual equity grants shifting to Q2."
+      },
+      {
+        "amountM": 339.59,
+        "name": "Sales & marketing",
+        "note": "Winning listeners and advertisers \u2014 down 3% YoY on lower marketing spend and personnel costs."
+      },
+      {
+        "amountM": 134.11,
+        "name": "General & administrative",
+        "note": "Running the company day to day \u2014 up 1% YoY."
+      }
+    ],
+    "otherIncomeM": -195.75,
+    "revenueM": 4531.49,
+    "taxM": 111.39
+  },
+  "follow100": [
+    {
+      "amount": 90.0,
+      "label": "Premium"
+    },
+    {
+      "amount": 10.0,
+      "label": "Ad-Supported"
+    },
+    {
+      "amount": -68.35,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -9.05,
+      "label": "R&D"
+    },
+    {
+      "amount": -7.49,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -2.96,
+      "label": "G&A"
+    },
+    {
+      "amount": -4.32,
+      "label": "Other income"
+    },
+    {
+      "amount": -2.46,
+      "label": "Tax"
+    },
+    {
+      "amount": 5.37,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Of every $100 of revenue, $90 came from Premium and $10 from ads. Direct costs took $68.35 and running costs $19.50, a net finance loss took $4.32 and tax $2.46, leaving $5.37 kept as profit. Rows may not add exactly due to rounding.",
+  "footerNote": "Spotify reports in euros under IFRS. Dollar figures are converted at \u20ac1 = $1.0815 (ECB euro reference rate at Mar 31, 2025 \u2014 the Q1 release states no rate, unlike Q2). As reported: revenue \u20ac4,190M \u00b7 gross profit \u20ac1,326M \u00b7 operating income \u20ac509M \u00b7 net income \u20ac225M.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago (+15% constant currency)",
+      "value": "+15%"
+    },
+    {
+      "label": "EPS (IFRS, diluted)",
+      "note": "vs \u20ac0.97 a year ago",
+      "value": "\u20ac1.07"
+    },
+    {
+      "label": "Premium subscribers",
+      "note": "+12% YoY",
+      "value": "268M"
+    },
+    {
+      "label": "Free cash flow",
+      "note": "+158% YoY; \u20ac2.6B over the last 12 months",
+      "value": "\u20ac534M"
+    }
+  ],
+  "oneTimers": [
+    "Operating expenses included \u20ac76M of 'social charges' \u2014 Swedish payroll taxes on share-based pay that swing with Spotify's share price; \u20ac75M of it was tied to share-based compensation, versus \u20ac82M a year ago, and the charges came in \u20ac58M above forecast as the share price rose.",
+    "Finance costs included a \u20ac180M paper loss on the Exchangeable Notes \u2014 the notes are worth more when Spotify's share price rises, which books as a cost, and it reverses if the share price falls. A year ago the same line was a \u20ac35M loss.",
+    "The quarter carried a \u20ac103M income tax expense on \u20ac328M of pre-tax income \u2014 a 31.3% effective tax rate, versus a \u20ac23M tax benefit a year ago. The rate was driven mainly by \u20ac47M of tax on the non-deductible Exchangeable Notes loss, partly offset by a \u20ac22M deferred tax benefit and an \u20ac8M benefit from income earned in lower-tax jurisdictions."
+  ],
+  "otherDetail": "Finance items netted \u2212$196M \u2014 a \u20ac180M paper loss on the Exchangeable Notes as Spotify's share price rose, plus \u20ac58M of foreign-exchange losses, \u20ac8M of lease interest and \u20ac6M of other costs, partly offset by \u20ac65M of interest earned on Spotify's cash pile, \u20ac2M of lease interest income and \u20ac4M of other finance income.",
+  "periodEnd": "2025-03-31",
+  "pngFooterNote": "Converted from euros at \u20ac1 = $1.0815.",
+  "quarterLabel": "Q1 2025",
+  "quarterSlug": "2025-q1",
+  "reportedDate": "2025-04-29",
+  "revenueYoY": "+15%",
+  "segments": [
+    {
+      "amountM": 4078.34,
+      "name": "Premium",
+      "note": "Subscriptions \u2014 268 million people paying monthly, up 12% YoY; revenue per user (ARPU) \u20ac4.73, up 4% as price rises outweighed product mix; gross margin 33.5%.",
+      "yoy": "+16%"
+    },
+    {
+      "amountM": 453.15,
+      "name": "Ad-Supported",
+      "note": "The free tier's advertising business \u2014 revenue grew 8% (5% in constant currency) across music and podcasting; its gross margin jumped to 15.3% as podcast and music costs improved.",
+      "yoy": "+8%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official Q1 2025 shareholder letter (SEC EDGAR 6-K Exhibit 99.1)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1639920/000114036125016186/ef20047937_ex99-1.htm"
+    },
+    {
+      "label": "Q1 2025 interim report (SEC EDGAR 6-K)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1639920/000163992025000006/spot-20250331x6xk.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+12%",
+      "statColor": "#3d7bc8",
+      "text": "Premium subscribers grew 12% to 268 million and monthly active users rose 10% to 678 million \u2014 5 million new paying subscribers in the quarter, 3 million above Spotify's guidance. Premium revenue grew 16% to \u20ac3,771M on subscriber gains and price rises.",
+      "title": "Subscribers keep compounding"
+    },
+    {
+      "stat": "31.6%",
+      "statColor": "#3e8e5a",
+      "text": "Gross margin rose to 31.6%, a Q1 high and up 403 bps YoY. Premium gross margin reached 33.5% on audiobooks and music, and Ad-Supported gross margin jumped to 15.3% on better podcast and music contribution. Operating income more than tripled to a record \u20ac509M, a 12.1% margin.",
+      "title": "Margins widened again"
+    },
+    {
+      "stat": "\u20ac225M",
+      "statColor": "#3d7bc8",
+      "text": "Operating income of \u20ac509M was cut by finance costs of \u20ac252M \u2014 mostly a \u20ac180M paper loss on the Exchangeable Notes as Spotify's share price climbed, plus \u20ac58M of foreign-exchange losses \u2014 and a \u20ac103M tax bill, leaving net income of \u20ac225M, up 14% YoY. Cash told a stronger story: free cash flow hit a record Q1 \u20ac534M, up 158%.",
+      "title": "Paper losses shrank the bottom line"
+    }
+  ],
+  "ticker": "SPOT",
+  "verdict": "Spotify grew revenue 15% to \u20ac4.19B (about $4.5B) and added 5 million paying subscribers, with operating income more than tripling to a record \u20ac509M \u2014 but a \u20ac180M paper loss on its Exchangeable Notes and a \u20ac103M tax bill held net income to \u20ac225M."
+}
