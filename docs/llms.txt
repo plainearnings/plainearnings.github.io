@@ -1,0 +1,47 @@
+# Plain Earnings
+
+> Plain Earnings explains major public companies' quarterly earnings reports in plain English. Every report page has a one-sentence verdict, an interactive money-flow (Sankey) chart tracing each dollar from revenue to net profit, three plain-English takeaways, and figures taken only from the company's official SEC filing. Free, no account. Nothing on the site is financial advice.
+
+## Key pages
+
+- [Home — search all companies](https://bragdoc.net/)
+- [Upcoming IPOs](https://bragdoc.net/ipos/): companies about to list, with filing terms in plain English
+- [RSS feed](https://bragdoc.net/feed.xml): every new report, site-wide
+
+## Most-read companies
+
+- [Advanced Micro Devices (AMD)](https://bragdoc.net/earnings/amd/)
+- [Alphabet Inc. (Class A) (GOOGL)](https://bragdoc.net/earnings/googl/)
+- [Amazon (AMZN)](https://bragdoc.net/earnings/amzn/)
+- [AppLovin (APP)](https://bragdoc.net/earnings/app/)
+- [Apple Inc. (AAPL)](https://bragdoc.net/earnings/aapl/)
+- [Berkshire Hathaway (BRK.B)](https://bragdoc.net/earnings/brkb/)
+- [Broadcom (AVGO)](https://bragdoc.net/earnings/avgo/)
+- [Coinbase (COIN)](https://bragdoc.net/earnings/coin/)
+- [Costco (COST)](https://bragdoc.net/earnings/cost/)
+- [JPMorgan Chase (JPM)](https://bragdoc.net/earnings/jpm/)
+- [Lilly (Eli) (LLY)](https://bragdoc.net/earnings/lly/)
+- [McDonald's (MCD)](https://bragdoc.net/earnings/mcd/)
+- [Meta Platforms (META)](https://bragdoc.net/earnings/meta/)
+- [Micron Technology (MU)](https://bragdoc.net/earnings/mu/)
+- [Microsoft (MSFT)](https://bragdoc.net/earnings/msft/)
+- [Netflix (NFLX)](https://bragdoc.net/earnings/nflx/)
+- [Nike, Inc. (NKE)](https://bragdoc.net/earnings/nke/)
+- [Nvidia (NVDA)](https://bragdoc.net/earnings/nvda/)
+- [Oracle Corporation (ORCL)](https://bragdoc.net/earnings/orcl/)
+- [Palantir Technologies (PLTR)](https://bragdoc.net/earnings/pltr/)
+- [Reddit (RDDT)](https://bragdoc.net/earnings/rddt/)
+- [Robinhood Markets (HOOD)](https://bragdoc.net/earnings/hood/)
+- [Salesforce (CRM)](https://bragdoc.net/earnings/crm/)
+- [Starbucks (SBUX)](https://bragdoc.net/earnings/sbux/)
+- [Taiwan Semiconductor (TSM)](https://bragdoc.net/earnings/tsm/)
+- [Tesla, Inc. (TSLA)](https://bragdoc.net/earnings/tsla/)
+- [Uber (UBER)](https://bragdoc.net/earnings/uber/)
+- [Visa Inc. (V)](https://bragdoc.net/earnings/v/)
+- [Walmart (WMT)](https://bragdoc.net/earnings/wmt/)
+- [Walt Disney Company (The) (DIS)](https://bragdoc.net/earnings/dis/)
+
+## Full index and machine-readable data
+
+- All 543 companies (S&P 500, Nasdaq-100 and major AI names) live under https://bragdoc.net/earnings/{ticker-lowercase}/ — the complete list is at https://bragdoc.net/companies.json and in the sitemap at https://bragdoc.net/sitemap.xml
+- Every report page has a structured JSON twin: https://bragdoc.net/earnings/{ticker}/{fiscal-year}-q{n}/data.json (verdict, key figures, segment flows, sources)
