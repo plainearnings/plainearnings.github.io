@@ -32,3 +32,7 @@ Every content HTML page under `docs/` (landing, company indexes, quarter reports
 ```
 
 Keep the ad directly under the site topbar header and above the main page content. Do not remove the `ad-slot-top` wrapper.
+
+## Google Search Console verification file
+
+`docs/google9924337293cb86b7.html` verifies the https://bragdoc.net/ property in Google Search Console (added Nov 15, 2026). Never delete or rename it — Google re-checks it periodically, and removing it unverifies the property. (The same account-level file also verifies the AI Hacker News property; the filename is tied to the Google account, not to one site.)
