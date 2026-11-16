@@ -1,0 +1,168 @@
+{
+  "company": "Intel",
+  "flow": {
+    "costOfRevenueM": 7995,
+    "grossProfitM": 4672,
+    "netIncomeM": -887,
+    "operatingIncomeM": -301,
+    "opex": [
+      {
+        "amountM": 3640,
+        "name": "Research and development",
+        "note": "Developing new CPUs, AI accelerators and process technology; down from $4,382M a year ago as headcount cuts and cost controls took hold."
+      },
+      {
+        "amountM": 1177,
+        "name": "Marketing, general and administrative",
+        "note": "Sales, marketing and back-office costs; down from $1,556M a year ago."
+      },
+      {
+        "amountM": 156,
+        "name": "Restructuring and other charges",
+        "note": "Charges under Intel's 2024 Restructuring Plan, mostly $142M of severance, versus $348M a year ago. Intel excludes these from its non-GAAP results."
+      }
+    ],
+    "otherIncomeM": -285,
+    "revenueM": 12667,
+    "taxM": 301
+  },
+  "follow100": [
+    {
+      "amount": 60.23,
+      "label": "Client Computing Group"
+    },
+    {
+      "amount": 32.57,
+      "label": "Data Center and AI"
+    },
+    {
+      "amount": 0.24,
+      "label": "Intel Foundry"
+    },
+    {
+      "amount": 6.96,
+      "label": "All other"
+    },
+    {
+      "amount": -63.12,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -28.74,
+      "label": "R&D"
+    },
+    {
+      "amount": -9.29,
+      "label": "Marketing, G&A"
+    },
+    {
+      "amount": -1.23,
+      "label": "Restructuring"
+    },
+    {
+      "amount": -2.25,
+      "label": "Other income"
+    },
+    {
+      "amount": -2.38,
+      "label": "Tax"
+    },
+    {
+      "amount": -7.0,
+      "label": "Net income"
+    }
+  ],
+  "follow100Note": "Intel Foundry is counted at its $31M of outside sales only (see the segment note); the $31M is from the Q1 2025 10-Q. All other is shown net of $62M of intersegment eliminations not attributable to Foundry, so the parts sum exactly to Intel's $12,667M total. Rows are rounded to the nearest cent, so the rounded rows sum to -$7.01 against a rounded net loss of -$7.00.",
+  "footerNote": "Net loss attributable to Intel: $(821)M, after $(66)M attributable to non-controlling interests.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "flat"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "diluted, attributable to Intel; non-GAAP EPS was $0.13",
+      "value": "$(0.19)"
+    },
+    {
+      "label": "Gross margin",
+      "note": "down 4.1 points YoY; non-GAAP gross margin was 39.2%",
+      "value": "36.9%"
+    },
+    {
+      "label": "Adjusted free cash flow",
+      "note": "Intel's non-GAAP measure; vs $(6.2)B a year ago; gross capex was $6.2B",
+      "value": "$(3.7)B"
+    }
+  ],
+  "oneTimers": [
+    "$156M of restructuring and other charges under Intel's 2024 Restructuring Plan \u2014 $142M of severance, $11M of litigation charges and $3M of asset impairments; excluded from non-GAAP results. Cumulative plan cost reached $2.9B of an expected ~$3.0B total.",
+    "A $(112)M loss on equity investments, net, versus a $205M gain a year ago \u2014 mark-to-market moves on Intel's investment portfolio rather than chip sales, a $317M year-over-year swing.",
+    "A $94M loss from divestiture: the final close of the NAND sale to SK hynix brought in less than the receivable recorded at the first closing, after a final negotiated settlement; excluded from non-GAAP results."
+  ],
+  "otherDetail": "Other income of $(285)M combines a $(112)M loss on equity investments, net with $(173)M of interest and other, net. Intel recorded a $301M tax provision on a $(586)M pre-tax loss, a (51.4)% GAAP tax rate \u2014 tax owed even while losing money.",
+  "periodEnd": "2025-03-29",
+  "pngFooterNote": "Flat sales and a thin margin produced an $887M loss.",
+  "quarterLabel": "Q1 2025",
+  "quarterSlug": "2025-q1",
+  "reportedDate": "2025-04-24",
+  "revenueYoY": "flat",
+  "segments": [
+    {
+      "amountM": 7629,
+      "name": "Client Computing Group",
+      "note": "PC and client chips; down 8% YoY. Segment operating income was $2,361M, down from $2,822M a year ago.",
+      "yoy": "-8%"
+    },
+    {
+      "amountM": 4126,
+      "name": "Data Center and AI",
+      "note": "Xeon server chips and AI data-center products; up 8% YoY. Segment operating income was $575M, up from $417M a year ago.",
+      "yoy": "+8%"
+    },
+    {
+      "amountM": 31,
+      "name": "Intel Foundry",
+      "note": "Intel's chip factories, shown at their $31M of sales to OUTSIDE customers only (Q1 2025 10-Q). Foundry's total segment revenue was $4,667M, but $4,636M of that was wafers sold to Intel's own product groups \u2014 counting it here would count the same dollars twice. Foundry lost $2,320M in the quarter."
+    },
+    {
+      "amountM": 881,
+      "name": "All other",
+      "note": "Mobileye (self-driving tech), Altera and smaller businesses. Intel reports this group at $943M; it is shown as $881M here, net of $62M of intersegment eliminations not attributable to Foundry, so the parts sum exactly to Intel's $12,667M total. Up 47% YoY.",
+      "yoy": "+47%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000070/q125_earningsrelease.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended Mar 29, 2025 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "-$887M",
+      "statColor": "#5b6b7c",
+      "text": "Revenue was flat at $12.7B and R&D plus MG&A fell 19% year over year to $4.8B, but gross margin slid to 36.9% from 41.0%, so Intel still lost money on operations. GAAP EPS was $(0.19); non-GAAP EPS was $0.13.",
+      "title": "Cost cuts weren't enough to save the quarter"
+    },
+    {
+      "stat": "-$2.3B",
+      "statColor": "#5b6b7c",
+      "text": "Intel Foundry lost $2,320M on $4,667M of segment revenue, and only $31M of that revenue came from outside customers \u2014 the rest was wafers sold to Intel's own product groups. Client Computing still earned $2,361M and Data Center and AI earned $575M.",
+      "title": "Foundry lost far more than the whole company"
+    },
+    {
+      "stat": "$(3.7)B",
+      "statColor": "#5b6b7c",
+      "text": "Operating cash flow was $813M, but after $6.2B of gross capital spending, adjusted free cash flow was $(3,680)M. New CEO Lip-Bu Tan cut the 2025 operating-expense target to ~$17B (and ~$16B for 2026) and gross capex to $18B; Q2 guidance is $11.2\u201312.4B of revenue with GAAP EPS of $(0.32). Intel also agreed to sell 51% of Altera to Silver Lake.",
+      "title": "Cash burned while the new CEO resets the plan"
+    }
+  ],
+  "ticker": "INTC",
+  "verdict": "Intel lost $887 million in the first quarter as flat revenue of $12.7 billion met a thinner 36.9% gross margin, and its chip factories alone lost $2.3 billion while a new CEO moved to cut costs and spending."
+}

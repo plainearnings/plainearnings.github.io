@@ -1,0 +1,165 @@
+{
+  "company": "Shopify",
+  "flow": {
+    "costOfRevenueM": 1460,
+    "equityM": -22,
+    "grossProfitM": 1352,
+    "netIncomeM": 1293,
+    "operatingIncomeM": 465,
+    "opex": [
+      {
+        "amountM": 348,
+        "name": "Sales and marketing",
+        "note": "Selling the platform and winning new merchants. Up 10% YoY."
+      },
+      {
+        "amountM": 351,
+        "name": "Research and development",
+        "note": "Building the platform and new commerce and AI features. Up 13% YoY."
+      },
+      {
+        "amountM": 112,
+        "name": "General and administrative",
+        "note": "The back office \u2014 finance, legal and admin. Up 12% YoY, from $100M a year ago."
+      },
+      {
+        "amountM": 76,
+        "name": "Transaction and loan losses",
+        "note": "Losses on merchant loans and cash advances, and transaction losses. Up 69% YoY as more sales flowed through Shopify Payments."
+      }
+    ],
+    "otherIncomeM": 978,
+    "revenueM": 2812,
+    "taxM": 128
+  },
+  "follow100": [
+    {
+      "amount": 23.69,
+      "label": "Subscription solutions"
+    },
+    {
+      "amount": 76.31,
+      "label": "Merchant solutions"
+    },
+    {
+      "amount": -51.92,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -12.38,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -12.48,
+      "label": "R&D"
+    },
+    {
+      "amount": -3.98,
+      "label": "G&A"
+    },
+    {
+      "amount": -2.7,
+      "label": "Transaction & loan losses"
+    },
+    {
+      "amount": 34.78,
+      "label": "Other income"
+    },
+    {
+      "amount": -0.78,
+      "label": "Loss on equity investment"
+    },
+    {
+      "amount": -4.55,
+      "label": "Tax"
+    },
+    {
+      "amount": 45.98,
+      "label": "Net income"
+    }
+  ],
+  "follow100Note": "Merchant solutions brings in $76.31 of every $100 \u2014 mostly a cut of merchants' sales \u2014 and subscription plans add $23.69. Direct costs take $51.92 and running the business takes another $31.54, leaving $16.54 of operating profit per $100. A $978M paper gain on equity investments added $34.78, and after a $22M equity-method loss and $128M of tax, Shopify kept $45.98 of every $100. Rows may not add exactly due to rounding.",
+  "footerNote": "The earnings release prints a condensed statement (operating income $465M, net other income including taxes of $828M, net income $1,293M); the split of that $828M into other income, the equity-method loss and the tax provision comes from the detailed statement in Shopify's Form 10-K filed the same day, less the nine-month figures in its Q3 2024 interim financial statements, as the release itself directs.",
+  "kpis": [
+    {
+      "label": "Revenue",
+      "note": "+31% YoY",
+      "value": "$2.8B"
+    },
+    {
+      "label": "Net income",
+      "note": "+97% YoY, vs $657M a year ago",
+      "value": "$1.3B"
+    },
+    {
+      "label": "Free cash flow",
+      "note": "22% of revenue",
+      "value": "$611M"
+    },
+    {
+      "label": "GMV",
+      "note": "sales through the platform, +26% YoY",
+      "value": "$94.5B"
+    }
+  ],
+  "oneTimers": [
+    "An $835M after-tax paper gain on equity investments: a $928M unrealized gain on equity and other investments as the value of Shopify's stakes rose. Shopify says net income excluding the impact of equity investments was $458M (non-GAAP), versus $1,293M GAAP net income. The $22M loss on its equity-method investment (Flexport) is separate and already reflected in the GAAP figure."
+  ],
+  "otherDetail": "Other income of $978M in total: a $928M unrealized gain on equity and other investments as the value of Shopify's stakes rose, plus $72M of interest income, partly offset by a $22M foreign-exchange loss. The $22M equity-method loss is the separate equityM line; the rest nets to otherIncomeM of $978M.",
+  "periodEnd": "2024-12-31",
+  "pngFooterNote": "Paper gains on equity stakes lifted net income to $1.3B.",
+  "quarterLabel": "Q4 2024",
+  "quarterSlug": "2024-q4",
+  "reportedDate": "2025-02-11",
+  "revenueYoY": "+31%",
+  "segments": [
+    {
+      "amountM": 666,
+      "name": "Subscription solutions",
+      "note": "The monthly plans merchants pay to run their stores on Shopify. Up 27% YoY; monthly recurring revenue reached $178M.",
+      "yoy": "+27%"
+    },
+    {
+      "amountM": 2146,
+      "name": "Merchant solutions",
+      "note": "Mostly payment processing (Shopify Payments) \u2014 a cut of the sales flowing through merchants' stores \u2014 plus shipping and other merchant services. Up 33% YoY and 76% of all revenue.",
+      "yoy": "+33%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000011/exhibit991pressreleaseq420.htm"
+    },
+    {
+      "label": "Form 10-K \u2014 detailed statements of operations (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000012/shop-20241231.htm"
+    },
+    {
+      "label": "Form 6-K Exhibit 99.1 \u2014 Q3 2024 interim financial statements, nine-month comparatives for the Q4 split (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480524000090/exhibit991financialstateme.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+31%",
+      "statColor": "#3d7bc8",
+      "text": "Revenue rose 31% to $2.81B as GMV grew 26% to $94.5B \u2014 the seventh straight quarter of 25% or greater revenue growth excluding logistics. Merchant solutions led, up 33% to $2.15B, while subscription revenue grew 27% to $666M and monthly recurring revenue reached $178M.",
+      "title": "Growth accelerated into year-end"
+    },
+    {
+      "stat": "$465M",
+      "statColor": "#3e8e5a",
+      "text": "Operating income rose 61% to $465M from $289M a year ago, as gross profit grew 27% to $1.35B while operating expenses rose only 15%. Free cash flow was $611M \u2014 22% of revenue, the highest margin of 2024, with the margin growing sequentially each quarter of the year.",
+      "title": "Operating profit jumped 61%"
+    },
+    {
+      "stat": "$835M",
+      "statColor": "#5b6b7c",
+      "text": "Net income was $1.29B, but $835M of it (after tax) was a paper gain on equity investments \u2014 a $928M unrealized gain as the value of Shopify's stakes rose. Excluding equity investments, net income was $458M, up 36% from $337M a year ago.",
+      "title": "Paper gains did the heavy lifting"
+    }
+  ],
+  "ticker": "SHOP",
+  "verdict": "Shopify's biggest quarter yet: revenue grew 31% to $2.8B and operating income jumped 61% to $465M \u2014 but $835M of the $1.3B net income was a paper gain on equity investments, so the underlying profit was $458M."
+}
