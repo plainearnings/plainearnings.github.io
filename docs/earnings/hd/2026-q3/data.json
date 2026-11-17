@@ -1,0 +1,134 @@
+{
+  "company": "Home Depot",
+  "flow": {
+    "costName": "Cost of sales",
+    "costOfRevenueM": 29178,
+    "costPlain": "What Home Depot paid suppliers for the merchandise it sold, plus the cost of getting it into stores.",
+    "grossProfitM": 14220,
+    "netIncomeM": 3713,
+    "operatingIncomeM": 5479,
+    "opex": [
+      {
+        "amountM": 7892,
+        "name": "Selling, general & administrative",
+        "note": "Store payroll, rent, advertising and running the head office \u2014 up 3.4%, slower than sales.",
+        "shortName": "SG&A"
+      },
+      {
+        "amountM": 849,
+        "name": "Depreciation & amortization",
+        "note": "Spreading the cost of stores, warehouses and equipment over their useful lives \u2014 including $182M of amortization tied to acquired companies like SRS.",
+        "shortName": "Depreciation & amort."
+      }
+    ],
+    "otherIncomeM": -528,
+    "revenueM": 43398,
+    "taxM": 1238
+  },
+  "follow100": [
+    {
+      "amount": 100.0,
+      "label": "Net sales"
+    },
+    {
+      "amount": -67.23,
+      "label": "Cost of sales"
+    },
+    {
+      "amount": -18.18,
+      "label": "SG&A"
+    },
+    {
+      "amount": -1.96,
+      "label": "Depreciation & amortization"
+    },
+    {
+      "amount": -1.22,
+      "label": "Interest & other"
+    },
+    {
+      "amount": -2.85,
+      "label": "Tax"
+    },
+    {
+      "amount": 8.56,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Two-thirds of every $100 goes straight back out as the cost of the merchandise itself \u2014 retail keeps a much thinner slice than software does. Rows may not add exactly due to rounding.",
+  "footerNote": "Nine-month free cash flow was $12,817M. Guidance for fiscal 2026: sales +~4.5%, comparable sales +~1.4%, diluted EPS +~1.5%.",
+  "kpis": [
+    {
+      "label": "Revenue",
+      "note": "+4.9% YoY",
+      "value": "$43.4B"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs $3.62 a year ago",
+      "value": "$3.72"
+    },
+    {
+      "label": "Comparable sales",
+      "note": "ticket +3.0%, transactions \u22120.5%",
+      "value": "+2.2%"
+    },
+    {
+      "label": "Average ticket",
+      "note": "+3.0% YoY",
+      "value": "$93.09"
+    }
+  ],
+  "oneTimers": [
+    "Adjusted results exclude $182M of amortization from acquired intangibles (mostly SRS) \u2014 on that basis EPS was $3.86 instead of the GAAP $3.72. It is a recurring accounting charge, not a one-off.",
+    "No quarterly cash flow: the release's cash-flow statement covers the nine-month period only, so Q3 operating cash flow, capex and free cash flow cannot be stated \u2014 the $12,817M free cash flow is a nine-month figure.",
+    "Acquisitions are in the comparison: SRS locations (1,320+) are now part of the store base, so part of the year-over-year sales growth reflects businesses that weren't in the base a year ago."
+  ],
+  "otherDetail": "Interest and other, net was a $528M cost: $579M of interest expense on Home Depot's debt, partly offset by $51M of interest and other income.",
+  "periodEnd": "2026-11-01",
+  "pngFooterNote": "FY26 guidance: sales +~4.5%, diluted EPS +~1.5%.",
+  "quarterLabel": "Q3 FY26",
+  "quarterSlug": "2026-q3",
+  "reportedDate": "2026-11-17",
+  "revenueYoY": "+4.9%",
+  "segments": [
+    {
+      "amountM": 43398,
+      "name": "Net sales",
+      "note": "Everything sold through 2,372 Home Depot stores and its website, plus the SRS and GMS professional-supply businesses Home Depot has been buying to win more contractor spending.",
+      "yoy": "+4.9%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/hd_exhibit991x11012026.htm"
+    },
+    {
+      "label": "Form 8-K (Item 2.02, SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/hd-20261117.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+2.2%",
+      "statColor": "#3d7bc8",
+      "text": "Comparable sales rose 2.2% with the average ticket up 3.0% while comparable transactions fell 0.5% \u2014 bigger baskets, not more baskets. That's fine while ticket growth holds, but leaves little cushion if big-ticket demand cools.",
+      "title": "Same-store growth is ticket-led, not traffic-led"
+    },
+    {
+      "stat": "\u22120.6 pp",
+      "statColor": "#3e8e5a",
+      "text": "Gross margin fell 0.6 points to 32.8% because cost of sales (+6.0%) outran sales (+4.9%); SG&A actually grew slower than sales. Watch whether supplier costs keep outpacing prices, or whether Home Depot passes them through.",
+      "title": "The margin squeeze is in the goods, not the stores"
+    },
+    {
+      "stat": "+1.5%",
+      "statColor": "#5b6b7c",
+      "text": "Updated guidance implies only about 1.5% diluted EPS growth for fiscal 2026 (2.0% adjusted) \u2014 the year is about holding margin, not a second-half acceleration. Nine-month free cash flow of $12.8B funds the dividend and the ~$2.2B of net interest with room to spare.",
+      "title": "The full-year bar is modest"
+    }
+  ],
+  "ticker": "HD",
+  "verdict": "Home Depot grew sales 4.9% with comparable sales up 2.2%, but the growth came from bigger tickets, not more shoppers \u2014 transactions fell \u2014 and margins slipped as the cost of goods grew faster than sales."
+}

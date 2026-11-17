@@ -1,0 +1,155 @@
+{
+  "company": "Disney",
+  "flow": {
+    "costOfRevenueM": 15754,
+    "grossProfitM": 10193,
+    "netIncomeM": 2855,
+    "operatingIncomeM": 3756,
+    "opex": [
+      {
+        "amountM": 4650,
+        "name": "Selling, general & administrative",
+        "note": "Marketing the movies, shows and parks, and running the company \u2014 up 5% YoY."
+      },
+      {
+        "amountM": 1470,
+        "name": "Depreciation & amortization",
+        "note": "The wear and tear on parks, cruise ships and equipment, spread over their working lives \u2014 up 5% YoY."
+      },
+      {
+        "amountM": 317,
+        "name": "Restructuring & impairment charges",
+        "note": "Write-downs and restructuring \u2014 excluded from adjusted EPS; see the one-time items below."
+      }
+    ],
+    "otherIncomeM": -249,
+    "revenueM": 25947,
+    "taxM": 652
+  },
+  "follow100": [
+    {
+      "amount": 89.76,
+      "label": "Services"
+    },
+    {
+      "amount": 10.24,
+      "label": "Products"
+    },
+    {
+      "amount": -60.72,
+      "label": "Cost of services & products"
+    },
+    {
+      "amount": -17.92,
+      "label": "SG&A"
+    },
+    {
+      "amount": -5.67,
+      "label": "Depreciation & amortization"
+    },
+    {
+      "amount": -1.22,
+      "label": "Restructuring & impairments"
+    },
+    {
+      "amount": -0.96,
+      "label": "Other expense (interest, net)"
+    },
+    {
+      "amount": -2.51,
+      "label": "Tax"
+    },
+    {
+      "amount": 11.0,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "$0.94 of the $11.00 kept belongs to noncontrolling partners \u2014 $10.07 is Disney shareholders'.",
+  "footerNote": "Segment operating income: Entertainment $1,327M, Sports $1,393M, Experiences $2,250M (before corporate costs). Of the $2,855M of net income, $243M belongs to noncontrolling partners; $2,612M is attributable to Disney shareholders.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+16%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs $0.73 a year ago",
+      "value": "$1.51"
+    },
+    {
+      "label": "Adjusted EPS",
+      "note": "+59% YoY, excludes charges",
+      "value": "$1.77"
+    },
+    {
+      "label": "Segment operating income",
+      "note": "+43% YoY",
+      "value": "$4.97B"
+    }
+  ],
+  "oneTimers": [
+    "53rd week (not a charge, but a one-off boost): ~$1.63B revenue / ~$490M segment operating income in Q4; ~$0.17 of full-year adjusted EPS. Every year-over-year growth rate in this release is flattered by it.",
+    "Restructuring and impairment charges were $317M pre-tax ($0.13/share) \u2014 excluded from adjusted EPS, as is acquisition amortization of $337M ($0.13/share). Together they explain the entire $0.26 gap between GAAP EPS ($1.51) and adjusted EPS ($1.77).",
+    "A+E sale (~$1.3B cash, Sep 30, 2026): a portfolio sale, not operating income; it sits in investing cash flow, not in the quarter's earnings.",
+    "Fubo and NFL Transactions: both closed during fiscal 2026 and are now inside the consolidated results \u2014 they add revenue and operating income, but also minority-interest deductions and inter-segment eliminations, so the \"growth\" they contribute isn't clean organic growth. The release attributes ~2 ppts of revenue growth and ~1 ppt of segment operating income growth to them.",
+    "Fiscal 2025 tax benefit: the full-year GAAP EPS decline (\u221218%) is an artifact of a $1,428M income-tax benefit booked in fiscal 2025, not of weaker fiscal 2026 operations \u2014 pre-tax income actually rose 18% for the year."
+  ],
+  "otherDetail": "Other expense of $249M, net \u2014 $344M of net interest expense on Disney's debt, partly offset by $95M of equity income from companies Disney part-owns.",
+  "periodEnd": "2026-10-03",
+  "pngFooterNote": "53rd week added ~$1.63B revenue; won't repeat.",
+  "quarterLabel": "Q4 FY26",
+  "quarterSlug": "2026-q4",
+  "reportedDate": "2026-11-17",
+  "revenueYoY": "+16%",
+  "segments": [
+    {
+      "amountM": 23289,
+      "name": "Services",
+      "note": "Streaming subscriptions, TV network fees, park admissions, hotel rooms and cruises \u2014 the recurring heart of Disney.",
+      "yoy": "+16%"
+    },
+    {
+      "amountM": 2658,
+      "name": "Products",
+      "note": "Merchandise, food and drinks sold at the parks, resorts and stores.",
+      "yoy": "+11%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065/fy2026_q4xerxex991.htm"
+    },
+    {
+      "label": "Form 8-K (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065/dis-20261117.htm"
+    },
+    {
+      "label": "Annual report 10-K \u2014 cost detail (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000066/dis-20261003.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "~$1.63B",
+      "statColor": "#3d7bc8",
+      "text": "Revenue +16%, segment operating income +43% and adjusted EPS +59% all beat guidance. But the 53rd week supplied ~$1.63B of revenue and ~$490M of operating income; without it, growth is still solid (segment operating income ~+10% for the year) but not spectacular. The Q4 FY27 comparison will lap that extra week.",
+      "title": "A genuinely strong quarter \u2014 with a calendar asterisk"
+    },
+    {
+      "stat": "+92%",
+      "statColor": "#3e8e5a",
+      "text": "Entertainment SVOD operating income more than doubled to $824M, and the segment nearly doubled overall \u2014 the streaming turnaround is real. Even so, Experiences produced $2.25B of the $4.97B segment profit, with domestic parks operating income up 36% on record guest numbers and two new cruise ships filling up.",
+      "title": "Streaming finally pays, parks still rule"
+    },
+    {
+      "stat": "$243M",
+      "statColor": "#5b6b7c",
+      "text": "The NFL deal (10% of ESPN to the NFL) and the Fubo combination (Hulu Live TV merged in, ~70% owned) both boosted revenue this quarter \u2014 and both show up as bigger noncontrolling-interest deductions ($243M, nearly double last year) and bigger eliminations. The A+E sale brought in ~$1.3B of cash. FY27 guidance is confident (double-digit adjusted EPS, ~$11B free cash flow, ~$9B buybacks), but Q1 segment operating income is guided to ~$5.4B with growth weighted to the first half.",
+      "title": "The portfolio keeps getting more complicated"
+    }
+  ],
+  "ticker": "DIS",
+  "verdict": "Disney ended fiscal 2026 with a blowout fourth quarter \u2014 revenue up 16% and adjusted EPS up 59% \u2014 but roughly a third of the operating-profit growth came from a 53rd week that won't repeat, and the parks, not streaming, still deliver most of the profit."
+}

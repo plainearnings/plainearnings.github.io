@@ -1,0 +1,145 @@
+{
+  "company": "Arm Holdings",
+  "flow": {
+    "costOfRevenueM": 41,
+    "costPlain": "The direct cost of delivering Arm's designs and support \u2014 tiny next to revenue, which is why gross margin is 95.6%. It includes $6M of share-based pay and $7M of related employer taxes, net of R&D tax incentives.",
+    "equityM": -7,
+    "grossProfitM": 887,
+    "netIncomeM": 224,
+    "operatingIncomeM": 22,
+    "opex": [
+      {
+        "amountM": 584,
+        "name": "Research and development",
+        "note": "Designing new processors and platform technology; the GAAP figure includes $127M of share-based pay (paying staff in shares), $118M of related employer taxes net of R&D tax incentives, and $13M of a one-time employee benefit from settling the 2019 All Employee Plan. Engineering headcount rose 24% year over year."
+      },
+      {
+        "amountM": 281,
+        "name": "Selling, general and administrative",
+        "note": "Selling and running the company; the GAAP figure includes $53M of share-based pay and $38M of related employer taxes, plus $5M of the one-time 2019 All Employee Plan settlement benefit. Non-GAAP SG&A fell 26% year over year as share-based pay shifted from liability-settled to equity-settled and legal costs came in lower."
+      }
+    ],
+    "otherIncomeM": 43,
+    "revenueM": 928,
+    "taxM": -166
+  },
+  "follow100": [
+    {
+      "amount": 44.61,
+      "label": "License and other revenue"
+    },
+    {
+      "amount": 55.39,
+      "label": "Royalty revenue"
+    },
+    {
+      "amount": -4.42,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -62.93,
+      "label": "R&D"
+    },
+    {
+      "amount": -30.28,
+      "label": "SG&A"
+    },
+    {
+      "amount": 4.63,
+      "label": "Other income"
+    },
+    {
+      "amount": -0.75,
+      "label": "Loss on equity investments"
+    },
+    {
+      "amount": 17.89,
+      "label": "Tax benefit"
+    },
+    {
+      "amount": 24.14,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "License ($44.61) and royalty ($55.39) revenue make up the $100. Direct costs took $4.42; R&D took $62.93 and SG&A $30.28 \u2014 together more than the gross profit, leaving just $2.37 before other items. Interest and other gains added $4.63, equity investments lost $0.75, and a $166M tax benefit added $17.89. Rows may not add exactly due to rounding.",
+  "footerNote": "Arm beat its own Q4 guidance ($850\u2013900M revenue); full-year FY24 revenue was $3,233M, up 21% year over year.",
+  "kpis": [
+    {
+      "label": "Revenue",
+      "note": "+47% YoY \u2014 a record, above guidance ($850\u2013900M)",
+      "value": "$928M"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "diluted, vs $0.00 a year ago; non-GAAP $0.36",
+      "value": "$0.21"
+    },
+    {
+      "label": "Royalty revenue",
+      "note": "+37% YoY \u2014 a record, on wider Armv9 adoption",
+      "value": "$514M"
+    },
+    {
+      "label": "Remaining performance obligations",
+      "note": "+45% YoY; ACV $1,182M, +15% YoY",
+      "value": "$2,484M"
+    }
+  ],
+  "oneTimers": [
+    "Arm recorded a $166M windfall tax benefit tied to share-based pay: without it, net income would have been $58M instead of $224M. Excluding it (and share-based pay), non-GAAP net income was $376M.",
+    "Operating expenses include an $18M one-time employee benefit from settling the Arm Limited All Employee Plan 2019 ($13M in R&D, $5M in SG&A)."
+  ],
+  "otherDetail": "Other items added $36M: $30M of net interest income and a $13M other non-operating gain, partly offset by a $7M loss from equity investments. Tax was a $166M benefit \u2014 a windfall tied to share-based pay \u2014 so it added to profit instead of taking from it.",
+  "periodEnd": "2024-03-31",
+  "pngFooterNote": "Record revenue; a $166M tax benefit powered the profit.",
+  "quarterLabel": "Q4 FY24",
+  "quarterSlug": "2024-q4",
+  "reportedDate": "2024-05-08",
+  "revenueYoY": "+47%",
+  "segments": [
+    {
+      "amountM": 414,
+      "name": "License and other revenue",
+      "note": "Fees for licensing Arm chip designs, plus support and related services; up 60% YoY on multiple high-value long-term license agreements as companies invest in Arm-based technology for AI across all end markets, plus revenue from agreements signed in earlier quarters.",
+      "yoy": "+60%"
+    },
+    {
+      "amountM": 514,
+      "name": "Royalty revenue",
+      "note": "A cut of every chip shipped with Arm technology inside; up 37% YoY to a record as Armv9 chips \u2014 which command higher royalty rates \u2014 spread wider, with strong growth in smartphones (AI-enabled Armv9 handsets), custom chips from cloud hyperscalers, and automotive (driver assistance and digital cockpits). IoT/embedded dipped slightly on semiconductor weakness.",
+      "yoy": "+37%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Results announcement, Form 6-K Exhibit 99.1 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973239/000197323924000007/exhibit991fye24q431-marx24.htm"
+    },
+    {
+      "label": "Shareholder letter, Form 6-K Exhibit 99.2 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973239/000197323924000007/exhibit992fye24q431-marx24.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "$928M",
+      "statColor": "#3e8e5a",
+      "text": "Revenue rose 47% to a record $928M, above guidance ($850\u2013900M), on record royalty revenue of $514M (+37%) and license revenue of $414M (+60%) from multiple high-value long-term deals. The pipeline looks strong too: remaining performance obligations were $2,484M (+45% YoY) and annualized contract value $1,182M (+15% YoY). Arm guided Q1 FY25 revenue of $875\u2013925M and full-year FY25 revenue of $3,800\u20134,100M.",
+      "title": "Record revenue, above guidance"
+    },
+    {
+      "stat": "+37%",
+      "statColor": "#3d7bc8",
+      "text": "Royalty revenue hit a record $514M as Armv9 chips, which carry higher royalty rates, spread into more markets: smartphone royalties grew strongly on AI-enabled Armv9 handsets, cloud hyperscalers' custom Arm-based chips gained share, and automotive royalties grew on driver-assistance and digital-cockpit chips. IoT/embedded dipped slightly on semiconductor weakness. Customers reported shipping 7.0 billion Arm-based chips in the December quarter, taking the cumulative total to 287.4 billion.",
+      "title": "Armv9 is lifting what Arm earns per chip"
+    },
+    {
+      "stat": "$22M",
+      "statColor": "#5b6b7c",
+      "text": "GAAP operating profit was just $22M (a 2.4% margin) after $865M of operating expenses, swollen by $186M of share-based pay and $156M of related employer taxes as engineering headcount grew 24%. Non-GAAP operating profit was $391M, a 42.1% margin. Net income of $224M (vs $3M a year ago) was powered by a $166M windfall tax benefit tied to share-based pay \u2014 without it, profit would have been $58M. Free cash flow was $637M, and $907M over the trailing twelve months (+50% YoY).",
+      "title": "Thin operating profit \u2014 the tax benefit did the heavy lifting"
+    }
+  ],
+  "ticker": "ARM",
+  "verdict": "Arm's revenue jumped 47% to a record $928M on record royalty revenue of $514M, and net income surged to $224M from $3M a year ago \u2014 though most of the profit came from a $166M tax benefit, not from operations."
+}
