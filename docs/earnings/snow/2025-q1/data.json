@@ -1,0 +1,154 @@
+{
+  "company": "Snowflake",
+  "flow": {
+    "costOfRevenueM": 272.517,
+    "costPlain": "Running Snowflake's platform \u2014 data centers and the cost of delivering its product and services.",
+    "grossProfitM": 556.192,
+    "netIncomeM": -317.816,
+    "operatingIncomeM": -348.572,
+    "opex": [
+      {
+        "amountM": 400.822,
+        "name": "Sales and marketing",
+        "note": "Sales teams and marketing. Up 21% YoY \u2014 growing, but slower than revenue."
+      },
+      {
+        "amountM": 410.794,
+        "name": "Research and development",
+        "note": "Building the platform and its AI products. Up 48% YoY \u2014 the fastest-growing cost line."
+      },
+      {
+        "amountM": 93.148,
+        "name": "General and administrative",
+        "note": "The back office \u2014 finance, legal and admin. Up 19% YoY."
+      }
+    ],
+    "otherIncomeM": 33.477,
+    "revenueM": 828.709,
+    "taxM": 2.721
+  },
+  "follow100": [
+    {
+      "amount": 95.28,
+      "label": "Product"
+    },
+    {
+      "amount": 4.72,
+      "label": "Professional services and other"
+    },
+    {
+      "amount": -32.88,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -48.37,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -49.57,
+      "label": "R&D"
+    },
+    {
+      "amount": -11.24,
+      "label": "G&A"
+    },
+    {
+      "amount": 4.04,
+      "label": "Other income"
+    },
+    {
+      "amount": -0.33,
+      "label": "Tax"
+    },
+    {
+      "amount": -38.35,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Snowflake spent $142.06 of every $100 it took in on direct and running costs \u2014 more than it earned \u2014 while other income added $4.04 and tax cost $0.33, leaving a $38.35 loss per $100. Rows may not add exactly due to rounding.",
+  "footerNote": "Snowflake reports in thousands (revenue was $828,709K); figures here are shown in $M to three decimals so the lines foot exactly. Excluding stock-based pay and other non-GAAP items, operating income was $36.2M (a 4% margin). Chart note: Snowflake's running costs exceeded its gross profit by $348.6M, other income covered $33.5M of that and tax cost $2.7M, so the chart draws the remaining $317.8M net loss as a 'Covered by cash on hand' source.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+33%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs -$0.70 a year ago",
+      "value": "-$0.95"
+    },
+    {
+      "label": "Product revenue",
+      "note": "+34% YoY, 95% of revenue",
+      "value": "$789.6M"
+    },
+    {
+      "label": "Remaining performance obligations",
+      "note": "contracted future revenue, +46% YoY",
+      "value": "$5.0B"
+    }
+  ],
+  "oneTimers": [
+    "$360.4M of stock-based compensation-related charges (including about $21.9M of employer payroll taxes on employee stock transactions), excluded from non-GAAP results.",
+    "$23.4M of amortization of acquired intangibles, also excluded from non-GAAP results.",
+    "$1.0M of expenses associated with acquisitions and strategic investments, also excluded from non-GAAP results."
+  ],
+  "otherDetail": "Other income of $33.5M, net: $54.8M of interest income on Snowflake's cash and investments, less $21.3M of other expense, net. Income tax was a $2.7M provision. Net loss attributable to Snowflake Inc. was $317.0M (EPS -$0.95), after $0.8M of loss attributable to noncontrolling interests.",
+  "periodEnd": "2024-04-30",
+  "pngFooterNote": "Non-GAAP operating income was $36.2M (4% margin).",
+  "quarterLabel": "Q1 FY25",
+  "quarterSlug": "2025-q1",
+  "reportedDate": "2024-05-22",
+  "revenueYoY": "+33%",
+  "segments": [
+    {
+      "amountM": 789.587,
+      "name": "Product",
+      "note": "Customers pay to store data and run computing and AI workloads on Snowflake's platform, billed by how much they use. Up 34% YoY and 95% of all revenue; product gross profit was $569.9M, a 72% margin.",
+      "yoy": "+34%"
+    },
+    {
+      "amountM": 39.122,
+      "name": "Professional services and other",
+      "note": "Help getting set up and moving data onto Snowflake, plus other small items. Up 17% YoY \u2014 but it costs more to deliver than it brings in (a $13.7M gross loss).",
+      "yoy": "+17%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014724000122/fy2025q1earnings.htm"
+    },
+    {
+      "label": "8-K filing (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014724000122/snow-20240522.htm"
+    },
+    {
+      "label": "10-Q for the quarter ended April 30, 2024 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014724000135/snow-20240430.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+34%",
+      "statColor": "#3d7bc8",
+      "text": "Product revenue rose 34% to $789.6M, the net revenue retention rate was 128%, and remaining performance obligations \u2014 work customers have already contracted \u2014 grew 46% to $5.0B. Snowflake guided Q2 FY25 product revenue to $805\u2013$810M, up 26\u201327%, at a 3% non-GAAP operating margin.",
+      "title": "Product growth stayed strong"
+    },
+    {
+      "stat": "-$348.6M",
+      "statColor": "#5b6b7c",
+      "text": "The GAAP operating loss was $348.6M, wider than the $273.2M loss a year ago. The main reason: $360.4M of stock-based compensation-related charges, including about $21.9M of employer payroll taxes on employee stock transactions. Leaving those and similar items out, non-GAAP operating income was $36.2M, a 4% margin (down from 5% a year ago).",
+      "title": "Still a GAAP loss, mostly stock pay"
+    },
+    {
+      "stat": "485",
+      "statColor": "#3e8e5a",
+      "text": "Snowflake ended the quarter with 485 customers spending over $1M a year on the platform (+30% YoY) and 709 Forbes Global 2000 customers (+8% YoY). Operating cash flow was $355.5M and adjusted free cash flow was $365.7M.",
+      "title": "Big customers kept spending"
+    }
+  ],
+  "ticker": "SNOW",
+  "verdict": "Snowflake's revenue grew 33% to $828.7M, with product revenue up 34% to $789.6M \u2014 but $360.4M of stock-based pay helped leave a GAAP operating loss of $348.6M and a net loss of $317.8M."
+}

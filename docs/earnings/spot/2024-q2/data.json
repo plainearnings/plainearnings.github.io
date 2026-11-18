@@ -1,0 +1,154 @@
+{
+  "company": "Spotify",
+  "flow": {
+    "costOfRevenueM": 2884.9975,
+    "grossProfitM": 1190.396,
+    "netIncomeM": 293.317,
+    "operatingIncomeM": 284.753,
+    "opex": [
+      {
+        "amountM": 405.7195,
+        "name": "Research & development",
+        "note": "Building the app, recommendation systems and new formats like AI Playlist \u2014 down 16% YoY on lower personnel costs."
+      },
+      {
+        "amountM": 367.1815,
+        "name": "Sales & marketing",
+        "note": "Winning listeners and advertisers \u2014 down 14% YoY on lower marketing spend and personnel costs."
+      },
+      {
+        "amountM": 132.742,
+        "name": "General & administrative",
+        "note": "Running the company day to day \u2014 down 23% YoY."
+      }
+    ],
+    "otherIncomeM": 4.282,
+    "revenueM": 4075.3935,
+    "taxM": -4.282
+  },
+  "follow100": [
+    {
+      "amount": 88.02,
+      "label": "Premium"
+    },
+    {
+      "amount": 11.98,
+      "label": "Ad-Supported"
+    },
+    {
+      "amount": -70.79,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -9.96,
+      "label": "R&D"
+    },
+    {
+      "amount": -9.01,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -3.26,
+      "label": "G&A"
+    },
+    {
+      "amount": 0.11,
+      "label": "Other (finance, net)"
+    },
+    {
+      "amount": 0.11,
+      "label": "Tax"
+    },
+    {
+      "amount": 7.2,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Of every $100 of revenue, $88.02 came from Premium and $11.98 from ads. Direct costs took $70.79 and running costs $22.23, finance items added $0.11 and tax was a $0.11 benefit, leaving $7.20 kept as profit. Rows may not add exactly due to rounding.",
+  "footerNote": "Spotify reports in euros under IFRS. Dollar figures are converted at \u20ac1 = $1.0705 (ECB euro reference rate at Jun 28, 2024). As reported: revenue \u20ac3,807M \u00b7 gross profit \u20ac1,112M \u00b7 operating income \u20ac266M \u00b7 net income \u20ac274M.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago (+21% constant currency)",
+      "value": "+20%"
+    },
+    {
+      "label": "EPS (IFRS, diluted)",
+      "note": "vs -\u20ac1.55 a year ago",
+      "value": "\u20ac1.33"
+    },
+    {
+      "label": "Premium subscribers",
+      "note": "+12% YoY",
+      "value": "246M"
+    },
+    {
+      "label": "Free cash flow",
+      "note": "record high; \u20ac1.3B over the last 12 months",
+      "value": "\u20ac490M"
+    }
+  ],
+  "oneTimers": [
+    "Operating expenses included \u20ac59M of 'social charges' \u2014 Swedish payroll taxes on share-based pay that swing with Spotify's share price \u2014 versus \u20ac25M a year ago, and the charges came in \u20ac46M above forecast as the share price rose; \u20ac58M of the \u20ac59M sat in operating expenses.",
+    "Finance costs of \u20ac72M included a \u20ac43M fair-value loss on the Exchangeable Notes as the share price rose, plus an \u20ac18M loss on derivative liabilities \u2014 largely offset by \u20ac52M of interest income and \u20ac18M of dividend income, leaving finance items at a net +\u20ac4M.",
+    "The quarter carried a \u20ac14M impairment charge on real estate assets, part of the efficiency actions started in late 2023.",
+    "The quarter carried a \u20ac4M income tax benefit on \u20ac270M of pre-tax income \u2014 a -1.6% effective tax rate \u2014 driven by recognizing deferred tax assets on the unrealized gain in Spotify's Tencent Music investment, versus a \u20ac61M tax expense a year ago."
+  ],
+  "otherDetail": "Finance items netted +\u20ac4M \u2014 \u20ac76M of finance income, mostly \u20ac52M of interest income on the growing cash pile plus \u20ac18M of dividend income, against \u20ac72M of finance costs, including a \u20ac43M fair-value loss on the Exchangeable Notes and \u20ac18M on derivative liabilities. A year ago finance items netted +\u20ac6M.",
+  "periodEnd": "2024-06-30",
+  "pngFooterNote": "Converted from euros at \u20ac1 = $1.0705.",
+  "quarterLabel": "Q2 2024",
+  "quarterSlug": "2024-q2",
+  "reportedDate": "2024-07-23",
+  "revenueYoY": "+20%",
+  "segments": [
+    {
+      "amountM": 3587.2455,
+      "name": "Premium",
+      "note": "Subscriptions \u2014 246 million people paying monthly, up 12% YoY; revenue per user (ARPU) \u20ac4.62, up 8% (+10% in constant currency) as price rises outweighed product mix; gross margin 31.4%.",
+      "yoy": "+21%"
+    },
+    {
+      "amountM": 488.148,
+      "name": "Ad-Supported",
+      "note": "The free tier's advertising business \u2014 revenue grew 13% (12% in constant currency) on double-digit growth across all regions; its gross margin rose to 13.4% as music and podcast costs improved.",
+      "yoy": "+13%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official Q2 2024 shareholder letter (SEC EDGAR 6-K Exhibit 99.1)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1639920/000114036124033792/ef20032688_ex99-1.htm"
+    },
+    {
+      "label": "Form 6-K furnishing the Q2 2024 Update (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1639920/000114036124033792/ef20032688_6k.htm"
+    },
+    {
+      "label": "Interim condensed consolidated financial statements (Form 6-K, Jul 24, 2024)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1639920/000163992024000009/spot-20240630x6xk.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "29.2%",
+      "statColor": "#3e8e5a",
+      "text": "Gross margin hit a record 29.2%, up 510 bps YoY, on better music and podcast profitability and lower other costs of revenue. Premium gross margin reached 31.4% and Ad-Supported gross margin rose to 13.4%. Operating income hit a record \u20ac266M, a 7.0% margin, versus a \u20ac247M loss a year ago \u2014 Spotify's second straight profitable quarter.",
+      "title": "Record profitability"
+    },
+    {
+      "stat": "626M",
+      "statColor": "#3d7bc8",
+      "text": "Monthly active users grew 14% to 626 million \u2014 11 million net additions in the quarter, though 5 million below guidance as marketing was recalibrated \u2014 with growth across all regions, led by Rest of World and Europe. Premium subscribers rose 12% to 246 million, 1 million above guidance, and ad-supported users grew 15% to 393 million.",
+      "title": "Users kept growing"
+    },
+    {
+      "stat": "\u20ac490M",
+      "statColor": "#3d7bc8",
+      "text": "Free cash flow hit a record \u20ac490M, bringing trailing-12-month free cash flow to \u20ac1.3B and the cash pile to \u20ac5.4B. Net income swung to \u20ac274M from a \u20ac302M loss a year ago. Guidance for Q3 2024: 639M users, 251M subscribers, \u20ac4.0B revenue, 30.2% gross margin and \u20ac405M operating income.",
+      "title": "Cash piled up"
+    }
+  ],
+  "ticker": "SPOT",
+  "verdict": "Spotify grew revenue 20% to \u20ac3.81B (about $4.1B) and posted a record quarter \u2014 gross margin of 29.2% and operating income of \u20ac266M, both records \u2014 as 626 million monthly users and 246 million paying subscribers each grew double digits, swinging net income to \u20ac274M from a \u20ac302M loss a year ago."
+}
