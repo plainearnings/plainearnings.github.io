@@ -38,6 +38,43 @@
       "whatItDoes": "Anthropic builds Claude, a family of AI models used by businesses, developers and everyday users for writing, coding and analysis. It sells access to its models and subscriptions, and counts Google and Amazon among its biggest backers."
     },
     {
+      "dealSize": "~$250M (Renaissance Capital estimate)",
+      "exchange": "NYSE",
+      "expectedDate": null,
+      "expectedNote": "Filed — waiting for a listing date; all shares come from existing stockholders, so the company itself receives no proceeds",
+      "filedDate": "2026-11-16",
+      "name": "Core Specialty Insurance Holdings, Inc.",
+      "priceRange": null,
+      "sector": "Insurance — specialty",
+      "sharesOffered": null,
+      "slug": "core-specialty-insurance",
+      "sources": [
+        {
+          "label": "Renaissance Capital — Core Specialty files for an estimated $250M IPO",
+          "url": "https://www.renaissancecapital.com/IPO-Center/News/122747/core-specialty-insurance-files-for-an-estimated-250-million-ipo"
+        },
+        {
+          "label": "StockAnalysis IPO filings — CORE filed Nov 16, 2026",
+          "url": "https://stockanalysis.com/ipos/filings/"
+        },
+        {
+          "label": "Core Specialty — press release on the S-1 filing (GlobeNewswire)",
+          "url": "https://markets.financialcontent.com/sandiego/article/gnwcq-2026-11-16-core-specialty-announces-public-filing-of-registration-statement-for-proposed-initial-public-offering"
+        }
+      ],
+      "status": "filed",
+      "story": "Founded in 2020 in Cincinnati, Core Specialty grew fast by buying and building specialty insurance businesses — gross premiums written rose from $457M in 2020 to $4.57B in 2025. It filed its S-1 on Nov 16, 2026; unusually, all the shares on offer come from existing stockholders, so the company itself receives no money from the IPO. J.P. Morgan and Goldman Sachs are leading the deal.",
+      "ticker": "CORE",
+      "valuation": null,
+      "watchNotes": [
+        "A rare all-secondary offering: existing owners are selling, the company gets no proceeds",
+        "Profitable and growing: $84.9M net income in the first nine months of 2026, with a 93.0% combined ratio",
+        "Gross premiums of $4.57B in 2025 make this one of the larger insurer IPOs in the pipeline",
+        "No price range or share count yet — terms come once the SEC review advances"
+      ],
+      "whatItDoes": "Core Specialty is a US specialty insurer — it covers property and casualty risks that standard insurers often won't touch, selling through brokers and specialist underwriting teams rather than directly to the public."
+    },
+    {
       "dealSize": "~$6B (Renaissance Capital estimate)",
       "exchange": "NYSE",
       "expectedDate": null,
@@ -407,5 +444,5 @@
     }
   ],
   "note": "Curated upcoming US IPOs for Plain Earnings: companies with a scheduled listing date, plus notable companies that have publicly filed and are waiting for a date. After a company lists, its status becomes 'listed' (with listedDate and finalPrice) and it stays on the page for 10 days before being removed. Terms come from SEC filings as summarised by StockAnalysis and press reports; dates and terms can change. Maintained alongside company-list.md.",
-  "updated": "2026-11-15"
+  "updated": "2026-11-18"
 }
