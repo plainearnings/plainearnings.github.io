@@ -1,17 +1,21 @@
 {
   "ipos": [
     {
-      "dealSize": "~$61B (up to $64.4B at the top of the range)",
+      "dealSize": "~$81.3B public offering (plus a $26B private placement — $107.3B combined)",
       "exchange": "Nasdaq",
       "expectedDate": "2026-11-19",
-      "expectedNote": "Pricing expected Wed Nov 18, first trades Thu Nov 19, 2026 (press reports — the filing itself sets no date)",
+      "expectedNote": "Started trading Thu, Nov 19, 2026 on Nasdaq",
       "filedDate": "2026-10-26",
       "name": "Anthropic, PBC",
       "priceRange": "$70–$78",
       "sector": "Artificial intelligence",
-      "sharesOffered": "825M",
+      "sharesOffered": "980M",
       "slug": "anthropic",
       "sources": [
+        {
+          "label": "Anthropic — Form 424B4 final prospectus (SEC EDGAR)",
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm"
+        },
         {
           "label": "StockAnalysis IPO calendar — ANT terms",
           "url": "https://stockanalysis.com/ipos/calendar/"
@@ -25,17 +29,19 @@
           "url": "https://lzzo.com/ipo-calendar"
         }
       ],
-      "status": "scheduled",
-      "story": "Founded in 2021 in San Francisco by former OpenAI researchers and led by CEO Dario Amodei, Anthropic is set up as a public benefit corporation. It reported revenue of about $33B in the first nine months of 2026, up from $2.5B a year earlier. This is set to be the second-largest IPO in history, after SpaceX in June 2026.",
+      "status": "listed",
+      "story": "Founded in 2021 in San Francisco by former OpenAI researchers and led by CEO Dario Amodei, Anthropic is set up as a public benefit corporation. It reported revenue of about $33B in the first nine months of 2026, up from $2.5B a year earlier. It priced its IPO at $83 a share on Nov 18, 2026 — above the $70–$78 range — upsized the deal to 980M shares, and began trading on Nasdaq on Nov 19. At $81.3B raised, it is the largest IPO ever by proceeds.",
       "ticker": "ANT",
-      "valuation": "~$968B at the range; up to ~$1.4T fully diluted",
+      "valuation": "~$1.5T fully diluted (press reports)",
       "watchNotes": [
-        "Second-largest IPO ever, behind only SpaceX (June 2026)",
+        "Priced at $83 on Nov 18, above the $70–$78 range, and upsized from 825M to 980M shares — the largest IPO ever by proceeds",
         "Reported about 6× oversubscribed (Bloomberg), with an unusually large ~20% of the deal aimed at retail investors",
         "Seven of its suppliers — Google, Nvidia, AMD, Broadcom, Micron, Microsoft and TSMC — agreed to buy $26B of stock alongside the IPO",
         "Amazon will hold over 5% of the company after the offering"
       ],
-      "whatItDoes": "Anthropic builds Claude, a family of AI models used by businesses, developers and everyday users for writing, coding and analysis. It sells access to its models and subscriptions, and counts Google and Amazon among its biggest backers."
+      "whatItDoes": "Anthropic builds Claude, a family of AI models used by businesses, developers and everyday users for writing, coding and analysis. It sells access to its models and subscriptions, and counts Google and Amazon among its biggest backers.",
+      "listedDate": "2026-11-19",
+      "finalPrice": "$83.00"
     },
     {
       "dealSize": "~$250M (Renaissance Capital estimate)",
@@ -444,5 +450,5 @@
     }
   ],
   "note": "Curated upcoming US IPOs for Plain Earnings: companies with a scheduled listing date, plus notable companies that have publicly filed and are waiting for a date. After a company lists, its status becomes 'listed' (with listedDate and finalPrice) and it stays on the page for 10 days before being removed. Terms come from SEC filings as summarised by StockAnalysis and press reports; dates and terms can change. Maintained alongside company-list.md.",
-  "updated": "2026-11-18"
+  "updated": "2026-11-19"
 }
