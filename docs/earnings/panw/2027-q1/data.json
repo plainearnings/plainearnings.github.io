@@ -1,0 +1,152 @@
+{
+  "company": "Palo Alto Networks",
+  "flow": {
+    "costOfRevenueM": 1103,
+    "grossProfitM": 2342,
+    "netIncomeM": 482,
+    "operatingIncomeM": 96,
+    "opex": [
+      {
+        "amountM": 798,
+        "name": "Research & development",
+        "note": "Building the security platforms \u2014 engineers, up 51% as the CyberArk teams joined."
+      },
+      {
+        "amountM": 1167,
+        "name": "Sales & marketing",
+        "note": "Selling security platforms to enterprises \u2014 the largest running cost, a third of revenue."
+      },
+      {
+        "amountM": 281,
+        "name": "General & administrative",
+        "note": "Running the company day to day \u2014 head office, legal, finance."
+      }
+    ],
+    "otherIncomeM": -71,
+    "revenueM": 3445,
+    "taxM": -457
+  },
+  "follow100": [
+    {
+      "amount": 82.73,
+      "label": "Subscription & support"
+    },
+    {
+      "amount": 17.27,
+      "label": "Product"
+    },
+    {
+      "amount": -32.02,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -23.16,
+      "label": "R&D"
+    },
+    {
+      "amount": -33.87,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -8.16,
+      "label": "G&A"
+    },
+    {
+      "amount": -2.06,
+      "label": "Other expense"
+    },
+    {
+      "amount": 13.27,
+      "label": "Tax benefit"
+    },
+    {
+      "amount": 13.99,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Rows add up with a small rounding difference: on rounded rows the tax benefit pushes kept profit to $14.00 per $100, vs $13.99 exact.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+39%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs $1.05 non-GAAP",
+      "value": "$0.57"
+    },
+    {
+      "label": "Next-Gen Security ARR",
+      "note": "+66% YoY",
+      "value": "$9.73B"
+    },
+    {
+      "label": "Adj. free cash flow",
+      "note": "56.2% of revenue",
+      "value": "$1.9B"
+    }
+  ],
+  "oneTimers": [
+    "A one-time $457M tax benefit \u2014 a change in tax position on a historical transaction from the Tax Cuts and Jobs Act transition period \u2014 turned $25M of pre-tax income into $482M of net income. Non-GAAP results exclude it through a $705M income-tax adjustment.",
+    "A $141M fair-value loss on convertible senior notes and capped calls acquired from CyberArk sits inside other expense; it is excluded from non-GAAP results and will swing with the share price.",
+    "Share-based compensation of $622M and amortization of acquired intangibles of $282M (vs $39M a year ago) are excluded from non-GAAP operating income \u2014 but stock pay dilutes shareholders, and the amortization will recur for years.",
+    "On the same day, Palo Alto signed a definitive agreement to acquire Applied Compute for $4.5B in Palo Alto stock (per the 10-Q; no price was in the earnings release). It is not in this quarter's numbers."
+  ],
+  "otherDetail": "Other expense of $71M, net \u2014 a $141M fair-value loss on convertible senior notes and capped calls acquired from CyberArk, partly offset by interest income on cash and investments.",
+  "periodEnd": "2026-10-31",
+  "quarterLabel": "Q1 FY27",
+  "quarterSlug": "2027-q1",
+  "reportedDate": "2026-11-18",
+  "revenueYoY": "+39%",
+  "segments": [
+    {
+      "amountM": 2850,
+      "name": "Subscription & support",
+      "note": "Security software subscriptions and support contracts \u2014 the recurring core, 83% of revenue; Next-Gen Security ARR grew 66% to $9.73B.",
+      "yoy": "+40%"
+    },
+    {
+      "amountM": 595,
+      "name": "Product",
+      "note": "Firewall hardware and appliances shipped to customers.",
+      "yoy": "+37%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex991q127earningsrelease.htm"
+    },
+    {
+      "label": "Form 8-K (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/panw-20261117.htm"
+    },
+    {
+      "label": "Form 10-Q (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000033/panw-20261031.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+39%",
+      "statColor": "#3d7bc8",
+      "text": "Revenue grew 39% to $3.44B, Next-Gen Security ARR 66% to $9.73B, and remaining performance obligations 35% to $21.0B \u2014 and management raised full-year guidance materially. But GAAP operating profit fell 69%, and the tax line, not the business, produced the net-income growth.",
+      "title": "Record growth, messy profit"
+    },
+    {
+      "stat": "$282M",
+      "statColor": "#b8443c",
+      "text": "Amortization of acquired intangibles jumped 7\u00d7 to $282M, a $141M fair-value loss on CyberArk's convertible notes hit other income, and $95M of acquisition payments went out in cash. The test is whether CyberArk's identity-security revenue grows fast enough to justify the charges.",
+      "title": "CyberArk is now the story"
+    },
+    {
+      "stat": "$1.9B",
+      "statColor": "#3e8e5a",
+      "text": "Adjusted free cash flow of $1.94B is 56% of revenue \u2014 even in a seasonally slow Q1, the subscription model throws off cash that funds the acquisition strategy without raising money.",
+      "title": "Cash generation is the quiet strength"
+    }
+  ],
+  "ticker": "PANW",
+  "verdict": "Palo Alto Networks grew revenue 39% to a record $3.44B and raised full-year guidance sharply, but GAAP operating profit fell 69% to $96M as the CyberArk acquisition flooded the income statement with amortization and stock compensation \u2014 and a one-time $457M tax benefit is what turned $25M of pre-tax profit into $482M of net income."
+}

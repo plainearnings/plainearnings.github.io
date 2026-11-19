@@ -1,0 +1,160 @@
+{
+  "company": "Walmart",
+  "flow": {
+    "costOfRevenueM": 141003,
+    "equityM": -150,
+    "grossNote": "25.3% margin",
+    "grossProfitM": 47832,
+    "netIncomeM": 4945,
+    "operatingIncomeM": 7770,
+    "opex": [
+      {
+        "amountM": 40062,
+        "compact": true,
+        "name": "Operating & SG&A",
+        "note": "Running the stores, the supply chain and the back office \u2014 21.2% of revenue.",
+        "pngLabel": "Operating & SG&A: ($40.1B)",
+        "shortName": "Operating & SG&A"
+      }
+    ],
+    "otherDetail": "Interest, net of $685M, plus a $341M net loss on equity and other investments.",
+    "otherIncomeM": -1026,
+    "revenueM": 188835,
+    "taxM": 1649
+  },
+  "follow100": [
+    {
+      "amount": 66.18,
+      "label": "Walmart U.S."
+    },
+    {
+      "amount": 19.0,
+      "label": "Walmart International"
+    },
+    {
+      "amount": 13.72,
+      "label": "Sam's Club U.S."
+    },
+    {
+      "amount": 1.1,
+      "label": "Membership & other income"
+    },
+    {
+      "amount": -74.67,
+      "label": "Cost of sales"
+    },
+    {
+      "amount": -21.22,
+      "label": "Operating & SG&A"
+    },
+    {
+      "amount": -0.54,
+      "label": "Interest & investment losses"
+    },
+    {
+      "amount": -0.87,
+      "label": "Tax"
+    },
+    {
+      "amount": -0.08,
+      "label": "Noncontrolling interests"
+    },
+    {
+      "amount": 2.62,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Kept-as-profit is the $4,945M attributable to Walmart shareholders; consolidated net income was $5,095M before the $150M noncontrolling share. Rows may not add exactly due to rounding.",
+  "footerNote": "Net profit here is the $4,945M attributable to Walmart shareholders (EPS $0.62); consolidated net income was $5,095M before $150M attributable to noncontrolling interests. Walmart reports gross profit as net sales minus cost of sales ($45,754M); this page's gross profit ($47,832M) adds the $2,078M of membership and other income so the flow starts from total revenue.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+5.2%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs $0.77 a year ago; $0.65 adjusted",
+      "value": "$0.62"
+    },
+    {
+      "label": "Operating income",
+      "note": "+16.0% YoY",
+      "value": "$7.8B"
+    },
+    {
+      "label": "eCommerce growth",
+      "note": "global, across all segments",
+      "value": "+17%"
+    }
+  ],
+  "oneTimers": [
+    "A $341M net loss on equity and other investments sits below operating income, vs a $2,081M gain a year ago \u2014 a $2.4B swing. Adjusted EPS of $0.65 excludes this $0.03-per-share drag. These are mark-to-market moves on Walmart's strategic stakes, not store operations.",
+    "Last year's International operating income carried a $722M non-cash share-based compensation charge at PhonePe (share plans modified ahead of a potential IPO), which makes this quarter's +132.6% International operating-income growth look far stronger than the underlying +7.0% adjusted constant-currency growth.",
+    "Last year's quarter also included a $155M reversal of a previously accrued legal charge in Corporate and support; there is no equivalent adjustment this quarter.",
+    "Flipkart's Big Billion Days sale shifted into Q4, costing International about 500 bps of net-sales growth this quarter; the offsetting benefit is expected in Q4 FY27."
+  ],
+  "periodEnd": "2026-10-31",
+  "pngFooterNote": "Gross profit here includes $2.1B membership income.",
+  "quarterLabel": "Q3 FY27",
+  "quarterSlug": "2027-q3",
+  "reportedDate": "2026-11-19",
+  "revenueYoY": "+5.2%",
+  "segments": [
+    {
+      "amountM": 124969,
+      "name": "Walmart U.S.",
+      "note": "The big U.S. stores \u2014 net sales up 3.6%, comparable sales up 2.9%, eCommerce up 23%, and operating income up 9.0% to $6.3B.",
+      "yoy": "+3.6%"
+    },
+    {
+      "amountM": 35876,
+      "name": "Walmart International",
+      "note": "Stores and e-commerce outside the U.S., including Flipkart in India \u2014 net sales up 7.0%, operating income $1.6B, though the jump is flattered by lapping last year's $0.7B PhonePe charge.",
+      "yoy": "+7.0%"
+    },
+    {
+      "amountM": 25912,
+      "name": "Sam's Club U.S.",
+      "note": "The warehouse-club business \u2014 net sales up 10.0% and eCommerce up 30%, but operating income fell 15.8% to $547M on lapped breakage income, a LIFO charge, and the new bundled membership.",
+      "yoy": "+10.0%"
+    },
+    {
+      "amountM": 2078,
+      "compact": true,
+      "name": "Membership & other income",
+      "note": "Walmart+ and Sam's Club membership fees plus rent and other income \u2014 membership fee revenue grew 17% globally.",
+      "pngLabel": "Membership & other: $2.1B",
+      "shortName": "Membership & other",
+      "yoy": "+20.3%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000168/earningsreleasefy27q3.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+16.0%",
+      "statColor": "#3d7bc8",
+      "text": "Operating income rose 16.0% to $7.8B (5.5% on an adjusted constant-currency basis) and Walmart raised full-year guidance. Net income fell only because of the investment swing below the operating line \u2014 judge this quarter on operating income, not EPS.",
+      "title": "The stores earned more \u2014 the headline didn't show it"
+    },
+    {
+      "stat": "\u2212$341M",
+      "statColor": "#cf5f4e",
+      "text": "Walmart booked a $341M net loss on its equity and other investments this quarter, vs a $2,081M gain a year ago. Adjusted EPS, which strips that out, actually grew 4.8%, to $0.65 from $0.62.",
+      "title": "A $2.4B swing in investments explains the profit drop"
+    },
+    {
+      "stat": "+17%",
+      "statColor": "#3e8e5a",
+      "text": "Global eCommerce sales grew 17% (U.S. +23%), global advertising 25% (U.S. +37%), and membership fees 17%. Guidance raised for FY27: net sales +4.9\u20135.2% and adjusted operating income +8.0\u20138.6% in constant currency, adjusted EPS $2.84\u2013$2.89.",
+      "title": "eCommerce and advertising are the growth engine"
+    }
+  ],
+  "ticker": "WMT",
+  "verdict": "Walmart's sales grew 5.2% to $188.8B and operating profit rose 16% as eCommerce jumped 17% \u2014 but headline profit fell 19.5% because last year's quarter included a $2.1B gain on investments that flipped to a $0.3B loss."
+}
