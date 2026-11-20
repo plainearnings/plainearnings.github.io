@@ -1,0 +1,163 @@
+{
+  "company": "Cloudflare",
+  "flow": {
+    "costOfRevenueM": 89.011,
+    "grossProfitM": 311.985,
+    "netIncomeM": -15.078,
+    "operatingIncomeM": -34.698,
+    "opex": [
+      {
+        "amountM": 174.501,
+        "name": "Sales and marketing",
+        "note": "Selling the platform and winning customers; includes $24.629M of stock-based compensation and related payroll taxes, and $0.363M of amortization of acquired intangible assets."
+      },
+      {
+        "amountM": 102.547,
+        "name": "Research and development",
+        "note": "Building the platform and new products (R&D); includes $37.106M of stock-based compensation and related payroll taxes."
+      },
+      {
+        "amountM": 69.635,
+        "name": "General and administrative",
+        "note": "The back office (G&A); includes $24.761M of stock-based compensation and related payroll taxes, and $0.162M of acquisition-related and other expenses."
+      }
+    ],
+    "otherIncomeM": 20.766,
+    "revenueM": 400.996,
+    "taxM": 1.146
+  },
+  "follow100": [
+    {
+      "amount": 100.0,
+      "label": "Cloudflare platform"
+    },
+    {
+      "amount": -22.2,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -43.52,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -25.57,
+      "label": "R&D"
+    },
+    {
+      "amount": -17.37,
+      "label": "G&A"
+    },
+    {
+      "amount": 5.18,
+      "label": "Other income"
+    },
+    {
+      "amount": -0.29,
+      "label": "Tax"
+    },
+    {
+      "amount": -3.76,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Sales and marketing alone takes $43.52 of every $100 Cloudflare takes in, and the quarter ends with a $3.76 loss per $100 of revenue. The rows may not add exactly due to rounding.",
+  "footerNote": "Cloudflare reports a single operating segment; the chart splits revenue by customer billing region \u2014 Q2 regional figures are from the Q2 10-Q, and the four regions sum exactly to reported Q2 revenue. GAAP loss from operations was $34.698M; non-GAAP income from operations was $56.953M after adding back stock-based compensation and other items listed in the release. Chart note: Cloudflare's running costs exceeded its gross profit; other income covered part of the gap, so the chart draws the remaining $15.08M net loss as a 'Covered by cash on hand' source, which also covers the $1.15M tax bill.",
+  "kpis": [
+    {
+      "label": "Revenue",
+      "note": "+30% YoY",
+      "value": "$401M"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs -$0.28 a year ago; non-GAAP diluted EPS $0.20",
+      "value": "-$0.04"
+    },
+    {
+      "label": "Free cash flow",
+      "note": "$38.275M, 10% of revenue, up from $20.0M a year ago",
+      "value": "$38M"
+    },
+    {
+      "label": "Large customers",
+      "note": "paying $100k+ a year, up from 2,352; net retention 112%",
+      "value": "3,046"
+    }
+  ],
+  "oneTimers": [
+    "Stock-based compensation and related employer payroll taxes totaled $89.507M in Q2 across cost of revenue and operating expenses \u2014 the main reason GAAP shows an operating loss while non-GAAP operating income was $56.953M.",
+    "Amortization of acquired intangible assets was $1.982M in Q2 \u2014 also excluded from non-GAAP results.",
+    "Acquisition-related and other expenses were $0.162M in Q2 \u2014 excluded from non-GAAP results.",
+    "No one-time compensation charge landed in Q2 2024: the $15.000M one-time compensation charge in the six-month figures dates to the first quarter of 2024.",
+    "A year ago, Q2 2023's net loss included a $50.300M loss on extinguishing convertible debt \u2014 most of the year-over-year improvement in the net loss is that charge not repeating."
+  ],
+  "otherDetail": "Interest income of $21.715M, less $1.218M of interest expense, plus other income, net of $0.269M \u2014 total non-operating income of $20.766M.",
+  "periodEnd": "2024-06-30",
+  "pngFooterNote": "Non-GAAP operating income was $57.0M (14% margin).",
+  "quarterLabel": "Q2 2024",
+  "quarterSlug": "2024-q2",
+  "reportedDate": "2024-08-01",
+  "revenueYoY": "+30%",
+  "segments": [
+    {
+      "amountM": 207.008,
+      "name": "United States",
+      "note": "Revenue by customer billing address; up 28% YoY from $161.692M.",
+      "yoy": "+28%"
+    },
+    {
+      "amountM": 110.968,
+      "name": "Europe, Middle East, and Africa",
+      "note": "Revenue by customer billing address; up 32% YoY from $84.346M.",
+      "yoy": "+32%"
+    },
+    {
+      "amountM": 52.126,
+      "name": "Asia Pacific",
+      "note": "Revenue by customer billing address; up 29% YoY from $40.399M.",
+      "yoy": "+29%"
+    },
+    {
+      "amountM": 30.894,
+      "name": "Other regions",
+      "note": "Revenue by customer billing address; up 40% YoY from $22.057M \u2014 the fastest-growing region.",
+      "yoy": "+40%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733324000069/q224exhibit991.htm"
+    },
+    {
+      "label": "8-K filing (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733324000069/cloud-20240801.htm"
+    },
+    {
+      "label": "Q2 2024 Form 10-Q \u2014 customer metrics and revenue by region (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733324000070/cloud-20240630.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+30%",
+      "statColor": "#3d7bc8",
+      "text": "Revenue hit $401.0M, up 30% YoY from $308.5M a year ago, and annualized revenue crossed $1.6 billion. Large customers \u2014 those paying over $100,000 a year \u2014 rose to 3,046 from 2,352, and paying customers overall grew 21% to 210,166. Remaining performance obligations \u2014 work customers have already committed to \u2014 stood at $1,421.0M, with 69% expected within 12 months.",
+      "title": "Growth held at 30% and crossed $1.6B annualized"
+    },
+    {
+      "stat": "-$15.1M",
+      "statColor": "#5b6b7c",
+      "text": "GAAP loss from operations narrowed to $34.7M, or 8.7% of revenue, versus a $56.2M loss a year ago, as operating expenses grew 20% \u2014 slower than revenue. $20.8M of non-operating income, mostly $21.7M of interest income, narrowed the net loss to $15.1M versus $94.5M a year ago. Excluding $89.5M of stock-based compensation and other items, non-GAAP operating income was $57.0M, a 14.2% margin. Operating cash flow was $74.8M, 19% of revenue.",
+      "title": "A narrower operating loss, still GAAP-unprofitable"
+    },
+    {
+      "stat": "112%",
+      "statColor": "#3e8e5a",
+      "text": "Dollar-based net retention was 112%, meaning existing paying customers spent 12% more than they did a year earlier \u2014 down from 115% a year ago. Paying customers overall grew 21% to 210,166, and large customers \u2014 those paying over $100,000 a year \u2014 rose to 3,046 from 2,352.",
+      "title": "Existing customers keep spending more"
+    }
+  ],
+  "ticker": "NET",
+  "verdict": "Cloudflare grew revenue 30% to $401.0M and crossed $1.6 billion in annualized revenue, but $89.5M of stock-based compensation kept it GAAP-unprofitable with a $15.1M net loss, even as operating cash flow hit $74.8M."
+}

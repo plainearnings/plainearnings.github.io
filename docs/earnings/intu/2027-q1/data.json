@@ -1,0 +1,181 @@
+{
+  "company": "Intuit",
+  "flow": {
+    "costOfRevenueM": 1050,
+    "costPlain": "Running Intuit's cloud services and customer support ($992M), product costs ($14M), and amortization of acquired technology ($44M).",
+    "grossProfitM": 3304,
+    "netIncomeM": 695,
+    "operatingIncomeM": 868,
+    "opex": [
+      {
+        "amountM": 1134,
+        "name": "Selling and marketing",
+        "note": "Selling TurboTax, QuickBooks and Credit Karma \u2014 ads, sales teams and partner commissions, up just 5% while revenue grew 12%."
+      },
+      {
+        "amountM": 788,
+        "name": "Research & development",
+        "note": "Engineers building the AI platform \u2014 down 7% as the May 2026 restructuring took hold."
+      },
+      {
+        "amountM": 382,
+        "name": "General and administrative",
+        "note": "Running the company day to day \u2014 down 10% on the same restructuring."
+      },
+      {
+        "amountM": 121,
+        "name": "Amortization of other acquired intangible assets",
+        "note": "Spreading the cost of customer relationships and other assets from acquisitions like Mailchimp and Credit Karma.",
+        "shortName": "Amortization"
+      },
+      {
+        "amountM": 11,
+        "name": "Restructuring",
+        "note": "Severance from the May 2026 reorganization plan; the plan's actions were substantially complete this quarter."
+      }
+    ],
+    "otherIncomeM": 98,
+    "revenueM": 4354,
+    "taxM": 271
+  },
+  "follow100": [
+    {
+      "amount": 70.81,
+      "label": "Global Business Solutions"
+    },
+    {
+      "amount": 22.0,
+      "label": "Consumer"
+    },
+    {
+      "amount": 7.19,
+      "label": "Mailchimp"
+    },
+    {
+      "amount": -24.12,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -26.04,
+      "label": "Selling & marketing"
+    },
+    {
+      "amount": -18.1,
+      "label": "R&D"
+    },
+    {
+      "amount": -8.77,
+      "label": "G&A"
+    },
+    {
+      "amount": -2.78,
+      "label": "Amortization"
+    },
+    {
+      "amount": -0.25,
+      "label": "Restructuring"
+    },
+    {
+      "amount": 2.25,
+      "label": "Other income"
+    },
+    {
+      "amount": -6.22,
+      "label": "Tax"
+    },
+    {
+      "amount": 15.96,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Rows may not add exactly due to rounding.",
+  "footerNote": "Intuit doesn't present a gross-profit subtotal; the cost line combines its three reported cost-of-revenue lines. Mailchimp became its own segment this quarter; prior-year segment figures are recast to match.",
+  "kpis": [
+    {
+      "label": "Revenue",
+      "note": "+12% YoY",
+      "value": "$4.4B"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "+63% YoY",
+      "value": "$2.59"
+    },
+    {
+      "label": "Operating income",
+      "note": "+63% YoY, non-GAAP $1.0B",
+      "value": "$868M"
+    },
+    {
+      "label": "Free cash flow",
+      "note": "operating cash flow $1,062M less capex $75M",
+      "value": "$987M"
+    }
+  ],
+  "oneTimers": [
+    "A $118M net gain on long-term investments sits inside interest and other income \u2014 it more than doubled that line to $170M and added about $0.44 per share to GAAP EPS. Non-GAAP net income ($780M) excludes it; it is a market move, not operating performance.",
+    "An $11M restructuring charge from the May 2026 reorganization plan (total expected cost about $315M; actions substantially complete this quarter). Excluded from non-GAAP results.",
+    "Tax shortfalls of $35M on share-based compensation pushed the GAAP effective tax rate to 28.0%, versus 20.5% a year ago when Intuit recognized $30M of excess tax benefits. Excluding discrete items, the rate was about 24% in both years.",
+    "The Mailchimp sale was announced, not closed \u2014 no gain or loss is in this quarter's numbers. The 10-Q says Intuit expects to recognize a pre-tax gain at close, depending on Mailchimp's carrying value and the closing-date value of the Bending Spoons stock.",
+    "With this release Intuit trimmed full-year FY27 revenue guidance to $23,081M\u2013$23,365M (+8\u20139%) on a Credit Karma change, but reiterated profit guidance: GAAP operating income $7,408M\u2013$7,490M and GAAP EPS $20.12\u2013$20.36. Q2 FY27 guidance: revenue $4,931M\u2013$4,954M (+6\u20137%)."
+  ],
+  "otherDetail": "Interest and other income, net of $170M, less $72M of interest expense, added $98M \u2014 including a $118M net gain on long-term investments.",
+  "periodEnd": "2026-10-31",
+  "pngFooterNote": "Cost combines Intuit's three reported cost-of-revenue lines.",
+  "quarterLabel": "Q1 FY27",
+  "quarterSlug": "2027-q1",
+  "reportedDate": "2026-11-19",
+  "revenueYoY": "+12%",
+  "segments": [
+    {
+      "amountM": 3083,
+      "name": "Global Business Solutions",
+      "note": "QuickBooks for small and mid-sized businesses. The Online Ecosystem brought in $2,433M (+20%), with QuickBooks Online Accounting up 19% to $1,434M and Online Services up 21% to $999M; the Desktop Ecosystem was nearly flat at $650M (+2%).",
+      "yoy": "+15%"
+    },
+    {
+      "amountM": 958,
+      "name": "Consumer",
+      "note": "TurboTax ($199M \u2014 a trickle before tax season), Credit Karma ($708M, +9% \u2014 the quarter's engine) and ProTax for professional preparers ($51M, +13%).",
+      "yoy": "+7%"
+    },
+    {
+      "amountM": 313,
+      "name": "Mailchimp",
+      "note": "Email marketing, now reported as its own segment \u2014 and being sold to Bending Spoons for about $3.68B. Revenue slipped 1%, but segment operating income jumped 45% to $202M as costs fell.",
+      "yoy": "-1%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000043/fy27q1earningspressrelease.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended October 31, 2026 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000045/intu-20261031.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+63%",
+      "statColor": "#3e8e5a",
+      "text": "Revenue grew a solid 12%, but operating income grew 63% because R&D and G&A both fell in absolute terms after the May 2026 restructuring. The 2026 Plan is substantially complete, so this cost base is roughly the new normal \u2014 the test now is whether Intuit can keep growing revenue at double digits without spending ramping back up.",
+      "title": "Operating leverage is the story, not revenue"
+    },
+    {
+      "stat": "$3.68B",
+      "statColor": "#cf5f4e",
+      "text": "Intuit paid $12 billion for Mailchimp in 2021 and is selling it for $3.68 billion \u2014 $3.31 billion in cash plus $368 million in Bending Spoons stock. But Mailchimp's revenue is flat-to-down and it no longer fits the AI-platform strategy; the cash will fund buybacks instead. The sale closes in early calendar 2027.",
+      "title": "Mailchimp is leaving at a steep loss \u2014 and that's the point"
+    },
+    {
+      "stat": "$199M",
+      "statColor": "#3d7bc8",
+      "text": "TurboTax did just $199M this quarter; the January\u2013April season is where Intuit's year is made. Credit Karma's guidance was trimmed for the full year, which is why total revenue guidance came down even as profit guidance was reiterated. What matters now: Q2 guidance ($4.93\u20134.95B revenue, +6\u20137%) and whether the tax season lands.",
+      "title": "Q1 is the quiet quarter \u2014 the real test is tax season"
+    }
+  ],
+  "ticker": "INTU",
+  "verdict": "Intuit opened fiscal 2027 with revenue up 12% to $4.4B and GAAP operating income up 63% as QuickBooks Online grew 20% \u2014 but the bigger news is the deal to sell Mailchimp for $3.68B, and the tax-season quarters ahead, not this one, are where Intuit makes most of its money."
+}

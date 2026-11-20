@@ -1,0 +1,180 @@
+{
+  "company": "Intel",
+  "flow": {
+    "costOfRevenueM": 8676,
+    "grossProfitM": 5584,
+    "netIncomeM": -153,
+    "operatingIncomeM": 412,
+    "opex": [
+      {
+        "amountM": 3876,
+        "name": "Research and development",
+        "note": "Developing new CPUs, AI accelerators and process technology; down from $3,987M a year ago."
+      },
+      {
+        "amountM": 1239,
+        "name": "Marketing, general and administrative",
+        "note": "Sales, marketing and back-office costs; down from $1,617M a year ago as headcount cuts took hold."
+      },
+      {
+        "amountM": 57,
+        "name": "Restructuring and other charges",
+        "note": "Charges under Intel's 2024 Restructuring Plan; a small quarter after $6,970M for the full year. Intel excludes these from its non-GAAP results."
+      }
+    ],
+    "otherIncomeM": 187,
+    "revenueM": 14260,
+    "taxM": 752
+  },
+  "follow100": [
+    {
+      "amount": 56.22,
+      "label": "Client Computing Group"
+    },
+    {
+      "amount": 23.75,
+      "label": "Data Center and AI"
+    },
+    {
+      "amount": 11.38,
+      "label": "Network and Edge"
+    },
+    {
+      "amount": 1.5,
+      "label": "Intel Foundry"
+    },
+    {
+      "amount": 7.15,
+      "label": "All other"
+    },
+    {
+      "amount": -60.84,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -27.18,
+      "label": "R&D"
+    },
+    {
+      "amount": -8.69,
+      "label": "Marketing, G&A"
+    },
+    {
+      "amount": -0.4,
+      "label": "Restructuring"
+    },
+    {
+      "amount": 1.31,
+      "label": "Other income"
+    },
+    {
+      "amount": -5.27,
+      "label": "Tax"
+    },
+    {
+      "amount": -1.07,
+      "label": "Net income"
+    }
+  ],
+  "follow100Note": "Intel Foundry is counted at its $214M of outside sales only (see the segment note); the $214M is derived from the FY2024 10-K ($385M for the year) less the first nine months of 2024 ($171M, Q3 2024 10-Q). All other is shown net of $23M of intersegment eliminations not attributable to Foundry, so the parts sum exactly to Intel's $14,260M total. Rows are rounded to the nearest cent, so the rounded rows sum exactly to the rounded net loss of -$1.07 per $100.",
+  "footerNote": "Net loss attributable to Intel: $(126)M, after $(27)M attributable to non-controlling interests.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "down 7%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "diluted, attributable to Intel; non-GAAP EPS was $0.13",
+      "value": "$(0.03)"
+    },
+    {
+      "label": "Gross margin",
+      "note": "down 6.5 points YoY; non-GAAP gross margin was 42.1%",
+      "value": "39.2%"
+    },
+    {
+      "label": "Adjusted free cash flow",
+      "note": "Intel's non-GAAP measure; vs $(1.3)B a year ago; operating cash flow was $3.2B",
+      "value": "$(1.5)B"
+    }
+  ],
+  "oneTimers": [
+    "$57M of restructuring and other charges under Intel's 2024 Restructuring Plan \u2014 a small quarter after $6,970M for the full year, most of it booked in Q3; excluded from non-GAAP results. A year ago the same line was a $(1,142)M credit, mostly a benefit from VLSI litigation developments, which is why total operating expenses rose even as R&D and MG&A fell.",
+    "A $316M gain on equity investments, net, versus an $86M gain a year ago \u2014 mark-to-market moves on Intel's investment portfolio rather than chip sales; excluded from non-GAAP results.",
+    "$560M of interest received on the refunded European Commission fine (paid in 2009, annulled, refunded in 2022) \u2014 a one-off receipt inside interest and other, net; excluded from non-GAAP results.",
+    "A $39M loss from divestiture \u2014 deferred consideration on the NAND sale to SK hynix; excluded from non-GAAP results.",
+    "For the full year, a $9,925M non-cash valuation allowance against US deferred tax assets \u2014 recorded because Intel's GAAP results showed a cumulative loss \u2014 drove the full-year GAAP tax rate to 71.6% and the $18,756M net loss attributable to Intel. None of the allowance was recorded in Q4 itself; Intel excludes it from non-GAAP results."
+  ],
+  "otherDetail": "Other income of $187M combines a $316M gain on equity investments, net with $(129)M of interest and other, net \u2014 the interest line includes $560M received on the annulled European Commission fine. Intel recorded a $752M tax provision on $599M of pre-tax income, a 125.5% GAAP tax rate: the tax bill was larger than the profit it was levied on.",
+  "periodEnd": "2024-12-28",
+  "pngFooterNote": "Operating profit of $412M became a $153M loss after tax.",
+  "quarterLabel": "Q4 2024",
+  "quarterSlug": "2024-q4",
+  "reportedDate": "2025-01-30",
+  "revenueYoY": "down 7%",
+  "segments": [
+    {
+      "amountM": 8017,
+      "name": "Client Computing Group",
+      "note": "PC and client chips; down 9% YoY. Segment operating income was $3,056M, down from $3,567M a year ago.",
+      "yoy": "-9%"
+    },
+    {
+      "amountM": 3387,
+      "name": "Data Center and AI",
+      "note": "Xeon server chips and AI data-center products; down 3% YoY. Segment operating income was $233M, down from $738M a year ago.",
+      "yoy": "-3%"
+    },
+    {
+      "amountM": 1623,
+      "name": "Network and Edge",
+      "note": "Networking and edge-computing chips; up 10% YoY. Segment operating income was $340M, up from $109M a year ago. Intel folded NEX into CCG and DCAI starting in Q1 2025, so this is its last quarter as a standalone segment.",
+      "yoy": "+10%"
+    },
+    {
+      "amountM": 214,
+      "name": "Intel Foundry",
+      "note": "Intel's chip factories, shown at their $214M of sales to OUTSIDE customers only (derived: $385M for full-year 2024 per the 10-K, less $171M in the first nine months per the Q3 2024 10-Q). Foundry's total segment revenue was $4,502M, but $4,288M of that was wafers sold to Intel's own product groups \u2014 counting it here would count the same dollars twice. Foundry lost $2,260M in the quarter."
+    },
+    {
+      "amountM": 1019,
+      "name": "All other",
+      "note": "Mobileye (self-driving tech), Altera and smaller businesses. Intel reports this group at $1,042M; it is shown as $1,019M here, net of $23M of intersegment eliminations not attributable to Foundry, so the parts sum exactly to Intel's $14,260M total. Down 20% YoY. Segment operating income was $118M.",
+      "yoy": "-20%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000004/q424_earningsrelease.htm"
+    },
+    {
+      "label": "Form 10-K for the year ended Dec 28, 2024 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "$412M",
+      "statColor": "#5b6b7c",
+      "text": "Revenue fell 7% to $14.3B and gross margin slid to 39.2% from 45.7% a year ago, but Intel still earned $412M from operations after cutting R&D and MG&A 9% to $5.1B. A $752M tax bill on $599M of pre-tax income \u2014 a 125.5% rate \u2014 pushed the bottom line to a $153M net loss. GAAP EPS was $(0.03); non-GAAP EPS was $0.13.",
+      "title": "Profitable operations, unprofitable quarter"
+    },
+    {
+      "stat": "-$2.3B",
+      "statColor": "#5b6b7c",
+      "text": "Intel Foundry lost $2,260M on $4,502M of segment revenue, and only $214M of that revenue came from outside customers \u2014 the rest was wafers sold to Intel's own product groups. Client Computing still earned $3,056M, Data Center and AI earned $233M and Network and Edge earned $340M.",
+      "title": "Foundry lost far more than the whole company"
+    },
+    {
+      "stat": "$(1.5)B",
+      "statColor": "#5b6b7c",
+      "text": "Operating cash flow was $3,165M, but after $4,667M of net spending on property, plant and equipment, adjusted free cash flow was $(1,503)M. Q1 2025 guidance is $11.7\u201312.7B of revenue with GAAP EPS of $(0.27). Intel signed its CHIPS Act award for up to $7.86B and received $1.1B in the quarter; headcount fell to 108.9K from 124.8K a year ago.",
+      "title": "Cash burned while the new plan takes shape"
+    }
+  ],
+  "ticker": "INTC",
+  "verdict": "Intel's chip business earned $412 million from operations in the fourth quarter, but a $752 million tax bill \u2014 bigger than its $599 million of pre-tax income \u2014 turned that profit into a $153 million net loss."
+}

@@ -1,0 +1,164 @@
+{
+  "company": "Shopify",
+  "flow": {
+    "costOfRevenueM": 1082,
+    "equityM": -48,
+    "grossProfitM": 1062,
+    "netIncomeM": 657,
+    "operatingIncomeM": 289,
+    "opex": [
+      {
+        "amountM": 317,
+        "name": "Sales and marketing",
+        "note": "Selling the platform and winning new merchants. Up 6% YoY."
+      },
+      {
+        "amountM": 311,
+        "name": "Research and development",
+        "note": "Building the platform and new commerce and AI features. Down 29% YoY, from $440M a year ago."
+      },
+      {
+        "amountM": 100,
+        "name": "General and administrative",
+        "note": "The back office \u2014 finance, legal and admin. Down 53% YoY, from $214M a year ago."
+      },
+      {
+        "amountM": 45,
+        "name": "Transaction and loan losses",
+        "note": "Losses on merchant loans and cash advances, and transaction losses. Up 32% YoY as more sales flowed through Shopify Payments."
+      }
+    ],
+    "otherIncomeM": 441,
+    "revenueM": 2144,
+    "taxM": 25
+  },
+  "follow100": [
+    {
+      "amount": 24.49,
+      "label": "Subscription solutions"
+    },
+    {
+      "amount": 75.51,
+      "label": "Merchant solutions"
+    },
+    {
+      "amount": -50.47,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -14.79,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -14.51,
+      "label": "R&D"
+    },
+    {
+      "amount": -4.66,
+      "label": "G&A"
+    },
+    {
+      "amount": -2.1,
+      "label": "Transaction & loan losses"
+    },
+    {
+      "amount": 20.57,
+      "label": "Other income"
+    },
+    {
+      "amount": -2.24,
+      "label": "Loss on equity investment"
+    },
+    {
+      "amount": -1.17,
+      "label": "Tax"
+    },
+    {
+      "amount": 30.64,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Subscription plans bring in $24.49 of every $100 and merchant solutions $75.51 \u2014 mostly a cut of merchants' sales. Direct costs take $50.47 and running the business takes another $36.06, leaving $13.48 of operating profit per $100. Investment gains and interest added $20.57, partly offset by a $2.24 loss on the Flexport stake and $1.17 of tax, so Shopify kept $30.64 of every $100. Rows may not add exactly due to rounding.",
+  "footerNote": "The earnings release prints a condensed statement (operating income $289M, other income $393M, net income $657M); the split of that $393M into a $368M net gain on equity and other investments and a $48M loss on the equity-method investment in Flexport comes from the non-GAAP reconciliation in the same release.",
+  "kpis": [
+    {
+      "label": "Revenue",
+      "note": "+24% YoY (30% ex-logistics sale)",
+      "value": "$2.1B"
+    },
+    {
+      "label": "Diluted EPS",
+      "note": "vs $(0.49) a year ago",
+      "value": "$0.51"
+    },
+    {
+      "label": "Free cash flow",
+      "note": "21% of revenue",
+      "value": "$446M"
+    },
+    {
+      "label": "GMV",
+      "note": "sales through the platform, +23% YoY",
+      "value": "$75.1B"
+    }
+  ],
+  "oneTimers": [
+    "$368M net gain on equity and other investments \u2014 a paper gain as the value of Shopify's listed holdings rose during the quarter. Excluding equity investments, adjusted net income was $441M (non-GAAP) versus $657M GAAP net income.",
+    "$48M net loss on Shopify's equity-method investment in Flexport.",
+    "Stock-based compensation of $103M \u2014 a non-cash expense inside operating expenses. It is recurring, not one-off, but it is paid in shares rather than cash, so it does not reduce the $446M of free cash flow Shopify generated.",
+    "The $1,340M impairment on the sale of Shopify's logistics businesses was booked earlier in 2023, not in Q4 \u2014 it is why full-year net income was only $132M despite this quarter's $657M profit."
+  ],
+  "otherDetail": "Other income of $393M in total: a $368M net gain on equity and other investments, partly offset by a $48M net loss on the equity-method investment in Flexport, with the remaining $73M from interest income, foreign exchange and other items. The $48M equity-method loss is the separate equityM line; the rest nets to otherIncomeM of $441M.",
+  "periodEnd": "2023-12-31",
+  "pngFooterNote": "Profit is back \u2014 investment gains added $368M on top.",
+  "quarterLabel": "Q4 2023",
+  "quarterSlug": "2023-q4",
+  "reportedDate": "2024-02-13",
+  "revenueYoY": "+24%",
+  "segments": [
+    {
+      "amountM": 525,
+      "name": "Subscription solutions",
+      "note": "The monthly plans merchants pay to run their stores on Shopify. Up 31% YoY; monthly recurring revenue reached $149M, up 35%.",
+      "yoy": "+31%"
+    },
+    {
+      "amountM": 1619,
+      "name": "Merchant solutions",
+      "note": "Mostly payment processing (Shopify Payments) \u2014 a cut of the sales flowing through merchants' stores \u2014 plus shipping and other merchant services. Up 21% YoY and 76% of all revenue; Shopify Payments processed 60% of GMV ($45.1B).",
+      "yoy": "+21%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480524000006/exhibit991pressreleaseq420.htm"
+    },
+    {
+      "label": "Form 40-F \u2014 2023 annual report, Exhibit 13 MD&A (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480524000007/exhibit13mdaq42023.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+24%",
+      "statColor": "#3d7bc8",
+      "text": "Revenue rose 24% to $2.14B as GMV grew 23% to $75.1B \u2014 30% revenue growth after adjusting for the sale of the logistics businesses. Subscription revenue grew 31% to $525M on more merchants and higher plan prices, with monthly recurring revenue up 35% to $149M, while merchant solutions rose 21% to $1.62B as Shopify Payments processed 60% of GMV ($45.1B).",
+      "title": "Growth stayed strong"
+    },
+    {
+      "stat": "$289M",
+      "statColor": "#3e8e5a",
+      "text": "Operating income was $289M (13% margin) versus a $188M loss a year ago. On an adjusted basis, operating income was $396M (18% margin), and gross margin widened to 49.5% from 46.0% as the dilutive logistics business exited. R&D fell 29% and G&A fell 53% after 2023's cost cuts, and free cash flow jumped to $446M, a 21% margin versus 5% a year ago.",
+      "title": "Operating profit returned"
+    },
+    {
+      "stat": "$368M",
+      "statColor": "#5b6b7c",
+      "text": "Net income was $657M, but $368M of it was a net gain on equity investments \u2014 paper gains as listed holdings rose \u2014 plus interest income. Excluding equity investments, adjusted net income was $441M, and a $48M loss on the Flexport stake was a further drag. The operating business earned $289M; the investment gains added more than the operations did.",
+      "title": "Investments flattered the bottom line"
+    }
+  ],
+  "ticker": "SHOP",
+  "verdict": "Shopify swung to a $657M profit in Q4 as revenue grew 24% to $2.1B \u2014 and a $368M gain on its investments supplied more than half of the bottom line."
+}
