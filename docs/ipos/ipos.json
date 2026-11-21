@@ -132,6 +132,51 @@
       "whatItDoes": "American Barrick Gold holds Barrick Mining's North American gold mines, including Nevada Gold Mines — the world's largest gold-mining complex — and the Pueblo Viejo mine in the Dominican Republic. It digs gold out of the ground and sells it."
     },
     {
+      "dealSize": "~$200M",
+      "exchange": "Nasdaq",
+      "expectedDate": null,
+      "expectedNote": "Filed — terms set ($11–$13), but the planned Nov 12 pricing was postponed; waiting for a new date",
+      "filedDate": "2026-10-21",
+      "name": "Rezera Inc.",
+      "priceRange": "$11–$13",
+      "sector": "Biotechnology — inflammation",
+      "sharesOffered": "16.7M",
+      "slug": "rezera",
+      "sources": [
+        {
+          "label": "Renaissance Capital — Rezera sets terms for a $200M IPO",
+          "url": "https://www.renaissancecapital.com/IPO-Center/News/122582/inflammatory-diseases-biotech-rezera-sets-terms-for-200-million-ipo"
+        },
+        {
+          "label": "Renaissance Capital — Rezera postpones its $200M IPO",
+          "url": "https://www.renaissancecapital.com/IPO-Center/News/122702/inflammatory-disease-biotech-rezera-postpones-200-million-ipo"
+        },
+        {
+          "label": "StockAnalysis IPO filings — RZRA filed Oct 21, 2026",
+          "url": "https://stockanalysis.com/ipos/filings/"
+        },
+        {
+          "label": "IPOScoop — Rezera unveils terms for $200M IPO",
+          "url": "https://www.iposcoop.com/the-ipo-buzz-rezera-rzra-proposed-unveils-terms-for-200-million-ipo/"
+        },
+        {
+          "label": "Reuters — Rezera launches US IPO; GSK to buy up to $25M of shares",
+          "url": "https://mymixfm.com/2026/11/05/rezera-launches-us-ipo-as-biotech-listings-wave-continues/"
+        }
+      ],
+      "status": "filed",
+      "story": "Founded in 2016 in Boston and formerly called NodThera (renamed Sep 9, 2026), Rezera filed its S-1 on Oct 21, 2026 and set terms on Nov 5: 16.7M shares at $11–$13 to raise about $200M, with drugmaker GSK indicating it would buy up to $25M of the offering. It was expected to price during the week of Nov 9, but postponed the deal on Nov 12 before pricing. Its lead drug, ruvonoflast, is being prepared for a Phase 3 trial in peripheral artery disease starting in the first half of 2027. The company is pre-revenue and lost $66.3M in the year to June 30, 2026.",
+      "ticker": "RZRA",
+      "valuation": "~$254M fully diluted at the $12 midpoint (Renaissance Capital)",
+      "watchNotes": [
+        "Postponed its planned Nov 12 pricing — no new date yet; a postponement can mean weak demand or a wait for better market conditions",
+        "Lead drug ruvonoflast targets the NLRP3 inflammasome, a new approach to treating inflammation-driven heart disease; Phase 3 trial planned for the first half of 2027",
+        "Backed by Novo Ventures, 5AM Ventures, F-Prime Capital and Sofinnova; GSK indicated it would buy up to $25M of the IPO",
+        "Pre-revenue biotech: $66.3M net loss in the year to June 30, 2026 — the IPO money would fund the Phase 3 trial and extend cash into early 2029"
+      ],
+      "whatItDoes": "Rezera is a clinical-stage biotech company developing oral pills that block NLRP3, a protein that drives inflammation — the aim is to treat heart and artery disease in patients for whom statins aren't enough."
+    },
+    {
       "dealSize": "Up to ~$3B (reported)",
       "exchange": "NYSE (planned)",
       "expectedDate": null,
@@ -460,5 +505,5 @@
     }
   ],
   "note": "Curated upcoming US IPOs for Plain Earnings: companies with a scheduled listing date, plus notable companies that have publicly filed and are waiting for a date. After a company lists, its status becomes 'listed' (with listedDate and finalPrice) and it stays on the page for 10 days before being removed. Terms come from SEC filings as summarised by StockAnalysis and press reports; dates and terms can change. Maintained alongside company-list.md.",
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
 }
