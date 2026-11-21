@@ -1,0 +1,152 @@
+{
+  "company": "Marvell Technology",
+  "flow": {
+    "costOfRevenueM": 995.5,
+    "grossProfitM": 1010.6,
+    "netIncomeM": 194.8,
+    "operatingIncomeM": 290.1,
+    "opex": [
+      {
+        "amountM": 519.0,
+        "name": "Research and development",
+        "note": "Designing new data-infrastructure chips and platforms; up 7% YoY.",
+        "short": "R&D"
+      },
+      {
+        "amountM": 192.8,
+        "name": "Selling, general and administrative",
+        "note": "Selling the chips and running the company; down 2% YoY.",
+        "short": "SG&A"
+      },
+      {
+        "amountM": 8.7,
+        "name": "Restructuring related charges, net",
+        "note": "Restructuring charges this quarter \u2014 severance and facility-exit costs, net.",
+        "short": "Restructuring charges"
+      }
+    ],
+    "otherIncomeM": -56.4,
+    "revenueM": 2006.1,
+    "taxM": 38.9
+  },
+  "follow100": [
+    {
+      "amount": 74.3,
+      "label": "Data center"
+    },
+    {
+      "amount": 25.7,
+      "label": "Communications and other"
+    },
+    {
+      "amount": -49.62,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -25.87,
+      "label": "R&D"
+    },
+    {
+      "amount": -9.61,
+      "label": "SG&A"
+    },
+    {
+      "amount": -0.43,
+      "label": "Restructuring charges"
+    },
+    {
+      "amount": -2.81,
+      "label": "Other income"
+    },
+    {
+      "amount": -1.94,
+      "label": "Tax"
+    },
+    {
+      "amount": 9.71,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Rows are rounded to cents, so the waterfall lands a cent above the $9.71 kept as profit on paper.",
+  "footerNote": "Marvell guided Q3 FY26 revenue to $2.06B \u00b15%.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+58%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs $0.67 non-GAAP; -$0.22 a year ago",
+      "value": "$0.22"
+    },
+    {
+      "label": "Data Center revenue",
+      "note": "+69% YoY, 74% of revenue",
+      "value": "$1.49B"
+    },
+    {
+      "label": "Cash flow from operations",
+      "note": "in Q2; capex was $48M",
+      "value": "$462M"
+    }
+  ],
+  "oneTimers": [
+    "Marvell agreed in April 2025 to sell its automotive ethernet business to Infineon for $2.5B in cash; the sale closed August 14, 2025, after this quarter ended, so no gain appears here \u2014 the business sat as $595.5M of assets held for sale on the balance sheet, and the gain lands in Q3 FY26.",
+    "GAAP results include $153.6M of stock-based compensation and $243.7M of amortization of acquired intangible assets, both excluded from non-GAAP \u2014 that is why non-GAAP net income ($585.5M) is triple GAAP net income ($194.8M).",
+    "Restructuring related charges of $8.7M this quarter \u2014 severance and facility-exit costs, net."
+  ],
+  "otherDetail": "Interest expense of $51.9M plus a $4.5M net other loss make up the $56.4M outside operations \u2014 no one-time gain sits here; the automotive ethernet sale closed after quarter end.",
+  "periodEnd": "2025-08-02",
+  "pngFooterNote": "Marvell guided Q3 FY26 revenue to $2.06B \u00b15%.",
+  "quarterLabel": "Q2 FY26",
+  "quarterSlug": "2026-q2",
+  "reportedDate": "2025-08-28",
+  "revenueYoY": "+58%",
+  "segments": [
+    {
+      "amountM": 1490.5,
+      "name": "Data center",
+      "note": "Chips for AI data centers \u2014 custom silicon, optics and Ethernet switches; 74% of all revenue.",
+      "yoy": "+69%"
+    },
+    {
+      "amountM": 515.6,
+      "name": "Communications and other",
+      "note": "Enterprise networking ($194M), carrier infrastructure ($130M), consumer ($116M) and automotive/industrial ($76M) \u2014 enterprise and carrier recovering after an inventory correction.",
+      "yoy": "+32%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563225000187/q226_8kx822025ex-991.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended August 2, 2025 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563225000189/mrvl-20250802.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+69%",
+      "statColor": "#3d7bc8",
+      "text": "Data Center revenue hit $1.49B \u2014 74% of the company \u2014 up 69% YoY on AI demand for custom silicon and electro-optics, and total revenue set a record at $2.01B, up 58% YoY.",
+      "title": "Data Center drove the record"
+    },
+    {
+      "stat": "$195M",
+      "statColor": "#3e8e5a",
+      "text": "GAAP net income was $194.8M versus a $193.3M loss a year ago, as operating income swung to $290.1M from a $100.4M loss. Non-GAAP net income was $585.5M.",
+      "title": "Back in the black"
+    },
+    {
+      "stat": "$462M",
+      "statColor": "#3e8e5a",
+      "text": "Operating cash flow was $461.6M in the quarter, and Marvell spent $200M buying back its own shares and paid $51.7M in dividends.",
+      "title": "Cash kept flowing"
+    }
+  ],
+  "ticker": "MRVL",
+  "verdict": "Marvell's revenue hit a record $2.01B, up 58% on AI data-center demand \u2014 and GAAP profit swung to $195M from a $193M loss a year ago."
+}

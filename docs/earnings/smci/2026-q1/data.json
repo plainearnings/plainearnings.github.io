@@ -1,0 +1,147 @@
+{
+  "company": "Super Micro Computer",
+  "flow": {
+    "costOfRevenueM": 4550.417,
+    "equityM": -0.106,
+    "grossProfitM": 467.373,
+    "netIncomeM": 168.285,
+    "operatingIncomeM": 182.256,
+    "opex": [
+      {
+        "amountM": 173.314,
+        "name": "Research and development",
+        "note": "Designing next-generation servers, racks and Data Center Building Block Solutions; up 31% YoY.",
+        "short": "R&D"
+      },
+      {
+        "amountM": 47.928,
+        "name": "Sales and marketing",
+        "note": "Sales teams and marketing; down 30% YoY on a partner marketing reimbursement and lower commissions.",
+        "short": "Sales & marketing"
+      },
+      {
+        "amountM": 63.875,
+        "name": "General and administrative",
+        "note": "Back office, legal and facilities; down 2% YoY.",
+        "short": "G&A"
+      }
+    ],
+    "otherIncomeM": 26.296,
+    "revenueM": 5017.79,
+    "taxM": 40.161
+  },
+  "follow100": [
+    {
+      "amount": 100.0,
+      "label": "Total net sales"
+    },
+    {
+      "amount": -90.69,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -3.45,
+      "label": "R&D"
+    },
+    {
+      "amount": -0.96,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -1.27,
+      "label": "G&A"
+    },
+    {
+      "amount": 0.52,
+      "label": "Other income"
+    },
+    {
+      "amount": -0.0,
+      "label": "Equity investee loss"
+    },
+    {
+      "amount": -0.8,
+      "label": "Tax"
+    },
+    {
+      "amount": 3.35,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Rows are rounded to cents and the waterfall lands exactly on the $3.35 kept as profit \u2014 at a 9.3% gross margin, almost every sales dollar goes straight back into building the systems.",
+  "footerNote": "Supermicro guided Q2 FY26 net sales to $10.0-$11.0B.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "-15.5%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "diluted; vs $0.67 a year ago; $0.35 non-GAAP",
+      "value": "$0.26"
+    },
+    {
+      "label": "Gross margin",
+      "note": "vs 13.1% a year ago and 9.5% in Q4 FY25",
+      "value": "9.3%"
+    },
+    {
+      "label": "Cash flow from operations",
+      "note": "used in Q1; capex was $32M",
+      "value": "-$918M"
+    }
+  ],
+  "oneTimers": [
+    "Stock-based compensation was $89.1M in the quarter \u2014 the main gap between GAAP net income ($168M) and non-GAAP net income ($240M, diluted basis).",
+    "A $12.0M impairment loss on a non-marketable investment, partly offset by a $6.5M mark-to-market gain on a marketable equity security \u2014 both inside other income, net.",
+    "Management raised the full-year FY26 net sales outlook to at least $36B in this release, up from at least $33B reiterated in the October business update."
+  ],
+  "otherDetail": "Other income, net of $51.2M less $24.9M of interest expense \u2014 a net $26.3M gain outside operations. The $51.2M was mostly interest income, up $43.3M on larger cash deposits funded by convertible-note proceeds, plus a $6.5M mark-to-market gain and $4.4M of foreign-exchange gains, partly offset by a $12.0M impairment loss on a non-marketable investment. A separate $0.1M share of loss from an equity investee, net of taxes, is shown as equityM (amounts from thousands).",
+  "periodEnd": "2025-09-30",
+  "pngFooterNote": "Supermicro guided Q2 FY26 net sales to $10.0-$11.0B.",
+  "quarterLabel": "Q1 FY26",
+  "quarterSlug": "2026-q1",
+  "reportedDate": "2025-11-04",
+  "revenueYoY": "-15.5%",
+  "segments": [
+    {
+      "amountM": 5017.79,
+      "name": "Total net sales",
+      "note": "Supermicro reports a single operating segment and printed no product split this quarter. Sales are mostly complete AI server and rack systems built on its Data Center Building Block Solutions.",
+      "yoy": "-15.5%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000029/exhibit991_20250930.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended Sep 30, 2025 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "-15.5%",
+      "statColor": "#3d7bc8",
+      "text": "Net sales fell to $5.0B from $5.9B a year ago because several large orders arrived only in late September and could not ship \u2014 customer configuration upgrades and data-center readiness delays pushed them into Q2. US sales fell 57% while Asia sales more than doubled.",
+      "title": "Sales slipped on timing, not demand"
+    },
+    {
+      "stat": "9.3%",
+      "statColor": "#b8443c",
+      "text": "Gross margin fell to 9.3% from 13.1% a year ago on product and customer mix, plus $42M of tariff costs and $27M more in inventory write-downs \u2014 so gross profit fell 40% even though sales fell only 15%.",
+      "title": "Margins thinned further"
+    },
+    {
+      "stat": "$168M",
+      "statColor": "#3e8e5a",
+      "text": "Net income fell to $168M from $424M a year ago and $195M in Q4. Operations used $918M of cash as inventories rose $1.0B to build ahead of the delayed orders, while management pointed to more than $13B in Blackwell Ultra orders and raised full-year FY26 revenue guidance to at least $36B.",
+      "title": "Profit fell, but the order book grew"
+    }
+  ],
+  "ticker": "SMCI",
+  "verdict": "Supermicro's sales fell 15.5% to $5.0B as big AI orders landed too late in the quarter to ship, and with gross margin down to 9.3%, net income dropped 60% to $168M."
+}

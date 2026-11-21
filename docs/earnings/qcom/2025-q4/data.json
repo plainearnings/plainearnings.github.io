@@ -1,0 +1,161 @@
+{
+  "company": "Qualcomm",
+  "flow": {
+    "costOfRevenueM": 5033,
+    "grossProfitM": 6237,
+    "netIncomeM": -3117,
+    "operatingIncomeM": 2918,
+    "opex": [
+      {
+        "amountM": 2370,
+        "name": "Research and development",
+        "note": "Building chips, modems and AI platforms; up 3% YoY.",
+        "short": "R&D"
+      },
+      {
+        "amountM": 910,
+        "name": "Selling, general and administrative",
+        "note": "Selling, legal costs and running the company; up 19% YoY.",
+        "short": "SG&A"
+      },
+      {
+        "amountM": 39,
+        "name": "Other",
+        "note": "Restructuring and restructuring-related charges; down from $132M a year ago.",
+        "short": "Other"
+      }
+    ],
+    "otherIncomeM": 53,
+    "revenueM": 11270,
+    "taxM": 6088
+  },
+  "follow100": [
+    {
+      "amount": 87.14,
+      "label": "QCT"
+    },
+    {
+      "amount": 12.5,
+      "label": "QTL"
+    },
+    {
+      "amount": 0.35,
+      "label": "Other and reconciling items"
+    },
+    {
+      "amount": -44.66,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -21.03,
+      "label": "R&D"
+    },
+    {
+      "amount": -8.07,
+      "label": "SG&A"
+    },
+    {
+      "amount": -0.35,
+      "label": "Other"
+    },
+    {
+      "amount": 0.47,
+      "label": "Other income"
+    },
+    {
+      "amount": -54.02,
+      "label": "Tax"
+    },
+    {
+      "amount": -27.66,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Rows are rounded to cents, so the waterfall lands a cent below the \u2212$27.66 kept as profit.",
+  "footerNote": "Qualcomm's Q1 FY26 guidance calls for $11.8\u201312.6B in revenue.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+10%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs $3.00 non-GAAP; $2.59 a year ago",
+      "value": "($2.89)"
+    },
+    {
+      "label": "Automotive revenue",
+      "note": "+17% YoY; fiscal 2025 auto revenue $4.0B, +36%",
+      "value": "$1.1B"
+    },
+    {
+      "label": "Cash returned",
+      "note": "$2.4B buybacks + $957M dividends in Q4",
+      "value": "$3.4B"
+    }
+  ],
+  "oneTimers": [
+    "A $5.7B non-cash tax charge ($5.29 per share) to set up a valuation allowance against U.S. federal deferred tax assets, after the One Big Beautiful Bill Act made Qualcomm expect to pay the 15% corporate alternative minimum tax from fiscal 2026. It is excluded from non-GAAP results; without it, GAAP net income would have been about $2.6B.",
+    "Other costs of $39M were restructuring and restructuring-related charges (fiscal 2025's other expenses consisted of restructuring charges, per the 10-K)."
+  ],
+  "otherDetail": "Investment and other income, net of $224M, less $171M of interest expense \u2014 a net $53M non-operating gain.",
+  "periodEnd": "2025-09-28",
+  "pngFooterNote": "A $5.7B tax charge turned an operating profit into a loss.",
+  "quarterLabel": "Q4 FY25",
+  "quarterSlug": "2025-q4",
+  "reportedDate": "2025-11-05",
+  "revenueYoY": "+10%",
+  "segments": [
+    {
+      "amountM": 9821,
+      "name": "QCT",
+      "note": "The chip business. Inside it: Handsets $6,961M (+14% YoY), Automotive $1,053M (+17%), IoT $1,807M (+7%).",
+      "yoy": "+13%"
+    },
+    {
+      "amountM": 1409,
+      "name": "QTL",
+      "note": "Licensing phone makers to use Qualcomm's patents \u2014 very high margin (72% pre-tax).",
+      "yoy": "-7%"
+    },
+    {
+      "amountM": 40,
+      "name": "Other and reconciling items",
+      "note": "QSI strategic investments and corporate items not in QCT or QTL; the difference between segment revenue and the reported total.",
+      "yoy": null
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000084/qcom092825erex991.htm"
+    },
+    {
+      "label": "Form 10-K for the year ended Sep 28, 2025 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "$11.3B",
+      "statColor": "#3d7bc8",
+      "text": "QCT chip revenue rose 13% to $9.82B \u2014 handsets $6.96B (+14%), automotive $1.05B (+17%) and IoT $1.81B (+7%). Licensing (QTL) went the other way, down 7% to $1.41B.",
+      "title": "Record chip sales, softer licensing"
+    },
+    {
+      "stat": "\u2212$3.1B",
+      "statColor": "#b8443c",
+      "text": "Operating income actually rose 13% to $2.92B. The $5.7B non-cash tax charge \u2014 a valuation allowance on deferred tax assets after new U.S. tax law \u2014 pushed GAAP to a $3.12B net loss. Non-GAAP net income was $3.26B, up 7%.",
+      "title": "A loss on paper only"
+    },
+    {
+      "stat": "13\u201314%",
+      "statColor": "#3d7bc8",
+      "text": "Qualcomm now expects its effective tax rate to stay at 13\u201314% with lower cash tax payments in future periods, and guided Q1 FY26 revenue of $11.8\u201312.6B.",
+      "title": "A lower tax rate ahead"
+    }
+  ],
+  "ticker": "QCOM",
+  "verdict": "Qualcomm grew revenue 10% to $11.3B on record chip sales, but a $5.7B one-time tax charge turned the quarter into a $3.1B net loss \u2014 without it, the business earned about $2.6B."
+}

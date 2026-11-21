@@ -1,0 +1,160 @@
+{
+  "company": "Texas Instruments",
+  "flow": {
+    "costOfRevenueM": 2019,
+    "grossProfitM": 2723,
+    "netIncomeM": 1364,
+    "operatingIncomeM": 1663,
+    "opex": [
+      {
+        "amountM": 518,
+        "name": "Research and development",
+        "note": "R&D \u2014 designing new analog and embedded chips; up 5% from $492M a year ago.",
+        "short": "R&D"
+      },
+      {
+        "amountM": 457,
+        "name": "Selling, general and administrative",
+        "note": "Sales, marketing and the back office (SG&A); up 7% from $428M a year ago.",
+        "short": "SG&A"
+      },
+      {
+        "amountM": 85,
+        "name": "Restructuring charges/other",
+        "note": "Restructuring charges and other items; none a year ago. TI reports these inside its 'Other' segment result.",
+        "short": "Restructuring charges"
+      }
+    ],
+    "otherIncomeM": -79,
+    "revenueM": 4742,
+    "taxM": 220
+  },
+  "follow100": [
+    {
+      "amount": 78.64,
+      "label": "Analog"
+    },
+    {
+      "amount": 14.95,
+      "label": "Embedded Processing"
+    },
+    {
+      "amount": 6.41,
+      "label": "Other"
+    },
+    {
+      "amount": -42.58,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -10.92,
+      "label": "R&D"
+    },
+    {
+      "amount": -9.64,
+      "label": "SG&A"
+    },
+    {
+      "amount": -1.79,
+      "label": "Restructuring charges/other"
+    },
+    {
+      "amount": -1.67,
+      "label": "Other expense"
+    },
+    {
+      "amount": -4.64,
+      "label": "Tax"
+    },
+    {
+      "amount": 28.76,
+      "label": "Kept as profit"
+    }
+  ],
+  "footerNote": "Segment operating profit: Analog $1,486M, Embedded Processing $108M, Other $69M.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago; +7% sequentially",
+      "value": "+14%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs $1.47 a year ago",
+      "value": "$1.48"
+    },
+    {
+      "label": "Analog revenue",
+      "note": "+16% YoY, 79% of revenue",
+      "value": "$3.7B"
+    },
+    {
+      "label": "Free cash flow",
+      "note": "in Q3; trailing-12-month FCF was $2.4B",
+      "value": "$1,068M"
+    }
+  ],
+  "oneTimers": [
+    "Earnings per share included a 10-cent reduction that was not in the company's original guidance, as stated in the release.",
+    "The $85M of restructuring charges/other is reported inside the 'Other' segment, whose operating profit fell to $69M from $129M a year ago."
+  ],
+  "otherDetail": "Other income (expense), net was $62M, less $141M of interest and debt expense \u2014 a net $79M expense outside operations.",
+  "periodEnd": "2025-09-30",
+  "pngFooterNote": "Segment op. profit: Analog $1,486M, Embedded $108M, Other $69M.",
+  "quarterLabel": "Q3 2025",
+  "quarterSlug": "2025-q3",
+  "reportedDate": "2025-10-21",
+  "revenueYoY": "+14%",
+  "segments": [
+    {
+      "amountM": 3729,
+      "name": "Analog",
+      "note": "Analog chips \u2014 sensing and power products used in nearly every electronic device.",
+      "yoy": "+16%"
+    },
+    {
+      "amountM": 709,
+      "name": "Embedded Processing",
+      "note": "Processors that sit inside cars, appliances and factory equipment.",
+      "yoy": "+9%"
+    },
+    {
+      "amountM": 304,
+      "name": "Other",
+      "note": "DLP products, calculators and custom chips.",
+      "yoy": "+11%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/97476/000009747625000056/q32025txnex99-eredgarversi.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended September 30, 2025 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/97476/000009747625000060/txn-20250930.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+16%",
+      "statColor": "#3d7bc8",
+      "text": "Analog revenue rose 16% to $3.73B \u2014 79% of all sales \u2014 while Embedded Processing grew 9% to $709M and Other rose 11% to $304M.",
+      "title": "Analog did the lifting"
+    },
+    {
+      "stat": "57.4%",
+      "statColor": "#b8443c",
+      "text": "Gross margin slipped to 57.4% from 59.6% a year ago, but the revenue growth still lifted operating profit 7% to $1.66B.",
+      "title": "Margins eased"
+    },
+    {
+      "stat": "$1,355M",
+      "statColor": "#3e8e5a",
+      "text": "TI returned $1,355M in the quarter \u2014 $1,236M of dividends and $119M of buybacks \u2014 against $1,068M of free cash flow.",
+      "title": "Cash returned to owners"
+    }
+  ],
+  "ticker": "TXN",
+  "verdict": "Texas Instruments grew revenue 14% to $4.74B as Analog sales rose 16%, and operating profit climbed 7% \u2014 though restructuring charges and a bigger tax bill held net income flat at $1.36B."
+}
