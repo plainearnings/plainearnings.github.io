@@ -1,0 +1,162 @@
+{
+  "company": "CrowdStrike",
+  "flow": {
+    "costOfRevenueM": 381.265,
+    "grossProfitM": 1202.154,
+    "netIncomeM": 24.433,
+    "operatingIncomeM": -0.756,
+    "opex": [
+      {
+        "amountM": 558.464,
+        "name": "Sales & marketing",
+        "note": "Selling Falcon to enterprises \u2014 the biggest running cost. Includes stock-based compensation."
+      },
+      {
+        "amountM": 450.045,
+        "name": "Research & development",
+        "note": "Building the Falcon platform and its AI defenses. The fastest-growing expense line, up 31%."
+      },
+      {
+        "amountM": 194.401,
+        "name": "General & administrative",
+        "note": "Running the company day to day."
+      }
+    ],
+    "otherIncomeM": 42.484,
+    "revenueM": 1583.419,
+    "taxM": 17.295
+  },
+  "follow100": [
+    {
+      "amount": 94.92,
+      "label": "Subscription"
+    },
+    {
+      "amount": 5.08,
+      "label": "Professional services"
+    },
+    {
+      "amount": -24.08,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -28.42,
+      "label": "Research & development"
+    },
+    {
+      "amount": -35.27,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -12.28,
+      "label": "General & administrative"
+    },
+    {
+      "amount": 2.7,
+      "label": "Net interest income"
+    },
+    {
+      "amount": -0.01,
+      "label": "Other income (expense)"
+    },
+    {
+      "amount": -1.09,
+      "label": "Income taxes"
+    },
+    {
+      "amount": 1.54,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "The striking thing: for every $100 of revenue, CrowdStrike spends $35 on sales and marketing and $28 on R&D \u2014 and after all operating expenses, nothing is left. The $1.54 of net income comes entirely from interest on its cash pile, not from operations. On a non-GAAP basis the picture is healthier ($25.61 of operating profit per $100), but $23.48 of that $100 is share-based compensation \u2014 real dilution for shareholders, even if it never leaves the bank account as cash. Rows add up with a small rounding difference.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+28%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs $0.34 non-GAAP",
+      "value": "$0.02"
+    },
+    {
+      "label": "Net new ARR",
+      "note": "record; +58% YoY",
+      "value": "$419M"
+    },
+    {
+      "label": "Free cash flow",
+      "note": "30% of revenue; a record",
+      "value": "$474M"
+    }
+  ],
+  "oneTimers": [
+    "Share-based compensation and related employer payroll taxes, $371.8M (up from $286.1M a year ago): the largest non-GAAP add-back and the entire reason GAAP operating income is ~$0 while non-GAAP is $405.5M. It is excluded from non-GAAP results, but it is a real cost \u2014 it dilutes existing shareholders.",
+    "Costs associated with the July 19 Incident, $11.3M (vs $26.2M a year ago): legal fees, remediation, sensor testing and related costs from the July 2024 outage, net of insurance receivables. Fading, but still recurring two years on. Excluded from non-GAAP results.",
+    "Amortization of acquired intangible assets, $19.8M (vs $7.8M a year ago): rising as acquisitions (Fiddler, Dreadnode and earlier deals) flow in. Excluded from non-GAAP results; it will recur for years as the acquired intangibles amortize.",
+    "Acquisition-related expenses, $3.4M: transaction and integration costs. Excluded from non-GAAP results.",
+    "Zscaler acquisition: announced with these results (all-stock, ~$43.9B, 1.135 CrowdStrike shares per Zscaler share). It is not in this quarter's numbers. A separate 8-K with the merger agreement (Items 1.01/7.01) was filed the same day.",
+    "Share repurchases: $175.6 million of common stock repurchased in the first nine months of FY27 (per the cash-flow statement); no quarter-specific figure disclosed."
+  ],
+  "otherDetail": "Interest income of $48.710M, less $6.009M of interest expense and $0.217M of other expense \u2014 net $42.484M.",
+  "periodEnd": "2026-10-31",
+  "quarterLabel": "Q3 FY27",
+  "quarterSlug": "2027-q3",
+  "reportedDate": "2026-11-23",
+  "revenueYoY": "+28%",
+  "segments": [
+    {
+      "amountM": 1502.926,
+      "name": "Subscription",
+      "note": "The Falcon security platform, sold by subscription \u2014 95% of all revenue.",
+      "yoy": "+29%"
+    },
+    {
+      "amountM": 80.493,
+      "name": "Professional services",
+      "note": "Security experts for hire \u2014 incident response and setup help.",
+      "yoy": "+23%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm"
+    },
+    {
+      "label": "Form 8-K (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended October 31, 2026 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000038/crwd-20261031.htm"
+    },
+    {
+      "label": "CrowdStrike investor relations",
+      "url": "https://ir.crowdstrike.com"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "$419M",
+      "statColor": "#3d7bc8",
+      "text": "Record net new ARR ($419M, +58% YoY), ARR growth accelerating for the fifth straight quarter to 27%, and record operating and free cash flow. The growth engine is speeding up, with Falcon Guardian crossing $100M ARR in its first year and module adoption still deepening.",
+      "title": "Best quarter ever on the metrics that matter for a SaaS business"
+    },
+    {
+      "stat": "1.6%",
+      "statColor": "#b8443c",
+      "text": "CrowdStrike earned $25 million on $1.58 billion of sales \u2014 a 1.6% net margin \u2014 because $372 million of stock-based compensation consumed the entire operating profit. Non-GAAP operating margin of 25.6% is the real operating picture, but shareholders pay for it in dilution, and SBC grew 30% year-over-year, faster than revenue.",
+      "title": "The GAAP profit is five cents short of nothing"
+    },
+    {
+      "stat": "$43.9B",
+      "statColor": "#3e8e5a",
+      "text": "The $43.9 billion all-stock deal announced the same morning is the biggest acquisition in CrowdStrike's history and pushes it into network security, the largest security TAM. Management promises immediate accretion to free cash flow per share; the test over the next year is whether the combined platform sustains the ARR acceleration \u2014 or whether integrating a company nearly half its size distracts from it.",
+      "title": "Zscaler changes the company"
+    }
+  ],
+  "ticker": "CRWD",
+  "verdict": "CrowdStrike posted its best quarter ever \u2014 record net new ARR of $419 million, record operating and free cash flow, and revenue up 28% \u2014 but the GAAP profit is essentially zero ($25 million on $1.58 billion of sales) because $372 million of stock-based compensation eats the entire operating profit, and the day's real news is the $43.9 billion all-stock deal to buy Zscaler."
+}

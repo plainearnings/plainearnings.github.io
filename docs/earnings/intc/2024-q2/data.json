@@ -1,0 +1,186 @@
+{
+  "company": "Intel",
+  "flow": {
+    "costOfRevenueM": 8286,
+    "costOfRevenueNote": "What it cost to make and deliver those chips \u2014 factories, materials, and unused capacity.",
+    "grossProfitM": 4547,
+    "grossProfitNote": "Revenue left after the direct cost of making the chips \u2014 35.4% of revenue, down from 35.8% a year ago.",
+    "netIncomeM": -1654,
+    "netIncomeNote": "The bottom line: a $1,654M net loss \u2014 $1,610M attributable to Intel after $(44)M attributable to non-controlling interests.",
+    "operatingIncomeM": -1964,
+    "operatingIncomeNote": "A $2.0B operating loss \u2014 $4.5B of gross profit could not cover $6.5B of operating expenses.",
+    "opex": [
+      {
+        "amountM": 4239,
+        "name": "Research and development",
+        "note": "Developing new CPUs, AI accelerators and process technology; up from $4,080M a year ago."
+      },
+      {
+        "amountM": 1329,
+        "name": "Marketing, general and administrative",
+        "note": "Sales, marketing and back-office costs; down from $1,374M a year ago."
+      },
+      {
+        "amountM": 943,
+        "name": "Restructuring",
+        "note": "Charges under Intel's cost-reduction actions plus a litigation charge \u2014 $165M of employee severance and $778M of litigation charges and other, including a $780M charge arising out of the R2 litigation. Intel excludes these from its non-GAAP results."
+      }
+    ],
+    "otherIncomeM": -40,
+    "otherIncomeNote": "A $120M loss on equity investments, partly offset by $80M of interest and other income.",
+    "revenueM": 12833,
+    "revenueNote": "Money from selling chips and foundry services to outside customers.",
+    "taxM": -350,
+    "taxNote": "A $350M tax benefit on a $2,004M pre-tax loss, a 17.5% GAAP tax rate; Intel's non-GAAP tax rate is 13.0%."
+  },
+  "follow100": [
+    {
+      "amount": 57.74,
+      "label": "Client Computing Group"
+    },
+    {
+      "amount": 23.73,
+      "label": "Data Center and AI"
+    },
+    {
+      "amount": 10.47,
+      "label": "Network and Edge"
+    },
+    {
+      "amount": 0.6,
+      "label": "Intel Foundry"
+    },
+    {
+      "amount": 7.46,
+      "label": "All other"
+    },
+    {
+      "amount": -64.57,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -33.03,
+      "label": "R&D"
+    },
+    {
+      "amount": -10.36,
+      "label": "Marketing, G&A"
+    },
+    {
+      "amount": -7.35,
+      "label": "Restructuring"
+    },
+    {
+      "amount": -0.31,
+      "label": "Other income"
+    },
+    {
+      "amount": 2.73,
+      "label": "Tax benefit"
+    },
+    {
+      "amount": -12.89,
+      "label": "Net income"
+    }
+  ],
+  "follow100Note": "Intel Foundry is counted at its $77M of outside sales only (stated directly in the Q2 2024 10-Q); the $77M is not derived. All other is shown net of $11M of intersegment eliminations not attributable to Foundry, so the parts sum exactly to Intel's $12,833M total. Rows are rounded to the nearest cent, so the rounded rows sum exactly to the rounded net loss of -$12.89 per $100.",
+  "footerNote": "Net loss attributable to Intel: $(1,610)M, after $(44)M attributable to non-controlling interests.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "down 1%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "diluted, attributable to Intel; non-GAAP EPS was $0.02",
+      "value": "$(0.38)"
+    },
+    {
+      "label": "Gross margin",
+      "note": "down 0.4 points YoY; non-GAAP gross margin was 38.7%",
+      "value": "35.4%"
+    },
+    {
+      "label": "Adjusted free cash flow",
+      "note": "Intel's non-GAAP measure, lifted by $5.9B of partner contributions and incentives; vs $(2.7)B a year ago; operating cash flow was $2.3B",
+      "value": "$8.2B"
+    }
+  ],
+  "oneTimers": [
+    "$943M of restructuring and other charges \u2014 $165M of employee severance and benefit arrangements and $778M of litigation charges and other, including a $780M charge arising out of the R2 litigation; excluded from non-GAAP results. A year ago the same line was $200M.",
+    "A $(120)M loss on equity investments, net, versus a $(24)M loss a year ago \u2014 mark-to-market moves on Intel's investment portfolio rather than chip sales; excluded from non-GAAP results.",
+    "A $39M gain from divestiture \u2014 deferred consideration on the NAND sale to SK hynix; excluded from non-GAAP results."
+  ],
+  "otherDetail": "Other income of $(40)M combines a $(120)M loss on equity investments, net with $80M of interest and other, net (including a $39M gain from divestiture \u2014 deferred consideration on the NAND sale to SK hynix). Intel recorded a $(350)M tax benefit on a $(2,004)M pre-tax loss, a 17.5% GAAP tax rate; the non-GAAP tax rate is 13.0%.",
+  "periodEnd": "2024-06-29",
+  "pngFooterNote": "$943M of charges turned $12.8B of revenue into a $1.6B loss.",
+  "quarterLabel": "Q2 2024",
+  "quarterSlug": "2024-q2",
+  "reportedDate": "2024-08-01",
+  "revenueYoY": "down 1%",
+  "segments": [
+    {
+      "amountM": 7410,
+      "name": "Client Computing Group",
+      "note": "PC and client chips; up 9% YoY. Segment operating income was $2,497M, up from $1,986M a year ago.",
+      "yoy": "+9%"
+    },
+    {
+      "amountM": 3045,
+      "name": "Data Center and AI",
+      "note": "Xeon server chips and AI data-center products; down 3% YoY. Segment operating income was $276M, down from $469M a year ago.",
+      "yoy": "-3%"
+    },
+    {
+      "amountM": 1344,
+      "name": "Network and Edge",
+      "note": "Networking and edge-computing chips; down 1% YoY. Segment operating income was $139M, up from $64M a year ago.",
+      "yoy": "-1%"
+    },
+    {
+      "amountM": 77,
+      "name": "Intel Foundry",
+      "note": "Intel's chip factories, shown at their $77M of sales to OUTSIDE customers only (stated directly in the Q2 2024 10-Q, down 67% YoY). Foundry's total segment revenue was $4,320M, but $4,243M of that was wafers sold to Intel's own product groups \u2014 counting it here would count the same dollars twice. Foundry lost $2,830M in the quarter.",
+      "yoy": "-67%"
+    },
+    {
+      "amountM": 957,
+      "name": "All other",
+      "note": "Altera (programmable chips), Mobileye (self-driving tech) and smaller businesses. Intel reports this group at $968M; it is shown as $957M here, net of $11M of intersegment eliminations not attributable to Foundry, so the parts sum exactly to Intel's $12,833M total. Down 32% YoY. Segment operating loss was $(35)M.",
+      "yoy": "-32%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000122/q224_earningsrelease.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended Jun 29, 2024 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000124/intc-20240629.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "$(1.6)B",
+      "statColor": "#5b6b7c",
+      "text": "Revenue fell 1% to $12.8B and the operating loss widened to $1,964M from $1,016M a year ago, after a $943M restructuring and litigation charge. Excluding that charge and other adjustments, non-GAAP operating income was just $24M and non-GAAP EPS was $0.02 versus GAAP EPS of $(0.38). Intel answered with a $10B cost-reduction plan, a headcount cut of more than 15%, and a suspended dividend from Q4.",
+      "title": "The loss, and the reset it triggered"
+    },
+    {
+      "stat": "$(2.8)B",
+      "statColor": "#5b6b7c",
+      "text": "Intel Foundry lost $2,830M on $4,320M of segment revenue, and only $77M of that revenue came from outside customers \u2014 down 67% YoY \u2014 the rest was wafers sold to Intel's own product groups. The product groups still earned $2,912M combined: Client Computing $2,497M, Data Center and AI $276M and Network and Edge $139M.",
+      "title": "Foundry lost more than the product groups earned"
+    },
+    {
+      "stat": "$8.2B",
+      "statColor": "#5b6b7c",
+      "text": "Operating cash flow was $2,292M, but adjusted free cash flow of $8,155M was lifted by $5,863M of net partner contributions and incentives, mostly the Apollo joint venture for Fab 34 in Ireland. Intel paid $0.5B in dividends \u2014 its last before the suspension \u2014 and Q3 guidance is $12.5\u201313.5B of revenue with GAAP EPS of $(0.24).",
+      "title": "Cash flow flattered by a factory deal"
+    }
+  ],
+  "ticker": "INTC",
+  "verdict": "Intel lost $1.6 billion in the second quarter on $12.8 billion of revenue, then suspended its dividend and announced a $10 billion cost-cutting plan with more than 15% of jobs to go."
+}

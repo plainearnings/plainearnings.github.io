@@ -1,0 +1,162 @@
+{
+  "company": "CrowdStrike",
+  "flow": {
+    "costOfRevenueM": 342.277,
+    "grossProfitM": 1043.352,
+    "netIncomeM": 45.966,
+    "operatingIncomeM": -30.6,
+    "opex": [
+      {
+        "amountM": 488.674,
+        "name": "Sales & marketing",
+        "note": "Selling Falcon to enterprises \u2014 the biggest running cost."
+      },
+      {
+        "amountM": 408.326,
+        "name": "Research & development",
+        "note": "Building the Falcon platform and its AI defenses."
+      },
+      {
+        "amountM": 176.952,
+        "name": "General & administrative",
+        "note": "Running the company day to day."
+      }
+    ],
+    "otherIncomeM": 69.663,
+    "revenueM": 1385.629,
+    "taxM": -6.903
+  },
+  "follow100": [
+    {
+      "amount": 95.32,
+      "label": "Subscription"
+    },
+    {
+      "amount": 4.68,
+      "label": "Professional services"
+    },
+    {
+      "amount": -24.7,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -35.27,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -29.47,
+      "label": "Research & development"
+    },
+    {
+      "amount": -12.77,
+      "label": "General & administrative"
+    },
+    {
+      "amount": 2.48,
+      "label": "Net interest income"
+    },
+    {
+      "amount": 2.54,
+      "label": "Other income"
+    },
+    {
+      "amount": 0.5,
+      "label": "Tax benefit"
+    },
+    {
+      "amount": 3.32,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Rows add up with a small rounding difference.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+26%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs $1.10 non-GAAP",
+      "value": "$0.11"
+    },
+    {
+      "label": "Net new ARR",
+      "note": "record; +32% YoY; ARR $5.51B, +24%",
+      "value": "$256M"
+    },
+    {
+      "label": "Free cash flow",
+      "note": "a Q1 record",
+      "value": "$469M"
+    }
+  ],
+  "oneTimers": [
+    "Strategic investment gains, $36.4M: realized gains on investments held by the Falcon Funds, booked in other income. They are what turned an operating loss into a profit \u2014 but $18.2M of the gain belonged to outside investors in those funds (non-controlling interest), so only $27.8M of the $46.0M net income was attributable to CrowdStrike (GAAP EPS $0.11).",
+    "Share-based compensation and related employer payroll taxes, $317.6M (up from $265.6M a year ago): the largest non-GAAP add-back and the entire reason GAAP operating income is negative while non-GAAP is $325.7M. It is excluded from non-GAAP results, but it is a real cost \u2014 it dilutes existing shareholders.",
+    "Costs associated with the July 19 Incident, $18.1M (vs $39.7M a year ago): legal fees, remediation, sensor testing and related costs from the July 2024 outage, net of insurance receivables. Fading, but still recurring two years on. Excluded from non-GAAP results.",
+    "Amortization of acquired intangible assets, $12.4M (vs $7.6M a year ago): rising as acquisitions flow in. Excluded from non-GAAP results; it will recur for years as the acquired intangibles amortize.",
+    "Acquisition-related expenses, $7.6M: transaction and integration costs for SGNL (acquired Feb 20, 2026 for $627.9M cash) and Seraphic (remaining 90.6% acquired Feb 3, 2026). Excluded from non-GAAP results. The two deals added $886.6M of goodwill.",
+    "Four-for-one stock split: announced with these results; shareholders of record June 25, 2026 receive three extra shares per share held, with trading on a split-adjusted basis from July 2, 2026. It changes the share count, not the business."
+  ],
+  "otherDetail": "Interest income of $40.542M, less $6.116M of interest expense, plus $35.237M of other income (mostly $36.384M of gains on strategic investments) \u2014 net $69.663M. The tax line is a $6.903M benefit, not a charge.",
+  "periodEnd": "2026-04-30",
+  "quarterLabel": "Q1 FY27",
+  "quarterSlug": "2026-q1",
+  "reportedDate": "2026-06-03",
+  "revenueYoY": "+26%",
+  "segments": [
+    {
+      "amountM": 1320.853,
+      "name": "Subscription",
+      "note": "The Falcon security platform, sold by subscription \u2014 95% of all revenue.",
+      "yoy": "+26%"
+    },
+    {
+      "amountM": 64.776,
+      "name": "Professional services",
+      "note": "Security experts for hire \u2014 incident response and setup help.",
+      "yoy": "+23%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000022/crwd-20260603xex991.htm"
+    },
+    {
+      "label": "Form 8-K (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000022/crwd-20260603.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended April 30, 2026 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000025/crwd-20260430.htm"
+    },
+    {
+      "label": "CrowdStrike investor relations",
+      "url": "https://ir.crowdstrike.com"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "$256M",
+      "statColor": "#3d7bc8",
+      "text": "Net new ARR \u2014 new subscription value signed in the quarter \u2014 hit a record $256M, up 32%, taking total ARR to $5.51B (+24% YoY). Management raised full-year net new ARR growth guidance by 520 basis points to 27.7% at the midpoint. Adoption keeps deepening: 51% of customers now use six or more Falcon modules.",
+      "title": "Record new business"
+    },
+    {
+      "stat": "-$31M",
+      "statColor": "#b8443c",
+      "text": "The GAAP operating loss was $30.6M \u2014 much better than the $118.7M loss a year ago, but still a loss. Stock-based compensation of $317.6M is the whole gap: excluding it, operating income was $325.7M, a 24% margin. The profit is real; shareholders pay for it in dilution.",
+      "title": "Operations still lose money on a GAAP basis"
+    },
+    {
+      "stat": "$469M",
+      "statColor": "#3e8e5a",
+      "text": "Operating cash flow of $590.9M and free cash flow of $468.5M were both Q1 records \u2014 customers pay subscriptions upfront, so cash arrives long before the revenue is counted. Cash and equivalents still ended at $4.55B even after $881M spent on two acquisitions and $176M of buybacks, and the board approved a four-for-one stock split.",
+      "title": "Cash flow is the real story"
+    }
+  ],
+  "ticker": "CRWD",
+  "verdict": "CrowdStrike grew revenue 26% to $1.39B and signed a record $256M of net new subscriptions, but the core business still lost $31M \u2014 $318M of stock pay ate the operating profit \u2014 and investment gains plus interest on its cash pile flipped the quarter to a $46M profit, only $28M of which belonged to CrowdStrike shareholders."
+}
