@@ -1,0 +1,152 @@
+{
+  "company": "Palo Alto Networks",
+  "flow": {
+    "costOfRevenueM": 679,
+    "grossProfitM": 1857,
+    "netIncomeM": 254,
+    "operatingIncomeM": 497,
+    "opex": [
+      {
+        "amountM": 504,
+        "name": "Research & development",
+        "note": "Building the security platforms \u2014 engineers and new products, up 2% as hiring stayed measured."
+      },
+      {
+        "amountM": 829,
+        "name": "Sales & marketing",
+        "note": "Selling security platforms to enterprises \u2014 the largest running cost, a third of revenue."
+      },
+      {
+        "amountM": 27,
+        "name": "General & administrative",
+        "note": "Running the company day to day \u2014 collapsed from $140M a year ago on a $142M revaluation gain on the IBM QRadar earn-out."
+      }
+    ],
+    "otherIncomeM": 95,
+    "revenueM": 2536,
+    "taxM": 338
+  },
+  "follow100": [
+    {
+      "amount": 77.37,
+      "label": "Subscription & support"
+    },
+    {
+      "amount": 22.63,
+      "label": "Product"
+    },
+    {
+      "amount": -26.77,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -19.87,
+      "label": "R&D"
+    },
+    {
+      "amount": -32.69,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -1.06,
+      "label": "G&A"
+    },
+    {
+      "amount": 3.75,
+      "label": "Other income"
+    },
+    {
+      "amount": -13.33,
+      "label": "Tax"
+    },
+    {
+      "amount": 10.02,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Rows add up with a small rounding difference: on rounded rows the kept profit comes to $10.03 per $100, vs $10.02 exact.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+16%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs $0.95 non-GAAP",
+      "value": "$0.36"
+    },
+    {
+      "label": "Next-Gen Security ARR",
+      "note": "+32% YoY",
+      "value": "$5.6B"
+    },
+    {
+      "label": "Remaining performance obligation",
+      "note": "+24% YoY",
+      "value": "$15.8B"
+    }
+  ],
+  "oneTimers": [
+    "A one-time deferred tax provision of $218.5M from the One Big Beautiful Bill Act (enacted July 4, 2025) \u2014 a remeasurement of foreign deferred tax assets \u2014 is the main reason the tax provision hit $338M, a 57% effective rate. Non-GAAP results exclude it through a $148.1M income-tax adjustment.",
+    "A $141.8M net acquisition-related credit \u2014 mostly a gain from revaluing the contingent consideration owed on the IBM QRadar assets after the payment terms were amended in June 2025 \u2014 sits inside G&A and is why that line fell to $27M from $140M a year ago.",
+    "Share-based compensation of $372.7M and amortization of acquired intangibles of $36.9M are excluded from non-GAAP results \u2014 but stock pay dilutes shareholders, and it is the biggest reason GAAP profit ($254M) trails non-GAAP profit ($673M).",
+    "On July 30, 2025 Palo Alto signed a definitive agreement to acquire CyberArk for about $25B in cash and stock ($45.00 cash plus 2.2005 Palo Alto shares per CyberArk share). It is not in this quarter's numbers and is expected to close in the second half of fiscal 2026."
+  ],
+  "otherDetail": "Other income of $95M, net \u2014 $94.8M of other income, mostly interest income on cash and investments, less $0.2M of interest expense.",
+  "periodEnd": "2025-07-31",
+  "quarterLabel": "Q4 FY25",
+  "quarterSlug": "2025-q4",
+  "reportedDate": "2025-08-18",
+  "revenueYoY": "+16%",
+  "segments": [
+    {
+      "amountM": 1962,
+      "name": "Subscription & support",
+      "note": "Security software subscriptions and support contracts \u2014 the recurring core, 77% of revenue; Next-Gen Security ARR grew 32% to $5.6B.",
+      "yoy": "+15%"
+    },
+    {
+      "amountM": 574,
+      "name": "Product",
+      "note": "Firewall hardware and appliances shipped to customers.",
+      "yoy": "+19%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756725000024/ex991q425earningsrelease.htm"
+    },
+    {
+      "label": "Form 8-K (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756725000024/panw-20250813.htm"
+    },
+    {
+      "label": "Form 10-K (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756725000027/panw-20250731.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+32%",
+      "statColor": "#3d7bc8",
+      "text": "Next-Generation Security ARR \u2014 subscriptions to its newer software platforms \u2014 grew 32% to $5.6B, and remaining performance obligations, contracted revenue not yet delivered, grew 24% to $15.8B, more than 6\u00d7 this quarter's sales. Management called Palo Alto a 'Rule-of-50' company for the fifth straight year.",
+      "title": "The new platforms are compounding"
+    },
+    {
+      "stat": "$338M",
+      "statColor": "#b8443c",
+      "text": "Operating profit more than doubled to $497M, but the tax provision jumped to $338M \u2014 a 57% effective rate \u2014 after the One Big Beautiful Bill Act forced a one-time $219M deferred-tax remeasurement. GAAP net income fell 29% to $254M even as non-GAAP profit rose 29% to $673M.",
+      "title": "The tax line ate the profit"
+    },
+    {
+      "stat": "$9.2B",
+      "statColor": "#3e8e5a",
+      "text": "Full-year revenue reached $9.22B, up 15%, with $3.72B of operating cash flow, and the company said it exited the year past a $10B revenue run-rate. GAAP net income for the year was $1.13B, down from $2.58B only because fiscal 2024 included a $1.6B one-time tax benefit.",
+      "title": "Fiscal 2025 in one line"
+    }
+  ],
+  "ticker": "PANW",
+  "verdict": "Palo Alto Networks grew revenue 16% to $2.54B and Next-Gen Security ARR 32% to $5.6B, but GAAP net income fell 29% to $254M \u2014 operating profit more than doubled, yet a one-time tax charge from the new One Big Beautiful Bill tax law pushed the tax bill to $338M and swallowed the gain."
+}

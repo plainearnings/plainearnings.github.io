@@ -1,0 +1,144 @@
+{
+  "company": "Airbnb",
+  "flow": {
+    "costOfRevenueM": 549,
+    "grossProfitM": 3546,
+    "netIncomeM": 1374,
+    "operatingIncomeM": 1625,
+    "opex": [
+      {
+        "amountM": 365,
+        "name": "Operations and support",
+        "note": "Supporting hosts and guests \u2014 customer service, trust & safety and host insurance."
+      },
+      {
+        "amountM": 587,
+        "name": "Product development",
+        "note": "Building the app and new products like experiences and services."
+      },
+      {
+        "amountM": 639,
+        "name": "Sales & marketing",
+        "note": "Marketing to win travelers and hosts."
+      },
+      {
+        "amountM": 330,
+        "name": "General & administrative",
+        "note": "Running the company day to day."
+      }
+    ],
+    "otherIncomeM": 167,
+    "revenueM": 4095,
+    "taxM": 418
+  },
+  "follow100": [
+    {
+      "amount": 100.0,
+      "label": "Stays & experiences"
+    },
+    {
+      "amount": -13.41,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -8.91,
+      "label": "Operations & support"
+    },
+    {
+      "amount": -14.34,
+      "label": "Product development"
+    },
+    {
+      "amount": -15.6,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -8.06,
+      "label": "G&A"
+    },
+    {
+      "amount": 4.08,
+      "label": "Other income"
+    },
+    {
+      "amount": -10.21,
+      "label": "Tax"
+    },
+    {
+      "amount": 33.55,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Rows add up with a small rounding difference.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+10%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "diluted",
+      "value": "$2.21"
+    },
+    {
+      "label": "Nights & seats booked",
+      "note": "+9% YoY",
+      "value": "133.6M"
+    },
+    {
+      "label": "Free cash flow",
+      "note": "33% of revenue",
+      "value": "$1.3B"
+    }
+  ],
+  "oneTimers": [
+    "$213M valuation allowance against deferred tax assets related to Corporate Alternative Minimum Tax (CAMT) credits, recorded inside the $418M tax provision. The shareholder letter calls it out as the reason net income was flat year over year despite 10% revenue growth."
+  ],
+  "otherDetail": "Interest and other items netted +$167M: $180M of interest earned (Airbnb holds billions in guest payments before stays happen), minus $13M of other expense, mostly net foreign-exchange losses. Interest expense was immaterial, per the 10-Q.",
+  "periodEnd": "2025-09-30",
+  "quarterLabel": "Q3 2025",
+  "quarterSlug": "2025-q3",
+  "reportedDate": "2025-11-06",
+  "revenueYoY": "+10%",
+  "segments": [
+    {
+      "amountM": 4095,
+      "name": "Stays & experiences",
+      "note": "Service fees charged to hosts and guests on every booking \u2014 Airbnb owns almost no property, so its revenue is a cut of each stay. One revenue stream.",
+      "yoy": "+10%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official shareholder letter (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312525269432/d40503dex991.htm"
+    },
+    {
+      "label": "Quarterly report, Form 10-Q (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1559720/000155972025000030/abnb-20250930.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "133.6M",
+      "statColor": "#3d7bc8",
+      "text": "Nights and seats booked grew 9% \u2014 faster than last quarter \u2014 and gross booking value rose 14% to $22.9B as the average daily rate climbed 5% to $171. Growth was double-digit outside North America, and the new Reserve Now, Pay Later option helped bookings in the U.S.",
+      "title": "Bookings accelerated"
+    },
+    {
+      "stat": "$2.1B",
+      "statColor": "#3e8e5a",
+      "text": "Adjusted EBITDA topped $2.0B for the first time in any quarter, a 50% margin. Airbnb collects guest money before the stay and owns no hotels, so growth converts unusually cleanly into profit and $1.3B of free cash flow.",
+      "title": "Record operating profit"
+    },
+    {
+      "stat": "$213M",
+      "statColor": "#5b6b7c",
+      "text": "Net income of $1,374M was nearly unchanged from $1,368M a year ago. The tax provision included a $213M valuation allowance against tax credits related to the Corporate Alternative Minimum Tax \u2014 without it, net income would have grown.",
+      "title": "A one-off tax charge held profit flat"
+    }
+  ],
+  "ticker": "ABNB",
+  "verdict": "Airbnb's biggest Q3 yet: 133.6 million nights and seats booked drove revenue up 10% to $4.1B, and net income held at $1.4B \u2014 34 cents of every revenue dollar \u2014 despite a $213M one-off tax charge."
+}

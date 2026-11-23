@@ -1,0 +1,157 @@
+{
+  "company": "DoorDash",
+  "flow": {
+    "costOfRevenueM": 1757,
+    "grossProfitM": 1689,
+    "netIncomeM": 243,
+    "operatingIncomeM": 258,
+    "opex": [
+      {
+        "amountM": 576,
+        "name": "Sales & marketing",
+        "note": "Marketing and promotions to win diners, merchants and couriers."
+      },
+      {
+        "amountM": 355,
+        "name": "Research & development",
+        "note": "Building the delivery platform, including AI and autonomy work."
+      },
+      {
+        "amountM": 400,
+        "name": "General & administrative",
+        "note": "Running the company day to day."
+      },
+      {
+        "amountM": 99,
+        "name": "Depreciation & amortization",
+        "note": "Wear-and-tear on equipment, vehicles and software \u2014 the part not counted inside cost of revenue."
+      },
+      {
+        "amountM": 1,
+        "name": "Restructuring charges",
+        "note": "One-off restructuring charges."
+      }
+    ],
+    "otherIncomeM": -10,
+    "revenueM": 3446,
+    "taxM": 5
+  },
+  "follow100": [
+    {
+      "amount": 100.0,
+      "label": "Marketplace services"
+    },
+    {
+      "amount": -50.99,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -16.72,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -10.3,
+      "label": "R&D"
+    },
+    {
+      "amount": -11.61,
+      "label": "G&A"
+    },
+    {
+      "amount": -2.87,
+      "label": "Depreciation & amort."
+    },
+    {
+      "amount": -0.03,
+      "label": "Restructuring"
+    },
+    {
+      "amount": -0.29,
+      "label": "Other income"
+    },
+    {
+      "amount": -0.15,
+      "label": "Tax"
+    },
+    {
+      "amount": 7.05,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Rows add up with a small rounding difference.",
+  "footerNote": "DoorDash reports cost of revenue before depreciation. The $70M of depreciation tied to cost of revenue is included in cost above, so the gross profit shown ($1,689M) matches DoorDash's published figure. Net income attributable to DoorDash stockholders was $244M (a $1M loss sat with non-controlling interests).",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+27%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs $0.38 a year ago",
+      "value": "$0.55"
+    },
+    {
+      "label": "Marketplace GOV",
+      "note": "+25% YoY",
+      "value": "$25.0B"
+    },
+    {
+      "label": "Total orders",
+      "note": "+21% YoY",
+      "value": "776M"
+    }
+  ],
+  "oneTimers": [
+    "The chart's net profit is $243M \u2014 net income including redeemable non-controlling interests. After a $1M loss attributable to those interests, $244M was attributable to DoorDash common stockholders, the headline figure.",
+    "Other expense of $81M was almost entirely a non-cash unrealized loss on the deal-contingent currency forward hedging the \u00a32.8B Deliveroo purchase price; the forward was settled on October 8, 2025, when the deal closed.",
+    "General and administrative costs include $48M of certain legal, tax, and regulatory settlements, reserves, and expenses, and $17M of transaction-related costs, mostly for the Deliveroo acquisition."
+  ],
+  "otherDetail": "Interest and other items netted \u2212$10M \u2014 $71M of interest income, net, less $81M of other expense, net (mostly the non-cash Deliveroo hedge loss).",
+  "periodEnd": "2025-09-30",
+  "quarterLabel": "Q3 2025",
+  "quarterSlug": "2025-q3",
+  "reportedDate": "2025-11-05",
+  "revenueYoY": "+27%",
+  "segments": [
+    {
+      "amountM": 3446,
+      "name": "Marketplace services",
+      "note": "Commissions from restaurants and stores, delivery fees, and DashPass/Wolt+ memberships across DoorDash's marketplaces. DoorDash reports one revenue stream.",
+      "yoy": "+27%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1792789/000179278925000018/proddashex991-pressrelease.htm"
+    },
+    {
+      "label": "Form 10-Q, quarter ended Sept 30, 2025 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1792789/000179278925000020/dash-20250930.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "$25.0B",
+      "statColor": "#3d7bc8",
+      "text": "Gross order value rose 25% to $25.0B on 776M orders. DoorDash keeps only a slice of each order \u2014 $3.4B of revenue from $25.0B of goods is the whole model in one line.",
+      "title": "The marketplace keeps compounding"
+    },
+    {
+      "stat": "+51%",
+      "statColor": "#3e8e5a",
+      "text": "Net income rose 51% to $244M from $162M a year ago, and operating income more than doubled to $258M from $107M. An $81M non-cash loss on the Deliveroo currency hedge sat in other expense \u2014 without it, the bottom line would have been higher still.",
+      "title": "Profit jumped even with a hedge loss"
+    },
+    {
+      "stat": "$754M",
+      "statColor": "#5b6b7c",
+      "text": "Adjusted EBITDA rose 41% to $754M (3.0% of GOV) and free cash flow was $723M. Deliveroo closed on October 2, taking the combined business past 50M monthly users and $100B in annualized order value.",
+      "title": "Cash machine, and Deliveroo is now in"
+    }
+  ],
+  "ticker": "DASH",
+  "verdict": "DoorDash's marketplace kept compounding \u2014 orders up 21%, the value of goods ordered up 25% to $25.0B \u2014 and net income rose 51% to $244M even after an $81M non-cash loss on the currency hedge for the Deliveroo deal.",
+  "pngFooterNote": "Cost of revenue includes $70M of depreciation."
+}

@@ -1,0 +1,146 @@
+{
+  "company": "CrowdStrike",
+  "flow": {
+    "costOfRevenueM": 310.283,
+    "grossProfitM": 858.669,
+    "netIncomeM": -77.645,
+    "operatingIncomeM": -112.979,
+    "opex": [
+      {
+        "amountM": 447.024,
+        "name": "Sales and marketing",
+        "note": "Selling Falcon to enterprises \u2014 the biggest running cost.",
+        "short": "Sales & marketing"
+      },
+      {
+        "amountM": 346.668,
+        "name": "Research and development",
+        "note": "Building the Falcon platform and its AI defenses.",
+        "short": "R&D"
+      },
+      {
+        "amountM": 177.956,
+        "name": "General and administrative",
+        "note": "Running the company day to day \u2014 includes costs tied to the July 19 Incident and the May 2025 strategic plan.",
+        "short": "G&A"
+      }
+    ],
+    "otherIncomeM": 41.305,
+    "revenueM": 1168.952,
+    "taxM": 5.971
+  },
+  "follow100": [
+    {
+      "amount": 94.35,
+      "label": "Subscription"
+    },
+    {
+      "amount": 5.65,
+      "label": "Professional services"
+    },
+    {
+      "amount": -26.54,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -38.24,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -29.66,
+      "label": "R&D"
+    },
+    {
+      "amount": -15.22,
+      "label": "G&A"
+    },
+    {
+      "amount": 3.53,
+      "label": "Other income"
+    },
+    {
+      "amount": -0.51,
+      "label": "Tax"
+    },
+    {
+      "amount": -6.64,
+      "label": "Net loss"
+    }
+  ],
+  "footerNote": "Consolidated net loss was $77.6M; attributable to CrowdStrike, $77.7M.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+21%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "attributable, diluted; vs $0.93 non-GAAP",
+      "value": "-$0.31"
+    },
+    {
+      "label": "ARR",
+      "note": "+20% YoY; $221M net new ARR in Q2, a record",
+      "value": "$4.66B"
+    },
+    {
+      "label": "Free cash flow",
+      "note": "in Q2 FY26, a record for the quarter",
+      "value": "$284M"
+    }
+  ],
+  "oneTimers": [
+    "Costs tied to the July 19 Incident and related matters were $35.7M in the quarter, vs $5.1M a year ago.",
+    "Charges tied to the May 2025 strategic plan \u2014 cutting about 500 roles, 5% of the workforce \u2014 were $38.4M, mostly severance ($20.1M) and stock pay ($17.9M).",
+    "Stock-based compensation and related payroll taxes were $284.2M \u2014 the main reason non-GAAP net income attributable to CrowdStrike ($237.4M) contrasts with the GAAP attributable net loss ($77.7M)."
+  ],
+  "otherDetail": "Interest income of $50.9M, less $6.8M of interest expense and $2.7M of other costs, net \u2014 a net $41.3M gain outside operations.",
+  "periodEnd": "2025-07-31",
+  "quarterLabel": "Q2 FY26",
+  "quarterSlug": "2026-q2",
+  "reportedDate": "2025-08-27",
+  "revenueYoY": "+21%",
+  "segments": [
+    {
+      "amountM": 1102.945,
+      "name": "Subscription",
+      "note": "The Falcon security platform, sold by subscription \u2014 94% of all revenue.",
+      "yoy": "+20%"
+    },
+    {
+      "amountM": 66.007,
+      "name": "Professional services",
+      "note": "Security experts for hire \u2014 incident response and setup help.",
+      "yoy": "+45%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552725000023/crwd-20252708xex991.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "$221M",
+      "statColor": "#3d7bc8",
+      "text": "Net new ARR \u2014 new subscription value signed in the quarter \u2014 hit a record $221.1M, taking ending ARR to $4.66B, up 20% year over year. Over 1,000 customers are now on the Flex subscription model.",
+      "title": "Record new business"
+    },
+    {
+      "stat": "-$113M",
+      "statColor": "#b8443c",
+      "text": "The GAAP operating loss was $113.0M as $284.2M of stock-based pay weighed, plus $35.7M of July 19 Incident costs and $38.4M of strategic-plan charges; non-GAAP operating income was a record $255.0M.",
+      "title": "In the red on paper"
+    },
+    {
+      "stat": "$284M",
+      "statColor": "#3e8e5a",
+      "text": "Free cash flow was a Q2-record $283.6M on $332.8M of operating cash flow, and cash grew to a record $4.97B \u2014 CrowdStrike's cash generation is far stronger than its GAAP result suggests.",
+      "title": "Cash flow tells another story"
+    }
+  ],
+  "ticker": "CRWD",
+  "verdict": "CrowdStrike grew revenue 21% to $1.17B and signed a record $221M of new subscription business, but stock pay, outage costs and a restructuring charge kept the quarter in the red \u2014 a $78M net loss \u2014 even as non-GAAP profit hit a record $237M."
+}

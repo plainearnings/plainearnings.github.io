@@ -1,0 +1,148 @@
+{
+  "company": "ServiceNow",
+  "flow": {
+    "costOfRevenueM": 774,
+    "grossProfitM": 2633,
+    "netIncomeM": 502,
+    "operatingIncomeM": 572,
+    "opex": [
+      {
+        "amountM": 1056,
+        "name": "Sales & marketing",
+        "note": "Selling the platform to big companies \u2014 the largest running cost."
+      },
+      {
+        "amountM": 750,
+        "name": "Research & development",
+        "note": "Building the platform and its AI features."
+      },
+      {
+        "amountM": 255,
+        "name": "General & administrative",
+        "note": "Running the company day to day."
+      }
+    ],
+    "otherIncomeM": 122,
+    "revenueM": 3407,
+    "taxM": 192
+  },
+  "follow100": [
+    {
+      "amount": 96.83,
+      "label": "Subscription"
+    },
+    {
+      "amount": 3.17,
+      "label": "Professional services"
+    },
+    {
+      "amount": -22.72,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -31.0,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -22.01,
+      "label": "R&D"
+    },
+    {
+      "amount": -7.48,
+      "label": "G&A"
+    },
+    {
+      "amount": 3.58,
+      "label": "Other income"
+    },
+    {
+      "amount": -5.64,
+      "label": "Tax"
+    },
+    {
+      "amount": 14.73,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Rows add up exactly to the profit kept.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+22%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs $4.82 non-GAAP",
+      "value": "$2.40"
+    },
+    {
+      "label": "Future revenue booked (RPO)",
+      "note": "+24% YoY",
+      "value": "$24.3B"
+    },
+    {
+      "label": "Free cash flow",
+      "note": "17% of revenue (non-GAAP)",
+      "value": "$592M"
+    }
+  ],
+  "oneTimers": [
+    "Stock-based compensation was $492M in the quarter \u2014 the main reason non-GAAP net income ($1,010M) is about double the GAAP figure ($502M). The cost is real; it is paid in shares instead of cash.",
+    "Severance costs of $24M in the quarter ($53M in the first nine months) \u2014 excluded from the non-GAAP figures.",
+    "Business combination and other related costs of $19M, mostly tied to acquisitions \u2014 also excluded from non-GAAP results.",
+    "The board authorized a five-for-one stock split, subject to shareholder approval at a special meeting on December 5, 2025. The EPS figures above are pre-split."
+  ],
+  "otherDetail": "Other income netted to +$122M: $115M of interest earned on cash, plus $7M of other income.",
+  "periodEnd": "2025-09-30",
+  "quarterLabel": "Q3 2025",
+  "quarterSlug": "2025-q3",
+  "reportedDate": "2025-10-29",
+  "revenueYoY": "+22%",
+  "segments": [
+    {
+      "amountM": 3299,
+      "name": "Subscription",
+      "note": "Software subscriptions \u2014 companies paying to run their workflows on ServiceNow, increasingly including its AI agents. 97% of all revenue.",
+      "yoy": "+21.5%"
+    },
+    {
+      "amountM": 108,
+      "name": "Professional services",
+      "note": "Implementation help and training \u2014 people who set the platform up for customers.",
+      "yoy": "+32%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371525000305/erq3fy25.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended September 30, 2025 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371525000309/now-20250930.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+22%",
+      "statColor": "#3d7bc8",
+      "text": "Total revenue grew 22% and subscription revenue 21.5%, with the company saying it exceeded guidance on every topline growth and profitability metric \u2014 and it raised its full-year targets for subscription revenue, operating margin, and free cash flow.",
+      "title": "Growth beat guidance across the board"
+    },
+    {
+      "stat": "$24.3B",
+      "statColor": "#3e8e5a",
+      "text": "Remaining performance obligations hit $24.3B, up 24% \u2014 revenue already contracted but not yet delivered. The next 12 months alone hold $11.35B (current RPO, +21%), and 553 customers now spend over $5M a year each, up 18%.",
+      "title": "Future revenue keeps stacking"
+    },
+    {
+      "stat": "$2.40 vs $4.82",
+      "statColor": "#b8443c",
+      "text": "GAAP EPS was $2.40; excluding stock pay and one-offs it was $4.82. Stock-based pay of $492M is the single biggest gap between the two profit measures.",
+      "title": "Two very different profits"
+    }
+  ],
+  "ticker": "NOW",
+  "verdict": "ServiceNow grew revenue 22% to $3.4B, beat its own guidance on every topline and profitability metric, and pre-sold another $24.3B of future business \u2014 while GAAP profit rose 16% to $502M."
+}
