@@ -43,6 +43,10 @@
         {
           "label": "Lzzo IPO calendar — amended S-1 of Nov 10 sets $70–$78 range",
           "url": "https://lzzo.com/ipo-calendar"
+        },
+        {
+          "label": "Motley Fool — Anthropic stock fell even as the Nasdaq had its best day since April 2025",
+          "url": "https://www.fool.com/investing/2026/11/23/the-nasdaq-just-had-its-best-day-since-april-2025-anthropic-stock-fell-anyway/"
         }
       ],
       "status": "listed",
@@ -57,7 +61,8 @@
         "Market data (Reuters): shares opened at $111.50 and closed the first day at $97.17, up 17% on the $83 IPO price",
         "Reported about 6× oversubscribed (Bloomberg), with an unusually large ~20% of the deal aimed at retail investors",
         "Seven of its suppliers — Google, Nvidia, AMD, Broadcom, Micron, Microsoft and TSMC — agreed to buy $26B of stock alongside the IPO",
-        "Amazon will hold over 5% of the company after the offering"
+        "Amazon will hold over 5% of the company after the offering",
+        "Market data (Motley Fool, Nov 23): shares closed at $87.64 on Mon Nov 23, down 1.4% on the day — still above the $83 IPO price — even as the Nasdaq posted its best day since April 2025"
       ],
       "whatItDoes": "Anthropic builds Claude, a family of AI models used by businesses, developers and everyday users for writing, coding and analysis. It sells access to its models and subscriptions, and counts Google and Amazon among its biggest backers.",
       "listedDate": "2026-11-19",
@@ -252,32 +257,6 @@
         "Terms were already set in the filing ($40–$44), so a date could come quickly"
       ],
       "whatItDoes": "Oura makes the Oura Ring, a finger-worn tracker that measures sleep, readiness, heart health and activity, paired with a subscription app."
-    },
-    {
-      "dealSize": "~$304M",
-      "exchange": null,
-      "expectedDate": null,
-      "expectedNote": "Filed — announced pricing but did not complete the offering; still waiting for a listing date",
-      "name": "OPay Limited",
-      "priceRange": "$19.00",
-      "sector": "Fintech",
-      "sharesOffered": "16M",
-      "slug": "opay",
-      "sources": [
-        {
-          "label": "StockAnalysis IPO filings — OPAY filed Oct 9, 2026",
-          "url": "https://stockanalysis.com/ipos/filings/"
-        }
-      ],
-      "status": "filed",
-      "story": "Founded in 2018, OPay became a household name in Nigeria during the country's cash shortages and now serves tens of millions of users. It filed on Oct 9, 2026.",
-      "ticker": "OPAY",
-      "valuation": null,
-      "watchNotes": [
-        "A rare large African fintech listing in the US",
-        "Single set price ($19) rather than a range in the current filing"
-      ],
-      "whatItDoes": "OPay runs one of Africa's largest mobile-payment networks — transfers, cards, savings and an agent network that brings banking to people far from a bank branch, centred on Nigeria."
     },
     {
       "dealSize": "~$665M",
@@ -524,5 +503,5 @@
     }
   ],
   "note": "Curated upcoming US IPOs for Plain Earnings: companies with a scheduled listing date, plus notable companies that have publicly filed and are waiting for a date. After a company lists, its status becomes 'listed' (with listedDate and finalPrice) and it stays on the page for 10 days before being removed. Terms come from SEC filings as summarised by StockAnalysis and press reports; dates and terms can change. Maintained alongside company-list.md.",
-  "updated": "2026-11-23"
+  "updated": "2026-11-24"
 }
