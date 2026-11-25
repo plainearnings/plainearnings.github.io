@@ -1,0 +1,187 @@
+{
+  "company": "Intel",
+  "flow": {
+    "costOfRevenueM": 7507,
+    "costOfRevenueNote": "What it cost to make and deliver those chips \u2014 factories, materials, and unused capacity.",
+    "grossProfitM": 5217,
+    "grossProfitNote": "Revenue left after the direct cost of making the chips \u2014 41.0% of revenue, up from 34.2% a year ago.",
+    "netIncomeM": -437,
+    "netIncomeNote": "The bottom line: a $437M net loss \u2014 $381M attributable to Intel after $(56)M attributable to non-controlling interests.",
+    "operatingIncomeM": -1069,
+    "operatingIncomeNote": "A $1.1B operating loss \u2014 $5.2B of gross profit could not cover $6.3B of operating expenses.",
+    "opex": [
+      {
+        "amountM": 4382,
+        "name": "Research and development",
+        "note": "Developing new CPUs, AI accelerators and process technology; up from $4,109M a year ago."
+      },
+      {
+        "amountM": 1556,
+        "name": "Marketing, general and administrative",
+        "note": "Sales, marketing and back-office costs; up from $1,303M a year ago."
+      },
+      {
+        "amountM": 348,
+        "name": "Restructuring",
+        "note": "Charges under Intel's cost-reduction actions; Intel excludes these from its non-GAAP results."
+      }
+    ],
+    "otherIncomeM": 350,
+    "otherIncomeNote": "A $205M gain on equity investments plus $145M of interest and other income.",
+    "revenueM": 12724,
+    "revenueNote": "Money from selling chips and foundry services to outside customers.",
+    "taxM": -282,
+    "taxNote": "A $282M tax benefit on a $719M pre-tax loss, a 39.2% GAAP tax rate; Intel's non-GAAP tax rate is 13.0%."
+  },
+  "follow100": [
+    {
+      "amount": 59.21,
+      "label": "Client Computing Group"
+    },
+    {
+      "amount": 23.86,
+      "label": "Data Center and AI"
+    },
+    {
+      "amount": 10.72,
+      "label": "Network and Edge"
+    },
+    {
+      "amount": 0.21,
+      "label": "Intel Foundry"
+    },
+    {
+      "amount": 6.0,
+      "label": "All other"
+    },
+    {
+      "amount": -59.0,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -34.44,
+      "label": "R&D"
+    },
+    {
+      "amount": -12.23,
+      "label": "Marketing, G&A"
+    },
+    {
+      "amount": -2.73,
+      "label": "Restructuring"
+    },
+    {
+      "amount": 2.75,
+      "label": "Other income"
+    },
+    {
+      "amount": 2.22,
+      "label": "Tax benefit"
+    },
+    {
+      "amount": -3.43,
+      "label": "Net income"
+    }
+  ],
+  "follow100Note": "Intel Foundry is counted at its $27M of outside sales only (stated directly in the Q1 2024 10-Q); the $27M is not derived. All other is shown net of $11M of intersegment eliminations not attributable to Foundry, so the parts sum exactly to Intel's $12,724M total. Rows are rounded to the nearest cent, so the rounded rows sum exactly to the rounded net loss of -$3.43 per $100.",
+  "footerNote": "Q2 2024 guidance: revenue $12.5\u201313.5B, GAAP EPS $(0.05), non-GAAP EPS $0.10.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+9%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "diluted, attributable to Intel; non-GAAP EPS was $0.18",
+      "value": "$(0.09)"
+    },
+    {
+      "label": "Gross margin",
+      "note": "up 6.8 points YoY; non-GAAP gross margin was 45.1%",
+      "value": "41.0%"
+    },
+    {
+      "label": "Adjusted free cash flow",
+      "note": "Intel's non-GAAP measure; operating cash flow was $(1.2)B, vs $(1.8)B a year ago",
+      "value": "$(6.2)B"
+    }
+  ],
+  "oneTimers": [
+    "$348M of restructuring and other charges, up from $64M a year ago; excluded from non-GAAP results.",
+    "A $205M gain on equity investments, net, versus $169M a year ago \u2014 mark-to-market moves on Intel's investment portfolio rather than chip sales; excluded from non-GAAP results.",
+    "A $39M gain from divestiture \u2014 deferred consideration on the NAND sale to SK hynix; excluded from non-GAAP results."
+  ],
+  "otherDetail": "Other income of $350M combines a $205M gain on equity investments, net with $145M of interest and other, net (including a $39M gain from divestiture \u2014 deferred consideration on the NAND sale to SK hynix). Intel recorded a $282M tax benefit on a $719M pre-tax loss, a 39.2% GAAP tax rate; the non-GAAP tax rate is 13.0%.",
+  "periodEnd": "2024-03-30",
+  "pngFooterNote": "PC chips jumped 31%, but Foundry's $2.5B loss kept Intel red.",
+  "quarterLabel": "Q1 2024",
+  "quarterSlug": "2024-q1",
+  "reportedDate": "2024-04-25",
+  "revenueYoY": "+9%",
+  "segments": [
+    {
+      "amountM": 7533,
+      "name": "Client Computing Group",
+      "note": "PC and client chips; up 31% YoY. Segment operating income was $2,645M, up from $1,180M a year ago.",
+      "yoy": "+31%"
+    },
+    {
+      "amountM": 3036,
+      "name": "Data Center and AI",
+      "note": "Xeon server chips and AI data-center products; up 5% YoY. Segment operating income was $482M, up from $22M a year ago.",
+      "yoy": "+5%"
+    },
+    {
+      "amountM": 1364,
+      "name": "Network and Edge",
+      "note": "Networking and edge-computing chips; down 8% YoY. Segment operating income was $184M, versus a $(69)M loss a year ago.",
+      "yoy": "-8%"
+    },
+    {
+      "amountM": 27,
+      "name": "Intel Foundry",
+      "note": "Intel's chip factories, shown at their $27M of sales to OUTSIDE customers only (stated directly in the Q1 2024 10-Q, down 77% YoY). Foundry's total segment revenue was $4,369M, but $4,342M of that was wafers sold to Intel's own product groups \u2014 counting it here would count the same dollars twice. Foundry lost $2,474M in the quarter.",
+      "yoy": "-77%"
+    },
+    {
+      "amountM": 764,
+      "compact": true,
+      "name": "All other",
+      "note": "Altera (programmable chips), Mobileye (self-driving tech) and smaller businesses. Intel reports this group at $775M; it is shown as $764M here, net of $11M of intersegment eliminations not attributable to Foundry, so the parts sum exactly to Intel's $12,724M total. Down 46% YoY. Segment operating loss was $(212)M.",
+      "yoy": "-46%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000074/q124_earningsrelease.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended Mar 30, 2024 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000076/intc-20240330.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "$(0.4)B",
+      "statColor": "#5b6b7c",
+      "text": "Revenue rose 9% to $12.7B and gross margin widened to 41.0% from 34.2% a year ago, so the net loss attributable to Intel narrowed to $381M from $2,758M. On a non-GAAP basis \u2014 excluding share-based pay, restructuring and investment gains \u2014 Intel earned $759M, or $0.18 per share, above its guidance.",
+      "title": "The loss shrank by 86%"
+    },
+    {
+      "stat": "$(2.5)B",
+      "statColor": "#5b6b7c",
+      "text": "Intel Foundry lost $2,474M on $4,369M of segment revenue, and only $27M of that revenue came from outside customers \u2014 down 77% YoY \u2014 the rest was wafers sold to Intel's own product groups. The product groups earned $3,311M combined: Client Computing $2,645M, Data Center and AI $482M and Network and Edge $184M.",
+      "title": "Foundry lost more than the product groups earned"
+    },
+    {
+      "stat": "$(1.2)B",
+      "statColor": "#5b6b7c",
+      "text": "Operations used $1,223M of cash in the quarter while Intel spent $5,970M on factories and equipment, leaving adjusted free cash flow of $(6,178)M. Intel paid $529M in dividends and guided Q2 to $12.5\u201313.5B of revenue with GAAP EPS of $(0.05).",
+      "title": "Cash flow went backwards"
+    }
+  ],
+  "ticker": "INTC",
+  "verdict": "Intel still lost money in the first quarter \u2014 $381 million attributable to Intel on $12.7 billion of revenue \u2014 but the loss shrank 86% from a year ago as PC chip sales jumped 31%."
+}

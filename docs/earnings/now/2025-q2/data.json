@@ -1,0 +1,156 @@
+{
+  "company": "ServiceNow",
+  "flow": {
+    "costOfRevenueM": 724,
+    "costOfRevenueNote": "What it cost to run the cloud platform and deliver services \u2014 hosting, support and implementation.",
+    "grossProfitM": 2491,
+    "grossProfitNote": "Revenue left after the direct cost of running the platform \u2014 77.5% of revenue, down from 79.0% a year ago.",
+    "netIncomeM": 385,
+    "netIncomeNote": "The bottom line: $385M kept as profit, 12.0% of revenue \u2014 GAAP profit is small because $499M of stock-based pay sits inside the costs above.",
+    "operatingIncomeM": 358,
+    "operatingIncomeNote": "An $358M operating profit \u2014 an 11.1% margin, up from $240M a year ago. On a non-GAAP basis, excluding stock-based pay and other items, it was $955M.",
+    "opex": [
+      {
+        "amountM": 1128,
+        "name": "Sales & marketing",
+        "note": "Selling the platform to big enterprises \u2014 the largest running cost, up from $960M a year ago."
+      },
+      {
+        "amountM": 734,
+        "name": "Research & development",
+        "note": "Building the AI platform, including Now Assist and agentic AI; up from $643M a year ago."
+      },
+      {
+        "amountM": 271,
+        "name": "General & administrative",
+        "note": "Running the company day to day; up from $232M a year ago."
+      }
+    ],
+    "otherIncomeM": 113,
+    "otherIncomeNote": "$116M of interest income on the cash pile, less $3M of other expense.",
+    "revenueM": 3215,
+    "revenueNote": "Money from software subscriptions and professional services.",
+    "taxM": 86,
+    "taxNote": "An $86M tax provision on $471M of pre-tax income \u2014 an 18.3% effective rate."
+  },
+  "follow100": [
+    {
+      "amount": 96.83,
+      "label": "Subscription"
+    },
+    {
+      "amount": 3.17,
+      "label": "Professional services & other"
+    },
+    {
+      "amount": -22.52,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -35.09,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -22.83,
+      "label": "Research & development"
+    },
+    {
+      "amount": -8.42,
+      "label": "General & administrative"
+    },
+    {
+      "amount": 3.51,
+      "label": "Other income, net"
+    },
+    {
+      "amount": -2.67,
+      "label": "Income taxes"
+    },
+    {
+      "amount": 11.98,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Rows are rounded to the nearest cent, so the rounded rows sum to the rounded $11.98 of profit per $100. Stock-based compensation of $499M is spread across the cost and expense rows above \u2014 it is a real cost to shareholders through dilution, even though no cash leaves the bank.",
+  "footerNote": "Subscription revenue up 22.5% to $3.11B; net income $385M.",
+  "kpis": [
+    {
+      "label": "Revenue",
+      "note": "+22.5% YoY",
+      "value": "$3.22B"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "diluted; non-GAAP EPS was $4.09",
+      "value": "$1.84"
+    },
+    {
+      "label": "Current remaining performance obligations",
+      "note": "+24.5% YoY; revenue contracted for the next 12 months",
+      "value": "$10.92B"
+    },
+    {
+      "label": "Subscription revenue",
+      "note": "+22.5% YoY; 97% of total revenue",
+      "value": "$3.11B"
+    }
+  ],
+  "oneTimers": [
+    "A $30M impairment of assets in the quarter \u2014 a write-down excluded from non-GAAP results; there was none a year ago.",
+    "Severance costs of $29M in the quarter, excluded from non-GAAP results; there were none a year ago.",
+    "Stock-based compensation of $499M (up from $444M a year ago) is the largest non-GAAP add-back and the main reason GAAP operating income of $358M trails non-GAAP operating income of $955M. It is excluded from non-GAAP results, but it is a real cost \u2014 it dilutes existing shareholders."
+  ],
+  "otherDetail": "Other income of $113M is $116M of interest income on ServiceNow's cash and investments, less $3M of other expense, net.",
+  "periodEnd": "2025-06-30",
+  "pngFooterNote": "Subscription revenue grew 22.5% to $3.11B.",
+  "quarterLabel": "Q2 2025",
+  "quarterSlug": "2025-q2",
+  "reportedDate": "2025-07-23",
+  "revenueYoY": "+22.5%",
+  "segments": [
+    {
+      "amountM": 3113,
+      "name": "Subscription",
+      "note": "The AI platform, sold by subscription \u2014 97% of all revenue; up 22.5% YoY. Subscription gross profit was $2,488M, an 80% margin.",
+      "yoy": "+22.5%"
+    },
+    {
+      "amountM": 102,
+      "name": "Professional services & other",
+      "note": "Implementation and consulting help for customers; up 19.5% YoY. Gross profit was just $3M \u2014 this work is nearly break-even by design.",
+      "yoy": "+19.5%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371525000274/erq2fy25.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended Jun 30, 2025 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371525000276/now-20250630.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "$3.11B",
+      "statColor": "#3d7bc8",
+      "text": "Subscription revenue grew 22.5% to $3.11B \u2014 97% of all revenue \u2014 with 89 deals over $1M in net new annual contract value in the quarter. The customer base keeps moving upmarket: 528 customers now spend more than $5M a year, up about 19.5%, and customers over $20M grew more than 30%.",
+      "title": "Subscriptions did the growing"
+    },
+    {
+      "stat": "$10.92B",
+      "statColor": "#3d7bc8",
+      "text": "Current remaining performance obligations \u2014 revenue already contracted for the next 12 months \u2014 grew 24.5% to $10.92B, and total remaining obligations reached $23.9B, up 29%. The contracted backlog is growing faster than revenue, which is what funds the next quarters.",
+      "title": "The backlog is growing faster than sales"
+    },
+    {
+      "stat": "$955M",
+      "statColor": "#b8443c",
+      "text": "GAAP operating income was just $358M, an 11.1% margin, while non-GAAP operating income was $955M at a 29.5% margin. The $597M gap is mostly $499M of stock-based pay, plus a $30M asset impairment and $29M of severance. Free cash flow was $535M, a 16.5% margin, and ServiceNow bought back $361M of its own stock.",
+      "title": "The GAAP profit is a third of the adjusted one"
+    }
+  ],
+  "ticker": "NOW",
+  "verdict": "ServiceNow grew revenue 22.5% to $3.22 billion, with subscription sales up 22.5% and $10.9 billion of revenue already contracted for the next twelve months."
+}

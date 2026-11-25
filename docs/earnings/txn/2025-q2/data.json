@@ -1,0 +1,155 @@
+{
+  "company": "Texas Instruments",
+  "flow": {
+    "costOfRevenueM": 1873,
+    "costOfRevenueNote": "What it cost to make the chips \u2014 factories, materials and running the 300mm fabs.",
+    "grossProfitM": 2575,
+    "grossProfitNote": "Revenue left after the direct cost of making the chips \u2014 57.9% of revenue, about flat with a year ago.",
+    "netIncomeM": 1295,
+    "netIncomeNote": "The bottom line: $1,295M kept as profit, 29.1% of revenue.",
+    "operatingIncomeM": 1563,
+    "operatingIncomeNote": "A $1,563M operating profit \u2014 35.1% of revenue, up from $1,248M a year ago.",
+    "opex": [
+      {
+        "amountM": 527,
+        "name": "Research & development",
+        "note": "Designing new analog and embedded chips; up from $498M a year ago."
+      },
+      {
+        "amountM": 485,
+        "name": "Selling, general & administrative",
+        "note": "Selling the chips and running the company; up from $465M a year ago."
+      }
+    ],
+    "otherIncomeM": -85,
+    "otherIncomeNote": "Other income of $48M, more than offset by $133M of interest and debt expense.",
+    "revenueM": 4448,
+    "revenueNote": "Money from selling analog and embedded processing chips.",
+    "taxM": 183,
+    "taxNote": "A $183M tax provision on $1,478M of pre-tax income \u2014 a 12.4% effective rate, helped by a $16M discrete tax benefit."
+  },
+  "follow100": [
+    {
+      "amount": 77.6,
+      "label": "Analog"
+    },
+    {
+      "amount": 15.27,
+      "label": "Embedded Processing"
+    },
+    {
+      "amount": 7.13,
+      "label": "Other"
+    },
+    {
+      "amount": -42.11,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -11.85,
+      "label": "Research & development"
+    },
+    {
+      "amount": -10.91,
+      "label": "Selling, general & administrative"
+    },
+    {
+      "amount": -1.91,
+      "label": "Other income, net of interest"
+    },
+    {
+      "amount": -4.11,
+      "label": "Income taxes"
+    },
+    {
+      "amount": 29.11,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Rows are rounded to the nearest cent, so the rounded rows sum to the rounded $29.11 of profit per $100.",
+  "footerNote": "Revenue up 16% to $4.45B; net income $1.30B.",
+  "kpis": [
+    {
+      "label": "Revenue",
+      "note": "+16% YoY",
+      "value": "$4.45B"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "diluted; includes a 2-cent tax benefit",
+      "value": "$1.41"
+    },
+    {
+      "label": "Operating profit",
+      "note": "+25% YoY; 35.1% operating margin",
+      "value": "$1.56B"
+    },
+    {
+      "label": "Free cash flow",
+      "note": "trailing 12 months; 10.6% of revenue",
+      "value": "$1.76B"
+    }
+  ],
+  "oneTimers": [
+    "A $16M discrete tax benefit (about 2 cents of EPS) that was not in the company's original guidance \u2014 operating taxes were $199M, less $16M of discrete items, for a $183M provision."
+  ],
+  "otherDetail": "Other income (expense), net of $48M, less $133M of interest and debt expense \u2014 a net $85M drag. The $183M tax provision is $199M of operating taxes less a $16M discrete tax benefit.",
+  "periodEnd": "2025-06-30",
+  "pngFooterNote": "Industrial recovery lifted revenue 16% to $4.45B.",
+  "quarterLabel": "Q2 2025",
+  "quarterSlug": "2025-q2",
+  "reportedDate": "2025-07-22",
+  "revenueYoY": "+16%",
+  "segments": [
+    {
+      "amountM": 3452,
+      "name": "Analog",
+      "note": "Analog chips \u2014 the workhorse of industrial and automotive electronics; up 18% YoY. Segment operating profit was $1,325M.",
+      "yoy": "+18%"
+    },
+    {
+      "amountM": 679,
+      "name": "Embedded Processing",
+      "note": "Microcontrollers and processors for connected devices; up 10% YoY. Segment operating profit was $85M.",
+      "yoy": "+10%"
+    },
+    {
+      "amountM": 317,
+      "name": "Other",
+      "note": "Smaller product lines, including DLP and calculators; up 14% YoY. Segment operating profit was $153M.",
+      "yoy": "+14%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/97476/000009747625000033/q22025txnex99-er1.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended Jun 30, 2025 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/97476/000009747625000036/txn-20250630.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+16%",
+      "statColor": "#3d7bc8",
+      "text": "Revenue grew 16% to $4.45B and 9% sequentially, led by a continued broad recovery in industrial demand. Analog, the biggest business, grew 18% to $3.45B; Embedded Processing grew 10% and Other grew 14% \u2014 growth across every segment.",
+      "title": "The industrial recovery showed up in every segment"
+    },
+    {
+      "stat": "35.1%",
+      "statColor": "#3e8e5a",
+      "text": "Operating profit rose 25% to $1.56B, a 35.1% operating margin, on gross profit of $2.58B. R&D and SG&A together were $1.01B, up just 5% while revenue grew 16% \u2014 the extra sales fell mostly to the bottom line. Net income rose 15% to $1.30B and EPS rose 16% to $1.41.",
+      "title": "Sales grew three times faster than spending"
+    },
+    {
+      "stat": "$6.7B",
+      "statColor": "#3d7bc8",
+      "text": "Over the past 12 months TI returned $6.71B to owners \u2014 $4.90B in dividends and $1.81B in buybacks \u2014 while investing $4.94B in new factories. Free cash flow for the same period was $1.76B, just 10.6% of revenue, because that factory spending is so heavy. Q3 guidance is $4.45\u2013$4.80B of revenue and EPS of $1.36\u2013$1.60.",
+      "title": "Big payouts, bigger factory bill"
+    }
+  ],
+  "ticker": "TXN",
+  "verdict": "Texas Instruments earned $1.30 billion on $4.45 billion of revenue as sales grew 16% on a broad recovery in industrial demand, with operating profit up 25%."
+}

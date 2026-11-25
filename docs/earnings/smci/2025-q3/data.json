@@ -1,0 +1,149 @@
+{
+  "company": "Super Micro Computer",
+  "flow": {
+    "costOfRevenueM": 4159.695,
+    "costOfRevenueNote": "What it cost to build the servers and racks sold \u2014 mostly hardware components.",
+    "equityM": -0.445,
+    "grossProfitM": 440.218,
+    "grossProfitNote": "Revenue left after the direct cost of the hardware \u2014 9.6% of revenue, down from 15.5% a year ago.",
+    "netIncomeM": 108.777,
+    "netIncomeNote": "The bottom line: $109M of net income, down 73% from $402M a year ago.",
+    "operatingIncomeM": 146.78,
+    "operatingIncomeNote": "$147M of operating income \u2014 $440M of gross profit minus $293M of operating expenses.",
+    "opex": [
+      {
+        "amountM": 162.857,
+        "name": "Research and development",
+        "note": "Designing next-generation servers, racks and Data Center Building Block Solutions; up 40% YoY as hiring rose."
+      },
+      {
+        "amountM": 59.978,
+        "name": "Sales and marketing",
+        "note": "Sales teams and marketing; up 21% YoY as Supermicro chased larger data-center deals."
+      },
+      {
+        "amountM": 70.603,
+        "name": "General and administrative",
+        "note": "Back office, legal and facilities; up 33% YoY."
+      }
+    ],
+    "otherIncomeM": -31.715,
+    "otherIncomeNote": "An $18M other expense, net, plus $13M of interest expense.",
+    "revenueM": 4599.913,
+    "revenueNote": "Money from selling servers, racks and related systems to data-center customers.",
+    "taxM": 5.843,
+    "taxNote": "A $6M tax provision on $115M of pre-tax income, a 5.1% GAAP tax rate."
+  },
+  "follow100": [
+    {
+      "amount": 100.0,
+      "label": "Total net sales"
+    },
+    {
+      "amount": -90.43,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -3.54,
+      "label": "R&D"
+    },
+    {
+      "amount": -1.3,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -1.54,
+      "label": "G&A"
+    },
+    {
+      "amount": -0.69,
+      "label": "Other expense"
+    },
+    {
+      "amount": -0.01,
+      "label": "Equity investee loss"
+    },
+    {
+      "amount": -0.13,
+      "label": "Tax"
+    },
+    {
+      "amount": 2.36,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Supermicro keeps $2.36 of every $100 because the hardware itself costs $90.43 \u2014 its model is volume, not margin. Rows are rounded to the nearest cent; G&A is rounded up a touch so the rounded rows sum exactly to the rounded profit of $2.36 per $100.",
+  "footerNote": "Q4 FY25 guidance: net sales $5.6\u20136.4B; full-year FY25 net sales cut to $21.8\u201322.6B from $23.5\u201325.0B.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+19.5%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "diluted; vs $0.66 a year ago (non-GAAP $0.31)",
+      "value": "$0.17"
+    },
+    {
+      "label": "Gross margin",
+      "note": "vs 15.5% a year ago and 11.8% last quarter; non-GAAP 9.7%",
+      "value": "9.6%"
+    },
+    {
+      "label": "Cash flow from operations",
+      "note": "cash provided in the quarter; capex was $33M",
+      "value": "$627M"
+    }
+  ],
+  "oneTimers": [
+    "A $30M loss on extinguishing convertible notes \u2014 a one-off financing charge tied to the 2028/2029 convertible notes, excluded from non-GAAP results."
+  ],
+  "otherDetail": "Other expense of $32M combines an $18M other expense, net \u2014 including a $30M loss on extinguishing convertible notes, partly offset by other income \u2014 plus $13M of interest expense. A separate $0.4M share of loss from an equity investee, net of taxes, is shown as equityM. Stock-based compensation was $85M in the quarter, $7M of it in cost of sales; non-GAAP diluted EPS was $0.31 versus GAAP $0.17.",
+  "periodEnd": "2025-03-31",
+  "pngFooterNote": "Sales up 19.5% to $4.6B, but profit fell 73% to $109M.",
+  "quarterLabel": "Q3 FY25",
+  "quarterSlug": "2025-q3",
+  "reportedDate": "2025-05-06",
+  "revenueYoY": "+19.5%",
+  "segments": [
+    {
+      "amountM": 4599.913,
+      "name": "Total net sales",
+      "note": "Supermicro reports a single operating segment and printed no product split for the quarter. Sales are mostly complete server and rack systems for AI and cloud data centers. Two customers each accounted for 10% or more of net sales in the quarter (22.5% and 14.1%, per the 10-Q).",
+      "yoy": "+19.5%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000013/exhibit991_20250506.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended Mar 31, 2025 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+19.5%",
+      "statColor": "#3d7bc8",
+      "text": "Net sales hit $4,600M, up from $3,850M a year ago, yet net income fell 73% to $109M from $402M. Gross margin narrowed to 9.6% from 15.5% and operating costs rose 34%, so the extra sales did not reach the bottom line.",
+      "title": "Sales grew, but profit fell by nearly three-quarters"
+    },
+    {
+      "stat": "9.6%",
+      "statColor": "#3e8e5a",
+      "text": "Cost of sales ate $4,160M of the $4,600M in sales, leaving a 9.6% gross margin \u2014 down from 15.5% a year ago and 11.8% last quarter. Operating income fell 61% to $147M as R&D jumped 40% YoY to $163M on hiring for next-generation server and rack designs.",
+      "title": "Thin margins are the story"
+    },
+    {
+      "stat": "$21.8\u201322.6B",
+      "statColor": "#5b6b7c",
+      "text": "Some customers delayed platform decisions in the quarter, and Supermicro cut its full-year FY25 revenue guidance to $21.8\u201322.6B from $23.5\u201325.0B, though it expects many of those commitments to land in the June and September quarters. Operations still generated $627M of cash, and cash ended March 31 at $2.54B versus $2.49B of bank debt and convertible notes.",
+      "title": "Guidance cut as customers delayed"
+    }
+  ],
+  "ticker": "SMCI",
+  "verdict": "Supermicro sold 19.5% more in the quarter, but its thin margins got thinner and profit fell by nearly three-quarters to $109 million as customers delayed big AI platform decisions."
+}
