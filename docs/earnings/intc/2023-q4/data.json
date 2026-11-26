@@ -1,0 +1,192 @@
+{
+  "company": "Intel",
+  "ticker": "INTC",
+  "quarterLabel": "Q4 2023",
+  "quarterSlug": "2023-q4",
+  "periodEnd": "2023-12-30",
+  "reportedDate": "2024-01-25",
+  "revenueYoY": "+10%",
+  "verdict": "Intel swung back to profit in the fourth quarter \u2014 $2.7 billion attributable to Intel on $15.4 billion of revenue \u2014 as PC chip sales jumped 33%, though a $1.1 billion one-off benefit flattered the result and the next quarter is guided to a loss.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+10%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "diluted, attributable to Intel; non-GAAP EPS was $0.54",
+      "value": "$0.63"
+    },
+    {
+      "label": "Gross margin",
+      "note": "up 6.5 points YoY; non-GAAP gross margin was 48.8%",
+      "value": "45.7%"
+    },
+    {
+      "label": "Adjusted free cash flow",
+      "note": "Intel's non-GAAP measure; operating cash flow was $4.6B in the quarter",
+      "value": "$(1.3)B"
+    }
+  ],
+  "segments": [
+    {
+      "name": "Client Computing Group",
+      "amountM": 8844,
+      "yoy": "+33%",
+      "note": "PC and client chips; up 33% YoY. Segment operating income was $2,888M, up from $524M a year ago."
+    },
+    {
+      "name": "Data Center and AI",
+      "amountM": 3985,
+      "yoy": "-10%",
+      "note": "Xeon server chips and AI data-center products; down 10% YoY. Segment operating income was $78M, versus $126M a year ago."
+    },
+    {
+      "name": "Network and Edge",
+      "amountM": 1471,
+      "yoy": "-24%",
+      "note": "Networking and edge-computing chips; down 24% YoY. Segment operating loss was $(12)M, versus $126M of income a year ago."
+    },
+    {
+      "name": "Mobileye",
+      "amountM": 637,
+      "yoy": "+13%",
+      "note": "Self-driving technology; up 13% YoY. Segment operating income was $242M, versus $210M a year ago."
+    },
+    {
+      "name": "Intel Foundry Services",
+      "amountM": 291,
+      "yoy": "+63%",
+      "note": "Intel's chip factories, shown at their $291M of sales to outside customers only (up 63% YoY). Foundry lost $113M in the quarter."
+    },
+    {
+      "name": "All other",
+      "amountM": 178,
+      "yoy": "-42%",
+      "note": "Smaller businesses and unallocated items; down 42% YoY. Segment operating loss was $(498)M."
+    }
+  ],
+  "flow": {
+    "revenueM": 15406,
+    "revenueNote": "Money from selling chips and foundry services to outside customers.",
+    "costOfRevenueM": 8359,
+    "costOfRevenueNote": "What it cost to make and deliver those chips \u2014 factories, materials, and unused capacity.",
+    "grossProfitM": 7047,
+    "grossProfitNote": "Revenue left after the direct cost of making the chips \u2014 45.7% of revenue, up from 39.2% a year ago.",
+    "opex": [
+      {
+        "name": "Research and development",
+        "amountM": 3987,
+        "note": "Developing new CPUs, AI accelerators and process technology; down from $4,464M a year ago."
+      },
+      {
+        "name": "Marketing, general and administrative",
+        "amountM": 1617,
+        "note": "Sales, marketing and back-office costs; down from $1,706M a year ago."
+      },
+      {
+        "name": "Restructuring and other charges",
+        "amountM": -1142,
+        "note": "A $1,142M benefit, not a cost \u2014 developments in the VLSI litigation, an EC fine and a fee for ending the Tower deal; Intel excludes these from its non-GAAP results."
+      }
+    ],
+    "operatingIncomeM": 2585,
+    "operatingIncomeNote": "$2.6B of operating income \u2014 $7.0B of gross profit minus $4.5B of operating expenses.",
+    "otherIncomeM": 203,
+    "otherIncomeNote": "An $86M gain on equity investments plus $117M of interest and other income.",
+    "taxM": 128,
+    "taxNote": "A $128M tax provision on $2,788M of pre-tax income, a 4.6% GAAP tax rate; Intel's non-GAAP tax rate is 13.0%.",
+    "netIncomeM": 2660,
+    "netIncomeNote": "The bottom line: $2,660M of net income \u2014 $2,669M attributable to Intel after $(9)M attributable to non-controlling interests."
+  },
+  "follow100": [
+    {
+      "label": "Client Computing Group",
+      "amount": 57.41
+    },
+    {
+      "label": "Data Center and AI",
+      "amount": 25.87
+    },
+    {
+      "label": "Network and Edge",
+      "amount": 9.55
+    },
+    {
+      "label": "Mobileye",
+      "amount": 4.13
+    },
+    {
+      "label": "Intel Foundry Services",
+      "amount": 1.89
+    },
+    {
+      "label": "All other",
+      "amount": 1.15
+    },
+    {
+      "label": "Cost of revenue",
+      "amount": -54.25
+    },
+    {
+      "label": "R&D",
+      "amount": -25.88
+    },
+    {
+      "label": "Marketing, G&A",
+      "amount": -10.5
+    },
+    {
+      "label": "Restructuring benefit",
+      "amount": 7.41
+    },
+    {
+      "label": "Other income",
+      "amount": 1.32
+    },
+    {
+      "label": "Tax",
+      "amount": -0.83
+    },
+    {
+      "label": "Net income",
+      "amount": 17.27
+    }
+  ],
+  "follow100Note": "Rows are rounded to the nearest cent; All other is rounded down a touch (1.15 vs 1.16) and cost of revenue likewise (54.25 vs 54.26) so the rounded rows sum exactly to the rounded profit of $17.27 per $100.",
+  "takeaways": [
+    {
+      "stat": "$2.7B",
+      "statColor": "#3e8e5a",
+      "title": "Back in profit",
+      "text": "Net income attributable to Intel was $2,669M versus a $(664)M loss a year ago, on revenue of $15,406M, up 10%. Gross margin widened to 45.7% from 39.2%, and GAAP EPS was $0.63 versus $(0.16) a year ago."
+    },
+    {
+      "stat": "+33%",
+      "statColor": "#3d7bc8",
+      "title": "PC chips did the heavy lifting",
+      "text": "Client Computing revenue jumped 33% to $8,844M and its operating income rose to $2,888M from $524M. Data Center and AI fell 10% to $3,985M and Network and Edge fell 24% to $1,471M, so the recovery was a PC story, not a data-center one."
+    },
+    {
+      "stat": "$(0.25)",
+      "statColor": "#5b6b7c",
+      "title": "A one-off benefit, and a loss guided next",
+      "text": "The restructuring line was a $1,142M benefit \u2014 VLSI litigation developments, an EC fine and a fee for ending the Tower deal \u2014 which flattered operating income. Intel also stretched machinery lives in 2023, lifting gross margin by about $2.5B for the year, and guided Q1 2024 to $12.2\u201313.2B of revenue with GAAP EPS of $(0.25)."
+    }
+  ],
+  "oneTimers": [
+    "$1,142M benefit in restructuring and other charges \u2014 a negative charge in the quarter, driven by developments in the VLSI litigation, an EC-imposed fine and a fee for ending the Tower Semiconductor acquisition; excluded from non-GAAP results.",
+    "An $86M gain on equity investments, net, versus $186M a year ago \u2014 mark-to-market moves on Intel's investment portfolio rather than chip sales; excluded from non-GAAP results.",
+    "A $39M gain from divestiture \u2014 deferred consideration on the NAND sale to SK hynix; excluded from non-GAAP results."
+  ],
+  "otherDetail": "Other income of $203M combines an $86M gain on equity investments, net with $117M of interest and other, net. Intel recorded a $128M tax provision on $2,788M of pre-tax income, a 4.6% GAAP tax rate; the non-GAAP tax rate is 13.0%. In January 2023 Intel extended the estimated useful life of certain production machinery and equipment from five to eight years, which it estimates cut 2023 depreciation by $4.2B and lifted gross margin by about $2.5B.",
+  "footerNote": "Q1 2024 guidance: revenue $12.2\u201313.2B, GAAP EPS $(0.25), non-GAAP EPS $0.13.",
+  "pngFooterNote": "Back in profit: $2.7B earned as PC chips jumped 33%.",
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000008/q423_earningsrelease.htm"
+    }
+  ]
+}

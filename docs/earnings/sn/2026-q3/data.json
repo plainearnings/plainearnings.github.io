@@ -1,0 +1,154 @@
+{
+  "company": "SharkNinja",
+  "flow": {
+    "costOfRevenueM": 806.416,
+    "grossProfitM": 1170.011,
+    "netIncomeM": 338.361,
+    "operatingIncomeM": 442.859,
+    "opex": [
+      {
+        "amountM": 117.92,
+        "name": "Research and development",
+        "note": "Designing new products \u2014 engineers and labs behind the next Shark and Ninja launches."
+      },
+      {
+        "amountM": 460.733,
+        "name": "Sales and marketing",
+        "note": "Advertising, marketing and getting products onto store shelves and into homes."
+      },
+      {
+        "amountM": 148.499,
+        "name": "General and administrative",
+        "note": "The back office (G&A) \u2014 offices, legal, finance and head-office staff."
+      }
+    ],
+    "otherIncomeM": -1.627,
+    "revenueM": 1976.427,
+    "taxM": 102.871
+  },
+  "follow100": [
+    {
+      "amount": 45.19,
+      "label": "Shark brand"
+    },
+    {
+      "amount": 54.81,
+      "label": "Ninja brand"
+    },
+    {
+      "amount": -40.8,
+      "label": "Cost of sales"
+    },
+    {
+      "amount": -5.97,
+      "label": "Research & development"
+    },
+    {
+      "amount": -23.31,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -7.51,
+      "label": "General & administrative"
+    },
+    {
+      "amount": -0.08,
+      "label": "Other income (expense)"
+    },
+    {
+      "amount": -5.2,
+      "label": "Tax"
+    },
+    {
+      "amount": 17.12,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Marketing is SharkNinja's biggest single cost at $23.31 of every $100, and the quarter keeps $17.12 as profit. The rows may not add exactly due to rounding.",
+  "footerNote": "SharkNinja reports a single operating segment (Domestic and International aggregated); the chart splits revenue by brand \u2014 Shark and Ninja \u2014 from the Q3 2026 10-Q, and the two brands sum exactly to reported Q3 net sales. GAAP net income was $338.4M; Adjusted Net Income was $330.9M after excluding the IEEPA tariff-refund benefit, share-based compensation and other items. Gross margin benefited from $243.8M of IEEPA duty refund claims, less $45.2M payable to factory partners.",
+  "kpis": [
+    {
+      "label": "Revenue",
+      "note": "+21% YoY",
+      "value": "$2.0B"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs $1.33 a year ago; non-GAAP $2.34",
+      "value": "$2.39"
+    },
+    {
+      "label": "Adjusted EBITDA",
+      "note": "23.3% of net sales, up 46% YoY",
+      "value": "$461M"
+    },
+    {
+      "label": "Gross margin",
+      "note": "vs 50.1% a year ago; adjusted 55.9%",
+      "value": "59.2%"
+    }
+  ],
+  "oneTimers": [
+    "SharkNinja recognized $109.6M of refund claims for IEEPA duties paid in 2025 (of a ~$247.1M total claim accepted by U.S. Customs and Border Protection), less $45.2M payable to factory partners, plus $5.7M of related interest income \u2014 a net ~$70.0M benefit to GAAP results that is excluded from Adjusted results because it relates to a prior year. Gross margin benefited from $243.8M of refund claims in total, less $45.2M payable to factory partners.",
+    "Share-based compensation was $42.0M in Q3, up from $9.1M a year ago \u2014 excluded from Adjusted results.",
+    "Amortization of acquired intangible assets was $4.9M in Q3 \u2014 also excluded from non-GAAP results.",
+    "Foreign currency losses, net were $4.5M in Q3 \u2014 excluded from Adjusted results."
+  ],
+  "otherDetail": "Interest income (expense), net of $3.072M, plus other (expense) income, net of $(4.699)M \u2014 total other expense of $1.627M.",
+  "periodEnd": "2026-09-30",
+  "pngFooterNote": "Adjusted net income was $330.9M; GAAP net income $338.4M.",
+  "quarterLabel": "Q3 2026",
+  "quarterSlug": "2026-q3",
+  "reportedDate": "2026-11-04",
+  "revenueYoY": "+21%",
+  "segments": [
+    {
+      "amountM": 893.221,
+      "name": "Shark",
+      "note": "Vacuums and cleaning appliances; up 14% YoY from $782.3M.",
+      "yoy": "+14%"
+    },
+    {
+      "amountM": 1083.206,
+      "name": "Ninja",
+      "note": "Kitchen, cooking and beauty appliances; up 28% YoY from $848.0M.",
+      "yoy": "+28%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1957132/000195713226000055/exhibit991pressreleaseofsh.htm"
+    },
+    {
+      "label": "8-K filing (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1957132/000195713226000055/sharkninja-20261104.htm"
+    },
+    {
+      "label": "Q3 2026 Form 10-Q \u2014 net sales by brand (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1957132/000195713226000056/sharkninja-20260930.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+21%",
+      "statColor": "#3d7bc8",
+      "text": "Net sales hit $1,976.4M, up 21.2% YoY from $1,630.2M \u2014 the 14th consecutive quarter of double-digit growth and the second straight above 20%. Ninja grew 27.7% to $1,083.2M and Shark 14.2% to $893.2M. By category, Cooking and Beverage Appliances rose 36.6% on the Ninja Luxe Caf\u00e9 espresso machine and the Ninja Crispi, Beauty and Home Environment rose 45.8%, Food Preparation 18.3% and Cleaning Appliances 4.1%. International sales grew 25.2% and Domestic 19.4%.",
+      "title": "Fourteenth straight quarter of double-digit growth"
+    },
+    {
+      "stat": "59.2%",
+      "statColor": "#3e8e5a",
+      "text": "Gross margin jumped to 59.2% from 50.1% a year ago, helped by $243.8M of IEEPA tariff-refund claims, less $45.2M payable to factory partners. Even stripping those out, Adjusted Gross Margin rose 560 basis points to 55.9%. Operating income rose 68.5% to $442.9M, a 22.4% margin, and Adjusted Operating Income was $425.5M. Net income rose 79.3% to $338.4M, or $2.39 per diluted share; Adjusted Net Income rose 55.1% to $330.9M.",
+      "title": "Margins jumped \u2014 mostly on a tariff refund"
+    },
+    {
+      "stat": "$6.65\u2013$6.75",
+      "statColor": "#3d7bc8",
+      "text": "SharkNinja raised its full-year outlook: net sales now expected up 18.0% to 19.0% (was 16.0% to 17.0%), Adjusted Net Income per diluted share of $6.65 to $6.75, and Adjusted EBITDA of $1,380M to $1,391M. In Q3 it recognized $109.6M of 2025-duty refunds out of a ~$247.1M total claim accepted by U.S. Customs and Border Protection, with about $35.8M more expected in Q4 2026.",
+      "title": "Outlook raised into the holidays"
+    }
+  ],
+  "ticker": "SN",
+  "verdict": "SharkNinja grew sales 21% to $1.98 billion and net income jumped 79% to $338 million, with a $110 million tariff refund flattering the quarter \u2014 even stripping it out, adjusted profit still rose 55%."
+}

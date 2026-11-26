@@ -7058,6 +7058,19 @@
       },
       "status": "live",
       "latestQuarter": "Q3 2026"
+    },
+    {
+      "ticker": "SN",
+      "name": "SharkNinja",
+      "sector": "Consumer Discretionary",
+      "slug": "sn",
+      "flags": {
+        "sp500": false,
+        "qqq": false,
+        "ai": false
+      },
+      "status": "live",
+      "latestQuarter": "Q3 2026"
     }
   ]
 }

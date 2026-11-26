@@ -1,0 +1,151 @@
+{
+  "ticker": "QCOM",
+  "company": "Qualcomm",
+  "quarterLabel": "Q2 FY25",
+  "quarterSlug": "2025-q2",
+  "periodEnd": "2025-03-30",
+  "reportedDate": "2025-04-30",
+  "verdict": "Qualcomm grew revenue 17% to $11.0B as handset chips rebounded 12% and its car and connected-device chips surged, with automotive up 59%.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "value": "+17%",
+      "note": "vs a year ago"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "value": "$2.52",
+      "note": "vs $2.85 non-GAAP; $2.06 a year ago"
+    },
+    {
+      "label": "Automotive revenue",
+      "value": "$959M",
+      "note": "+59% YoY, a record quarter"
+    },
+    {
+      "label": "Cash returned",
+      "value": "$2.7B",
+      "note": "$1.7B buybacks + $938M dividends in Q2"
+    }
+  ],
+  "segments": [
+    {
+      "name": "QCT",
+      "amountM": 9469,
+      "yoy": "+18%",
+      "note": "The chip business. Inside it: Handsets $6,929M (+12% YoY), Automotive $959M (+59%), IoT $1,581M (+27%)."
+    },
+    {
+      "name": "QTL",
+      "amountM": 1319,
+      "yoy": "+0%",
+      "note": "Licensing phone makers to use Qualcomm's patents \u2014 very high margin (70% pre-tax EBT margin)."
+    },
+    {
+      "name": "Other and reconciling items",
+      "amountM": 191,
+      "yoy": null,
+      "note": "Includes $143M of licensing revenue from a recent dispute settlement, not allocated to segments; the difference between segment revenue and the reported total."
+    }
+  ],
+  "flow": {
+    "revenueM": 10979,
+    "costOfRevenueM": 4937,
+    "grossProfitM": 6042,
+    "opex": [
+      {
+        "name": "Research and development",
+        "amountM": 2216,
+        "note": "Building chips, modems and AI platforms; down 1% YoY.",
+        "short": "R&D"
+      },
+      {
+        "name": "Selling, general and administrative",
+        "amountM": 706,
+        "note": "Selling, legal costs and running the company; flat YoY.",
+        "short": "SG&A"
+      }
+    ],
+    "operatingIncomeM": 3120,
+    "otherIncomeM": -15,
+    "taxM": 293,
+    "netIncomeM": 2812
+  },
+  "follow100": [
+    {
+      "label": "QCT chips",
+      "amount": 86.25
+    },
+    {
+      "label": "QTL licensing",
+      "amount": 12.01
+    },
+    {
+      "label": "Other and reconciling items",
+      "amount": 1.74
+    },
+    {
+      "label": "Cost of revenue",
+      "amount": -44.97
+    },
+    {
+      "label": "R&D",
+      "amount": -20.18
+    },
+    {
+      "label": "SG&A",
+      "amount": -6.43
+    },
+    {
+      "label": "Other income",
+      "amount": -0.14
+    },
+    {
+      "label": "Tax",
+      "amount": -2.67
+    },
+    {
+      "label": "Kept as profit",
+      "amount": 25.61
+    }
+  ],
+  "footerNote": "Qualcomm guided Q3 FY25 revenue to $9.9B\u2013$10.7B and non-GAAP EPS to $2.60\u2013$2.80.",
+  "pngFooterNote": "Qualcomm guided Q3 FY25 revenue to $9.9B\u2013$10.7B.",
+  "revenueYoY": "+17%",
+  "otherDetail": "Investment and other income of $148M, less $163M of interest expense, makes up the $15M outside operations.",
+  "takeaways": [
+    {
+      "stat": "+38%",
+      "statColor": "#3d7bc8",
+      "title": "Diversification is accelerating",
+      "text": "Automotive and IoT combined grew 38% YoY to $2.54B \u2014 Automotive surged 59% to $959M and IoT rose 27% to $1.58B \u2014 as Qualcomm's push beyond phones kept paying off."
+    },
+    {
+      "stat": "$6.9B",
+      "statColor": "#3d7bc8",
+      "title": "Handsets still the engine",
+      "text": "Handset chips brought in $6.93B, up 12% YoY and 63% of total revenue, inside QCT's $9.47B (+18%). QTL licensing was flat at $1.32B."
+    },
+    {
+      "stat": "$2.7B",
+      "statColor": "#3e8e5a",
+      "title": "Cash back to shareholders",
+      "text": "Qualcomm returned $2.7B to shareholders in the quarter \u2014 $1.7B of buybacks (11 million shares) plus $938M of dividends \u2014 and guided Q3 FY25 revenue to $9.9B\u2013$10.7B."
+    }
+  ],
+  "oneTimers": [
+    "GAAP revenue includes $143M of licensing revenue from a recent settlement of a licensing dispute, not allocated to segment results and excluded from non-GAAP revenue.",
+    "Operating expenses include $34M of gains from revaluing deferred compensation plan liabilities, offset by $34M of losses on the related plan assets inside investment income \u2014 the two cancel out.",
+    "Non-GAAP results also exclude $703M of share-based compensation and $53M of acquisition-related charges; the tax line includes a $100M benefit from the foreign-derived intangible income deduction tied to capitalized R&D."
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000029/qcom033025erex991.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended March 30, 2025 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000031/qcom-20250330.htm"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "company": "Super Micro Computer",
+  "ticker": "SMCI",
+  "quarterLabel": "Q2 FY25",
+  "quarterSlug": "2025-q2",
+  "periodEnd": "2024-12-31",
+  "reportedDate": "2025-02-11",
+  "revenueYoY": "+54.9%",
+  "verdict": "Supermicro's sales jumped 55% to $5.7 billion, but thinner margins and surging costs left profit nearly flat at $321 million \u2014 and the figures were preliminary, reported while its audited filings were still months late.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+54.9%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "diluted; flat vs $0.51 a year ago (non-GAAP $0.58\u20130.60 per the preliminary release)",
+      "value": "$0.51"
+    },
+    {
+      "label": "Gross margin",
+      "note": "vs 15.4% a year ago; non-GAAP gross margin 11.8\u201311.9% per the preliminary release",
+      "value": "11.8%"
+    },
+    {
+      "label": "Cash and equivalents",
+      "note": "vs approximately $1.9B of total debt at Dec 31, 2024, per the preliminary release",
+      "value": "$1.4B"
+    }
+  ],
+  "segments": [
+    {
+      "name": "Total net sales",
+      "amountM": 5677.962,
+      "yoy": "+54.9%",
+      "note": "Supermicro reports a single operating segment and printed no product split for the quarter. Sales are mostly complete server and rack systems for AI and cloud data centers. Two customers each accounted for 10% or more of net sales in the quarter (Customer A 27.1% and Customer G 30.6%, per the 10-Q)."
+    }
+  ],
+  "flow": {
+    "revenueM": 5677.962,
+    "revenueNote": "Money from selling servers, racks and related systems to data-center customers.",
+    "costOfRevenueM": 5007.94,
+    "costOfRevenueNote": "What it cost to build the servers and racks sold \u2014 mostly hardware components.",
+    "grossProfitM": 670.022,
+    "grossProfitNote": "Revenue left after the direct cost of the hardware \u2014 11.8% of revenue, down from 15.4% a year ago.",
+    "opex": [
+      {
+        "name": "Research and development",
+        "amountM": 158.229,
+        "note": "Designing next-generation servers, racks and Data Center Building Block Solutions; up 45% YoY."
+      },
+      {
+        "name": "Sales and marketing",
+        "amountM": 79.568,
+        "note": "Sales teams and marketing; up 70% YoY as Supermicro chased larger data-center deals."
+      },
+      {
+        "name": "General and administrative",
+        "amountM": 63.601,
+        "note": "Back office, legal and facilities; up 71% YoY."
+      }
+    ],
+    "operatingIncomeM": 368.624,
+    "operatingIncomeNote": "$369M of operating income \u2014 $670M of gross profit minus $301M of operating expenses.",
+    "otherIncomeM": 6.424,
+    "otherIncomeNote": "$13M of other income, net, less $7M of interest expense.",
+    "equityM": 2.517,
+    "taxM": 56.969,
+    "taxNote": "A $57M tax provision on $375M of pre-tax income, a 15.2% GAAP tax rate.",
+    "netIncomeM": 320.596,
+    "netIncomeNote": "The bottom line: $321M of net income, up 8% from $296M a year ago."
+  },
+  "follow100": [
+    {
+      "label": "Total net sales",
+      "amount": 100.0
+    },
+    {
+      "label": "Cost of revenue",
+      "amount": -88.19
+    },
+    {
+      "label": "R&D",
+      "amount": -2.79
+    },
+    {
+      "label": "Sales & marketing",
+      "amount": -1.4
+    },
+    {
+      "label": "G&A",
+      "amount": -1.12
+    },
+    {
+      "label": "Other income",
+      "amount": 0.11
+    },
+    {
+      "label": "Equity investee income",
+      "amount": 0.04
+    },
+    {
+      "label": "Tax",
+      "amount": -1.0
+    },
+    {
+      "label": "Kept as profit",
+      "amount": 5.65
+    }
+  ],
+  "follow100Note": "Supermicro keeps $5.65 of every $100 because the hardware itself costs $88.19 \u2014 its model is volume, not margin. Rows are rounded to the nearest cent; cost of revenue is rounded down a touch so the rounded rows sum exactly to the rounded profit of $5.65 per $100.",
+  "takeaways": [
+    {
+      "stat": "+54.9%",
+      "statColor": "#3d7bc8",
+      "title": "Sales jumped, margins thinned",
+      "text": "Net sales hit $5,678M, up from $3,665M a year ago, but gross margin narrowed to 11.8% from 15.4% as hardware costs ate $5,008M of the total. Operating income was flat at $369M versus $371M a year ago."
+    },
+    {
+      "stat": "$0.51",
+      "statColor": "#3e8e5a",
+      "title": "Profit barely grew",
+      "text": "Net income was $321M, up 8% from $296M a year ago, and GAAP diluted EPS was $0.51 \u2014 flat year over year. Operating expenses rose 56% to $301M, with R&D up 45%, sales and marketing up 70% and G&A up 71%."
+    },
+    {
+      "stat": "$23.5\u201325.0B",
+      "statColor": "#5b6b7c",
+      "title": "Preliminary numbers, delayed filings, guidance cut",
+      "text": "These figures were labeled preliminary \u2014 Supermicro's audited 10-K and 10-Qs were still unfiled when it reported, and the final 10-Q landed February 25, 2025. It also cut full-year FY25 revenue guidance to $23.5\u201325.0B from $26\u201330B, and disclosed DOJ and SEC subpoenas following a short-seller report."
+    }
+  ],
+  "oneTimers": [],
+  "otherDetail": "Other income of $6.4M combines $13.0M of other income, net \u2014 mostly interest earned on investments and cash balances plus foreign-exchange gains \u2014 less $6.5M of interest expense. A separate $2.5M share of income from an equity investee is shown as equityM. Stock-based compensation was approximately $63.0M in the quarter, per the preliminary release; non-GAAP diluted EPS was $0.58\u20130.60 versus GAAP $0.51. Two customers each accounted for 10% or more of net sales: Customer A at 27.1% and Customer G at 30.6%.",
+  "footerNote": "Q3 FY25 guidance: net sales $5.0\u20136.0B, GAAP EPS $0.36\u20130.53; FY25 revenue guidance cut to $23.5\u201325.0B from $26\u201330B.",
+  "pngFooterNote": "Sales up 55% to $5.7B, but profit barely moved.",
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000001/q225pressrelease.htm"
+    },
+    {
+      "label": "Form 10-Q for the quarter ended Dec 31, 2024 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm"
+    }
+  ]
+}
