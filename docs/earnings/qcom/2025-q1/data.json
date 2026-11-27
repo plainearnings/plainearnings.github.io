@@ -1,0 +1,147 @@
+{
+  "company": "Qualcomm",
+  "flow": {
+    "costOfRevenueM": 5161,
+    "grossProfitM": 6508,
+    "netIncomeM": 3180,
+    "operatingIncomeM": 3555,
+    "opex": [
+      {
+        "amountM": 2230,
+        "name": "Research and development",
+        "note": "Building chips, modems and AI platforms; up 6% YoY.",
+        "short": "R&D"
+      },
+      {
+        "amountM": 723,
+        "name": "Selling, general and administrative",
+        "note": "Selling, legal costs and running the company; up 15% YoY.",
+        "short": "SG&A"
+      }
+    ],
+    "otherIncomeM": 80,
+    "revenueM": 11669,
+    "taxM": 455
+  },
+  "follow100": [
+    {
+      "amount": 86.42,
+      "label": "QCT chips"
+    },
+    {
+      "amount": 13.15,
+      "label": "QTL licensing"
+    },
+    {
+      "amount": 0.43,
+      "label": "Other and reconciling items"
+    },
+    {
+      "amount": -44.23,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -19.11,
+      "label": "R&D"
+    },
+    {
+      "amount": -6.2,
+      "label": "SG&A"
+    },
+    {
+      "amount": 0.69,
+      "label": "Other income"
+    },
+    {
+      "amount": -3.9,
+      "label": "Tax"
+    },
+    {
+      "amount": 27.25,
+      "label": "Kept as profit"
+    }
+  ],
+  "footerNote": "Qualcomm guided Q2 FY25 revenue to $10.3B\u2013$11.2B and non-GAAP EPS to $2.70\u2013$2.90.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+17%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs $3.41 non-GAAP; $2.46 a year ago",
+      "value": "$2.83"
+    },
+    {
+      "label": "Automotive revenue",
+      "note": "+61% YoY, 6th straight record quarter",
+      "value": "$961M"
+    },
+    {
+      "label": "Cash returned",
+      "note": "$1.8B buybacks + $942M dividends in Q1",
+      "value": "$2.7B"
+    }
+  ],
+  "oneTimers": [
+    "Non-GAAP results exclude $758M of share-based compensation, $52M of acquisition-related charges and $1M of interest on a 2019 European Commission fine.",
+    "Operating expenses include a $15M loss from revaluing deferred compensation plan liabilities, roughly offset by a $15M gain on the related plan assets inside investment income \u2014 the two nearly cancel out.",
+    "The tax line includes a $164M foreign currency loss on a refund claim for Korean withholding taxes paid in prior years, partly offset by a $128M benefit from the foreign-derived intangible income deduction and a $19M foreign currency gain on a tax liability from a Q4 FY24 IP transfer."
+  ],
+  "otherDetail": "Investment and other income of $243M, less $163M of interest expense, makes up the $80M outside operations.",
+  "periodEnd": "2024-12-29",
+  "pngFooterNote": "Qualcomm guided Q2 FY25 revenue to $10.3B\u2013$11.2B.",
+  "quarterLabel": "Q1 FY25",
+  "quarterSlug": "2025-q1",
+  "reportedDate": "2025-02-05",
+  "revenueYoY": "+17%",
+  "segments": [
+    {
+      "amountM": 10084,
+      "name": "QCT",
+      "note": "The chip business. Inside it: Handsets $7,574M (+13% YoY), Automotive $961M (+61%), IoT $1,549M (+36%).",
+      "yoy": "+20%"
+    },
+    {
+      "amountM": 1535,
+      "name": "QTL",
+      "note": "Licensing phone makers to use Qualcomm's patents \u2014 very high margin (75% pre-tax).",
+      "yoy": "+5%"
+    },
+    {
+      "amountM": 50,
+      "name": "Other and reconciling items",
+      "note": "Nonreportable segments not in QCT or QTL; the difference between segment revenue and the reported total.",
+      "yoy": null
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000010/qcom122924erex991.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+61%",
+      "statColor": "#3d7bc8",
+      "text": "Automotive chips grew 61% YoY to $961M \u2014 a sixth straight record quarter \u2014 while IoT rose 36% to $1.55B; together the two non-handset lines reached $2.51B.",
+      "title": "Cars are the growth story"
+    },
+    {
+      "stat": "$7.6B",
+      "statColor": "#3d7bc8",
+      "text": "Handset chips set a record at $7.57B, up 13% YoY and 65% of total revenue, inside QCT's record $10.08B (+20%).",
+      "title": "Handsets still the engine"
+    },
+    {
+      "stat": "$2.7B",
+      "statColor": "#3e8e5a",
+      "text": "Qualcomm returned $2.7B to shareholders \u2014 $1.8B of buybacks (11 million shares) plus $942M of dividends \u2014 and guided Q2 FY25 revenue to $10.3B\u2013$11.2B.",
+      "title": "Cash back to shareholders"
+    }
+  ],
+  "ticker": "QCOM",
+  "verdict": "Qualcomm set a revenue record at $11.7B as handset chips hit a record and car chips jumped 61%, with licensing still throwing off high-margin cash."
+}

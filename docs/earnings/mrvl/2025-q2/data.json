@@ -1,0 +1,180 @@
+{
+  "company": "Marvell Technology",
+  "flow": {
+    "costOfRevenueM": 685.3,
+    "grossProfitM": 587.6,
+    "netIncomeM": -193.3,
+    "operatingIncomeM": -100.4,
+    "opex": [
+      {
+        "amountM": 486.7,
+        "name": "Research and development",
+        "note": "Designing new data-infrastructure chips and platforms; up 3% YoY.",
+        "short": "R&D"
+      },
+      {
+        "amountM": 197.3,
+        "name": "Selling, general and administrative",
+        "note": "Selling the chips and running the company; down 6% YoY.",
+        "short": "SG&A"
+      },
+      {
+        "amountM": 4.0,
+        "name": "Restructuring related charges",
+        "note": "Severance and facilities charges from the ongoing restructuring; down from $42.0M a year ago.",
+        "short": "Restructuring"
+      }
+    ],
+    "otherIncomeM": -45.8,
+    "revenueM": 1272.9,
+    "taxM": 47.1
+  },
+  "follow100": [
+    {
+      "amount": 69.21,
+      "label": "Data center"
+    },
+    {
+      "amount": 11.86,
+      "label": "Enterprise networking"
+    },
+    {
+      "amount": 5.96,
+      "label": "Carrier infrastructure"
+    },
+    {
+      "amount": 6.98,
+      "label": "Consumer"
+    },
+    {
+      "amount": 5.99,
+      "label": "Automotive/industrial"
+    },
+    {
+      "amount": -53.84,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -38.24,
+      "label": "R&D"
+    },
+    {
+      "amount": -15.5,
+      "label": "SG&A"
+    },
+    {
+      "amount": -0.31,
+      "label": "Restructuring"
+    },
+    {
+      "amount": -3.6,
+      "label": "Other income"
+    },
+    {
+      "amount": -3.7,
+      "label": "Tax"
+    },
+    {
+      "amount": -15.19,
+      "label": "Net loss"
+    }
+  ],
+  "footerNote": "Marvell guided Q3 FY25 revenue to $1.450B \u00b15% \u2014 14% sequential growth at the midpoint, with every end market growing.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "-5%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs $0.30 non-GAAP; -$0.24 a year ago",
+      "value": "-$0.22"
+    },
+    {
+      "label": "Data Center revenue",
+      "note": "+92% YoY, 69% of revenue",
+      "value": "$881M"
+    },
+    {
+      "label": "Cash flow from operations",
+      "note": "in Q2; capex was $48M",
+      "value": "$306M"
+    }
+  ],
+  "oneTimers": [
+    "GAAP results include $154.9M of stock-based compensation and $275.7M of amortization of acquired intangible assets, both excluded from non-GAAP \u2014 that is why non-GAAP net income ($266.2M) is $459.5M above the GAAP net loss (-$193.3M).",
+    "Restructuring-related charges were $4.0M this quarter, down from $42.0M a year ago; the big restructuring and impairment charges hit in earlier quarters.",
+    "Marvell recorded a $47.1M tax provision despite a $146.2M pre-tax loss \u2014 the tax line adds to the loss rather than softening it, unlike a year ago when it was a $44.1M benefit."
+  ],
+  "otherDetail": "Interest expense of $48.4M, partly offset by $2.6M of interest income and other, net, makes up the $45.8M outside operations.",
+  "periodEnd": "2024-08-03",
+  "pngFooterNote": "Marvell guided Q3 FY25 revenue to $1.45B \u00b15%.",
+  "quarterLabel": "Q2 FY25",
+  "quarterSlug": "2025-q2",
+  "reportedDate": "2024-08-29",
+  "revenueYoY": "-5%",
+  "segments": [
+    {
+      "amountM": 880.9,
+      "name": "Data center",
+      "note": "Chips for AI data centers \u2014 custom silicon, optics and Ethernet switches; 69% of all revenue.",
+      "yoy": "+92%"
+    },
+    {
+      "amountM": 151.0,
+      "name": "Enterprise networking",
+      "note": "Campus and small-business routers, switches and wireless access points; 12% of revenue.",
+      "yoy": "-54%"
+    },
+    {
+      "amountM": 75.9,
+      "name": "Carrier infrastructure",
+      "note": "Broadband access, optical transport and wireless radio gear for carriers; 6% of revenue.",
+      "yoy": "-72%",
+      "compact": true
+    },
+    {
+      "amountM": 88.9,
+      "name": "Consumer",
+      "note": "Broadband gateways, gaming consoles, home storage and PCs; 7% of revenue.",
+      "yoy": "-47%",
+      "compact": true
+    },
+    {
+      "amountM": 76.2,
+      "name": "Automotive/industrial",
+      "note": "Driver-assistance, in-vehicle networking and industrial Ethernet; 6% of revenue.",
+      "yoy": "-31%",
+      "compact": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563224000140/q225_8kx832024ex-991.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+92%",
+      "statColor": "#3d7bc8",
+      "text": "Data Center revenue hit $880.9M \u2014 69% of the company \u2014 up 92% YoY as electro-optics products grew and custom AI programs began to ramp, and total revenue grew 10% sequentially, above the midpoint of guidance.",
+      "title": "Data Center nearly doubled"
+    },
+    {
+      "stat": "-$193M",
+      "statColor": "#b8443c",
+      "text": "GAAP net loss was $193.3M, or -$0.22 per share, versus a $207.5M loss a year ago. Operating loss was $100.4M, as R&D and SG&A alone ($684.0M) exceeded gross profit of $587.6M \u2014 but non-GAAP net income was $266.2M, or $0.30 per share.",
+      "title": "Still a GAAP loss"
+    },
+    {
+      "stat": "$1.45B",
+      "statColor": "#3d7bc8",
+      "text": "Marvell guided Q3 FY25 revenue to $1.450B \u00b15% \u2014 14% sequential growth at the midpoint \u2014 with all five end markets growing sequentially and enterprise networking and carrier returning to growth, plus a big jump in operating leverage.",
+      "title": "Every market expected to grow next quarter"
+    }
+  ],
+  "ticker": "MRVL",
+  "verdict": "Marvell's AI data-center sales nearly doubled, but the rest of the business shrank so much that total revenue fell 5% \u2014 and on a GAAP basis the company still lost $193M."
+}

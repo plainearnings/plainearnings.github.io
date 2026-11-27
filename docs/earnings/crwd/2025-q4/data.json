@@ -1,0 +1,156 @@
+{
+  "company": "CrowdStrike",
+  "flow": {
+    "costOfRevenueM": 273.99,
+    "grossProfitM": 784.548,
+    "netIncomeM": -92.731,
+    "operatingIncomeM": -85.301,
+    "opex": [
+      {
+        "amountM": 409.504,
+        "name": "Sales & marketing",
+        "note": "Selling Falcon to enterprises \u2014 the biggest running cost, up 41% on the year."
+      },
+      {
+        "amountM": 315.142,
+        "name": "Research & development",
+        "note": "Building the Falcon platform and its AI defenses."
+      },
+      {
+        "amountM": 145.203,
+        "name": "General & administrative",
+        "note": "Running the company day to day."
+      }
+    ],
+    "otherIncomeM": 38.838,
+    "revenueM": 1058.538,
+    "taxM": 46.268
+  },
+  "follow100": [
+    {
+      "amount": 95.26,
+      "label": "Subscription"
+    },
+    {
+      "amount": 4.74,
+      "label": "Professional services"
+    },
+    {
+      "amount": -25.88,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -38.69,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -29.77,
+      "label": "Research & development"
+    },
+    {
+      "amount": -13.72,
+      "label": "General & administrative"
+    },
+    {
+      "amount": 3.77,
+      "label": "Net interest income"
+    },
+    {
+      "amount": -0.1,
+      "label": "Other expense"
+    },
+    {
+      "amount": -4.37,
+      "label": "Tax"
+    },
+    {
+      "amount": -8.76,
+      "label": "Net loss"
+    }
+  ],
+  "follow100Note": "Rows add up with a small rounding difference. Kept as profit is negative \u2014 the quarter lost money, so each $100 of revenue ended $8.76 in the red.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+25%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "vs +$0.22 a year ago; $1.03 non-GAAP",
+      "value": "-$0.37"
+    },
+    {
+      "label": "Net new ARR",
+      "note": "record; ARR $4.24B, +23% YoY",
+      "value": "$224M"
+    },
+    {
+      "label": "Free cash flow",
+      "note": "vs $283M a year ago",
+      "value": "$240M"
+    }
+  ],
+  "oneTimers": [
+    "Share-based compensation, $272.5M (up from $176.3M a year ago): the largest non-GAAP add-back and the entire reason GAAP operating income is an $85.3M loss while non-GAAP operating income is $217.3M. It is excluded from non-GAAP results, but it is a real cost \u2014 it dilutes existing shareholders.",
+    "July 19 Incident costs, net, $21.0M (vs $0 a year ago): legal fees, remediation, sensor testing and related costs from the July 2024 outage, net of insurance receivables. A new charge this year; excluded from non-GAAP results.",
+    "Acquisition-related tax provision, $49.9M: the tax line is a $46.3M charge even though the quarter lost $46.5M before tax, because it includes this $49.9M acquisition-related provision (footnote 10). It is added back in the non-GAAP reconciliation.",
+    "Amortization of acquired intangible assets, $7.3M (vs $5.5M a year ago), and acquisition-related expenses, $1.5M: small, recurring non-GAAP add-backs as acquisitions flow in."
+  ],
+  "otherDetail": "Interest income of $46.597M, less $6.664M of interest expense, plus other expense of $1.095M \u2014 net $38.838M. The tax line is a $46.268M charge on a $46.463M pre-tax loss, mostly a $49.883M acquisition-related provision, so the tax line deepened the loss instead of softening it.",
+  "periodEnd": "2025-01-31",
+  "quarterLabel": "Q4 FY25",
+  "quarterSlug": "2025-q4",
+  "reportedDate": "2025-03-04",
+  "revenueYoY": "+25%",
+  "segments": [
+    {
+      "amountM": 1008.316,
+      "name": "Subscription",
+      "note": "The Falcon security platform, sold by subscription \u2014 95% of all revenue.",
+      "yoy": "+27%"
+    },
+    {
+      "amountM": 50.222,
+      "name": "Professional services",
+      "note": "Security experts for hire \u2014 incident response and setup help.",
+      "yoy": "+2%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552725000005/crwd-20250304xex991.htm"
+    },
+    {
+      "label": "Form 8-K (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552725000005/crwd-20250304.htm"
+    },
+    {
+      "label": "CrowdStrike investor relations",
+      "url": "https://ir.crowdstrike.com"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "$224M",
+      "statColor": "#3d7bc8",
+      "text": "Net new ARR \u2014 new subscription value signed in the quarter \u2014 hit a record $224.3M, taking total ARR to $4.24B (+23% YoY). Subscription revenue grew 27% to $1.01B, and the newer Next-Gen SIEM, Cloud Security and Identity Protection businesses passed $1.3B in combined ARR. Customers keep consolidating on Falcon: 97% gross retention, and Falcon Flex deals added over $1B of in-quarter deal value.",
+      "title": "Record new business"
+    },
+    {
+      "stat": "-$85M",
+      "statColor": "#b8443c",
+      "text": "The GAAP operating loss was $85.3M, against a $29.7M profit a year ago \u2014 sales and marketing alone jumped 41% to $409.5M. Stock-based compensation of $272.5M is the whole gap: excluding it and smaller add-backs, operating income was $217.3M, a 21% margin. The underlying profit is real; shareholders pay for it in dilution.",
+      "title": "Operations lost money on a GAAP basis"
+    },
+    {
+      "stat": "$240M",
+      "statColor": "#3e8e5a",
+      "text": "Operating cash flow of $345.7M and free cash flow of $239.8M still flowed \u2014 customers pay subscriptions upfront, so cash arrives long before the revenue is counted \u2014 and cash ended at $4.32B. But the $92.7M net loss was deepened by a $46.3M tax charge on a pre-tax loss, driven by a $49.9M acquisition-related provision. Non-GAAP EPS was $1.03; GAAP EPS was -$0.37.",
+      "title": "Cash flowed, but tax deepened the loss"
+    }
+  ],
+  "ticker": "CRWD",
+  "verdict": "CrowdStrike grew revenue 25% to $1.06B and signed a record $224M of net new subscriptions, but $273M of stock-based pay pushed the core business to an $85M operating loss \u2014 and a $46M tax charge on a pre-tax loss turned it into a $93M net loss, even as the business still generated $240M of free cash flow."
+}

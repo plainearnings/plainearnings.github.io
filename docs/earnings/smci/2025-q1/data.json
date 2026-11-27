@@ -1,0 +1,148 @@
+{
+  "company": "Super Micro Computer",
+  "flow": {
+    "costOfRevenueM": 5161.676,
+    "costOfRevenueNote": "What it cost to build the servers and racks sold \u2014 mostly hardware components.",
+    "equityM": -0.019,
+    "grossProfitM": 775.58,
+    "grossProfitNote": "Revenue left after the direct cost of the hardware \u2014 13.1% of revenue, down from 16.7% a year ago.",
+    "netIncomeM": 424.327,
+    "netIncomeNote": "The bottom line: $424M of net income, up 170% from $157M a year ago.",
+    "operatingIncomeM": 509.199,
+    "operatingIncomeNote": "$509M of operating income \u2014 $776M of gross profit minus $266M of operating expenses.",
+    "opex": [
+      {
+        "amountM": 132.243,
+        "name": "Research and development",
+        "note": "Designing next-generation servers, racks and Data Center Building Block Solutions; up 19% YoY."
+      },
+      {
+        "amountM": 68.854,
+        "name": "Sales and marketing",
+        "note": "Sales teams and marketing; up 85% YoY as Supermicro chased larger data-center deals."
+      },
+      {
+        "amountM": 65.284,
+        "name": "General and administrative",
+        "note": "Back office, legal and facilities; up 98% YoY."
+      }
+    ],
+    "otherIncomeM": -10.121,
+    "otherIncomeNote": "$7.2M of other income, net, less $17.4M of interest expense \u2014 a net other expense of $10.1M.",
+    "revenueM": 5937.256,
+    "revenueNote": "Money from selling servers, racks and related systems to data-center customers.",
+    "taxM": 74.732,
+    "taxNote": "A $75M tax provision on $499M of pre-tax income, a 15.0% GAAP tax rate."
+  },
+  "follow100": [
+    {
+      "amount": 100.0,
+      "label": "Total net sales"
+    },
+    {
+      "amount": -86.93,
+      "label": "Cost of revenue"
+    },
+    {
+      "amount": -2.23,
+      "label": "R&D"
+    },
+    {
+      "amount": -1.16,
+      "label": "Sales & marketing"
+    },
+    {
+      "amount": -1.1,
+      "label": "G&A"
+    },
+    {
+      "amount": -0.17,
+      "label": "Other income"
+    },
+    {
+      "amount": -1.26,
+      "label": "Tax"
+    },
+    {
+      "amount": 7.15,
+      "label": "Kept as profit"
+    }
+  ],
+  "follow100Note": "Supermicro keeps $7.15 of every $100 because the hardware itself costs $86.93 \u2014 its model is volume, not margin. Rows are rounded to the nearest cent; cost of revenue is rounded down a touch so the rounded rows sum exactly to the rounded profit of $7.15 per $100. The 'Other income' row is negative because $17.4M of interest expense outweighed $7.2M of other income; the $0.02M share of loss from an equity investee rounds to $0.00 per $100 and is left out.",
+  "footerNote": "Q2 FY25 guidance (Nov 5 preliminary release): net sales $5.5\u20136.1B, GAAP EPS $0.48\u20130.58, non-GAAP EPS $0.56\u20130.65.",
+  "kpis": [
+    {
+      "label": "Revenue growth",
+      "note": "vs a year ago",
+      "value": "+180.1%"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "note": "diluted; up from $0.27 a year ago (preliminary release guided non-GAAP EPS of $0.75\u20130.76)",
+      "value": "$0.67"
+    },
+    {
+      "label": "Gross margin",
+      "note": "vs 16.7% a year ago; preliminary release guided approximately 13.3%",
+      "value": "13.1%"
+    },
+    {
+      "label": "Cash and equivalents",
+      "note": "vs $1.7B at June 30, 2024; operating cash flow was $409M in the quarter",
+      "value": "$2.1B"
+    }
+  ],
+  "oneTimers": [
+    "Delayed filing: these final figures come from the Form 10-Q filed February 25, 2025 \u2014 nearly five months after quarter-end \u2014 after EY resigned as auditor on October 24, 2024 and an independent special committee completed its review on December 2, 2024. The quarter was first reported only as preliminary ranges on November 5, 2024 (net sales $5.9\u20136.0B, non-GAAP diluted EPS $0.75\u20130.76).",
+    "Stock-based compensation was approximately $64.0M in the quarter, per the 10-Q cash flow statement; the November 5, 2024 preliminary release put non-GAAP diluted EPS at $0.75\u20130.76 versus GAAP $0.67, with the gap mostly stock-based compensation."
+  ],
+  "otherDetail": "Other income of -$10.1M combines $7.2M of other income, net, less $17.4M of interest expense. A separate $0.02M share of loss from an equity investee is shown as equityM. Three customers each accounted for 10% or more of net sales: Customer B 28.7%, Customer A 20.8% and Customer G 11.9%; one supplier (Supplier A) provided 65.1% of purchases. Cash and equivalents were $2,089M at September 30, 2024, up from $1,670M at June 30, 2024, and inventories were $4,931M. A 10-for-1 forward stock split took effect September 30, 2024, and all per-share figures are split-adjusted.",
+  "periodEnd": "2024-09-30",
+  "pngFooterNote": "Sales nearly tripled to $5.9B; profit hit $424M.",
+  "quarterLabel": "Q1 FY25",
+  "quarterSlug": "2025-q1",
+  "reportedDate": "2025-02-25",
+  "revenueYoY": "+180.1%",
+  "segments": [
+    {
+      "amountM": 5747.781,
+      "name": "Server and storage systems",
+      "note": "Complete server and rack systems for AI and cloud data centers, including GPU servers and rack-scale solutions; services and software revenue (under 10% of sales) is included here.",
+      "yoy": "+192.3%"
+    },
+    {
+      "amountM": 189.475,
+      "name": "Subsystems and accessories",
+      "note": "Server boards, chassis and accessories sold on their own.",
+      "yoy": "+23.8%"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Form 10-Q for the quarter ended Sep 30, 2024 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm"
+    }
+  ],
+  "takeaways": [
+    {
+      "stat": "+180.1%",
+      "statColor": "#3d7bc8",
+      "text": "Net sales hit $5,937M, up from $2,120M a year ago, driven by demand for GPU servers, high-performance computing and rack-scale solutions. Server and storage systems alone were $5,748M, up 192% year over year.",
+      "title": "Sales nearly tripled on AI servers"
+    },
+    {
+      "stat": "$0.67",
+      "statColor": "#3e8e5a",
+      "text": "Net income was $424M, up 170% from $157M a year ago, and GAAP diluted EPS was $0.67 versus $0.27. Operating income nearly tripled to $509M even as gross margin narrowed to 13.1% from 16.7% a year ago.",
+      "title": "Profit more than doubled"
+    },
+    {
+      "stat": "Feb 25, 2025",
+      "statColor": "#5b6b7c",
+      "text": "These final figures landed in the 10-Q on February 25, 2025 \u2014 the quarter had only been reported as preliminary ranges on November 5, 2024, after Ernst & Young resigned on October 24, 2024 and a special committee reviewed governance concerns. The committee found no evidence of misconduct, and BDO USA is the new auditor.",
+      "title": "Five months late, after the auditor quit"
+    }
+  ],
+  "ticker": "SMCI",
+  "verdict": "Supermicro's sales nearly tripled to $5.9 billion on AI server demand and profit jumped to $424 million \u2014 but the final numbers arrived five months late, after its auditor quit."
+}
