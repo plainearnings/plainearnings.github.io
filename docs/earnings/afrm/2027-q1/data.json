@@ -1,0 +1,170 @@
+{
+  "ticker": "AFRM",
+  "company": "Affirm",
+  "quarterLabel": "Q1 FY27",
+  "quarterSlug": "2027-q1",
+  "periodEnd": "2026-09-30",
+  "reportedDate": "2026-11-05",
+  "verdict": "Affirm's revenue jumped 35% to $1.3B on $14.4B of checkout volume, and net income more than doubled to $164M \u2014 its eighth straight profitable quarter \u2014 as the Affirm Card more than doubled to 6 million cardholders.",
+  "revenueYoY": "+35%",
+  "kpis": [
+    {
+      "label": "Revenue",
+      "value": "$1.3B",
+      "note": "+35% YoY"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "value": "$0.47",
+      "note": "diluted, vs $0.23 a year ago"
+    },
+    {
+      "label": "GMV",
+      "value": "$14.4B",
+      "note": "+34% YoY \u2014 12th straight quarter above 30%"
+    },
+    {
+      "label": "Revenue less transaction costs",
+      "value": "$617M",
+      "note": "+36% YoY \u2014 4.3% of GMV"
+    }
+  ],
+  "segments": [
+    {
+      "name": "Interest income",
+      "amountM": 658.128,
+      "note": "Interest borrowers pay on their loans \u2014 the biggest revenue line, up 45% as average loans held for investment grew 38% and average APR rose.",
+      "yoy": "+45%"
+    },
+    {
+      "name": "Total network revenue",
+      "amountM": 393.418,
+      "note": "Fees merchants and card networks pay Affirm on each purchase \u2014 up 23% as GMV grew 34%, with the mix shifting toward direct-to-consumer volume that carries lower network fees.",
+      "yoy": "+23%"
+    },
+    {
+      "name": "Gain on sales of loans",
+      "amountM": 162.172,
+      "note": "Profit from selling loans to funding partners \u2014 up 36% on 27% more loans sold and better sale pricing.",
+      "yoy": "+36%"
+    },
+    {
+      "name": "Servicing income",
+      "amountM": 48.498,
+      "note": "Fees for servicing loans now owned by others \u2014 up 22%, tracking the off-balance-sheet portfolio.",
+      "yoy": "+22%"
+    }
+  ],
+  "flow": {
+    "revenueM": 1262.216,
+    "costOfRevenueM": 645.111,
+    "costName": "Transaction costs",
+    "costPlain": "Affirm's own 'transaction costs': the $259M provision for credit losses, $134M of funding costs, $169M of processing and servicing, and $83M of losses on loan purchase commitments \u2014 what it costs to fund and run each loan.",
+    "grossProfitM": 617.105,
+    "grossName": "Revenue less transaction costs",
+    "opex": [
+      {
+        "name": "Technology and data analytics",
+        "amountM": 202.652,
+        "note": "Engineers, data scientists and the tech running the platform \u2014 up 21% YoY, mostly amortization of software Affirm built and infrastructure for 34% more transactions."
+      },
+      {
+        "name": "Sales and marketing",
+        "amountM": 86.841,
+        "note": "Winning merchants and consumers \u2014 includes $51M of enterprise warrant expense tied to big partners."
+      },
+      {
+        "name": "General and administrative",
+        "amountM": 140.56,
+        "note": "Running the company \u2014 down 3% YoY as stock-based compensation fell $19M."
+      }
+    ],
+    "operatingIncomeM": 187.052,
+    "otherIncomeM": 18.0,
+    "taxM": 40.886,
+    "netIncomeM": 164.166
+  },
+  "follow100": [
+    {
+      "label": "Interest income",
+      "amount": 52.14
+    },
+    {
+      "label": "Network revenue",
+      "amount": 31.17
+    },
+    {
+      "label": "Gain on loan sales",
+      "amount": 12.85
+    },
+    {
+      "label": "Servicing income",
+      "amount": 3.84
+    },
+    {
+      "label": "Cost of revenue",
+      "amount": -51.11
+    },
+    {
+      "label": "Technology & data analytics",
+      "amount": -16.06
+    },
+    {
+      "label": "Sales & marketing",
+      "amount": -6.88
+    },
+    {
+      "label": "G&A",
+      "amount": -11.14
+    },
+    {
+      "label": "Other income",
+      "amount": 1.43
+    },
+    {
+      "label": "Tax",
+      "amount": -3.24
+    },
+    {
+      "label": "Kept as profit",
+      "amount": 13.01
+    }
+  ],
+  "follow100Note": "The rows before 'Kept as profit' add to $13.00 of profit per $100 of revenue; the $0.01 gap is rounding.",
+  "takeaways": [
+    {
+      "stat": "+34%",
+      "statColor": "#3d7bc8",
+      "title": "Checkout volume keeps compounding",
+      "text": "GMV grew 34% to $14.4B \u2014 the 12th straight quarter above 30%. Direct-to-consumer volume grew 55% to $5.1B, with Affirm Card GMV up 117% to $3.3B. Active consumers rose 19% to 28.7 million and active merchants 48% to 621,000."
+    },
+    {
+      "stat": "$617M",
+      "statColor": "#3e8e5a",
+      "title": "Profit is scaling faster than revenue",
+      "text": "Revenue less transaction costs rose 36% to $617M, or 4.3% of GMV. Operating income nearly tripled to $187M \u2014 a 14.8% margin vs 6.8% a year ago \u2014 and adjusted operating income reached $380M, a 30% margin."
+    },
+    {
+      "stat": "2.9%",
+      "statColor": "#d96a57",
+      "title": "Credit costs are the watch item",
+      "text": "30+ day delinquencies (ex-Peloton and Pay in 4) ticked up 9 basis points YoY to 2.9%, and the provision for credit losses rose 59% to $259M \u2014 faster than revenue \u2014 as the loan book grew. Recent loan vintages are tracking toward about 3.5% ultimate net charge-offs, in line with expectations."
+    }
+  ],
+  "oneTimers": [
+    "Operating income includes $51M of enterprise warrant and share-based expense tied to two big partners, inside sales and marketing \u2014 the main reason GAAP operating income ($187M) is about half the adjusted figure ($380M, which also adds back $86M of depreciation and amortization and $56M of stock-based compensation)."
+  ],
+  "otherDetail": "Other income, net of $18M.",
+  "footerNote": "Affirm reports no gross-profit line; 'transaction costs' \u2014 its own non-GAAP measure \u2014 is shown as the direct cost, leaving Revenue Less Transaction Costs (RLTC) as the gross-profit bar.",
+  "pngFooterNote": "Transaction costs are Affirm's own RLTC measure.",
+  "sources": [
+    {
+      "label": "Official Q1 FY27 shareholder letter (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1820953/000162828026071005/affirmfq127shareholderle.htm"
+    },
+    {
+      "label": "Form 10-Q financial statements (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1820953/000162828026071153/afrm-20260930.htm"
+    }
+  ]
+}

@@ -7071,6 +7071,84 @@
       },
       "status": "live",
       "latestQuarter": "Q3 2026"
+    },
+    {
+      "ticker": "AFRM",
+      "name": "Affirm Holdings",
+      "sector": "Financials",
+      "slug": "afrm",
+      "flags": {
+        "sp500": false,
+        "qqq": false,
+        "ai": false
+      },
+      "status": "live",
+      "latestQuarter": "Q1 FY27"
+    },
+    {
+      "ticker": "SOFI",
+      "name": "SoFi Technologies",
+      "sector": "Financials",
+      "slug": "sofi",
+      "flags": {
+        "sp500": false,
+        "qqq": false,
+        "ai": false
+      },
+      "status": "live",
+      "latestQuarter": "Q3 2026"
+    },
+    {
+      "ticker": "ASTS",
+      "name": "AST SpaceMobile",
+      "sector": "Communication Services",
+      "slug": "asts",
+      "flags": {
+        "sp500": false,
+        "qqq": false,
+        "ai": false
+      },
+      "status": "live",
+      "latestQuarter": "Q3 2026"
+    },
+    {
+      "ticker": "KLAR",
+      "name": "Klarna Group",
+      "sector": "Financials",
+      "slug": "klar",
+      "flags": {
+        "sp500": false,
+        "qqq": false,
+        "ai": false
+      },
+      "status": "live",
+      "latestQuarter": "Q3 2026"
+    },
+    {
+      "ticker": "BLSH",
+      "name": "Bullish",
+      "sector": "Financials",
+      "slug": "blsh",
+      "flags": {
+        "sp500": false,
+        "qqq": false,
+        "ai": false
+      },
+      "status": "live",
+      "latestQuarter": "Q3 2026"
+    },
+    {
+      "ticker": "CHYM",
+      "name": "Chime Financial",
+      "sector": "Financials",
+      "slug": "chym",
+      "flags": {
+        "sp500": false,
+        "qqq": false,
+        "ai": false
+      },
+      "status": "live",
+      "latestQuarter": "Q3 2026"
     }
   ]
 }

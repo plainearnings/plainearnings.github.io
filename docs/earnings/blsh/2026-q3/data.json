@@ -1,0 +1,143 @@
+{
+  "ticker": "BLSH",
+  "company": "Bullish",
+  "quarterLabel": "Q3 2026",
+  "quarterSlug": "2026-q3",
+  "periodEnd": "2026-09-30",
+  "reportedDate": "2026-11-18",
+  "verdict": "Bullish reported a $576M profit, but $598M of it was a paper gain on the digital assets it holds \u2014 the exchange-and-services business itself earned $18.7M on an adjusted basis, up 36% year over year.",
+  "revenueYoY": "-23%",
+  "kpis": [
+    {
+      "label": "Revenue (adjusted)",
+      "value": "$84.4M",
+      "note": "+10% YoY, non-IFRS \u2014 the revenue Bullish actually keeps"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "value": "$3.57",
+      "note": "vs $0.10 a year ago"
+    },
+    {
+      "label": "Net income",
+      "value": "$576.3M",
+      "note": "vs $18.5M \u2014 almost all a paper gain"
+    },
+    {
+      "label": "Adjusted EBITDA",
+      "value": "$35.6M",
+      "note": "+24% YoY, 42% margin"
+    }
+  ],
+  "segments": [
+    {
+      "name": "Digital asset sales",
+      "amountM": 32091.417,
+      "note": "Digital assets bought and immediately resold to customers on Bullish's exchange and other venues \u2014 $32.1B passed through in the quarter, but almost all of it went straight back out as cost.",
+      "yoy": "-23%"
+    },
+    {
+      "name": "Other revenues",
+      "amountM": 56.607,
+      "note": "Subscription and services revenue \u2014 CoinDesk media, data and indices, lending and liquidity services \u2014 plus transaction income. This is where Bullish's recurring business lives.",
+      "yoy": "+13%"
+    }
+  ],
+  "flow": {
+    "revenueM": 32148.024,
+    "costOfRevenueM": 32075.954,
+    "costName": "Cost of digital assets",
+    "costPlain": "The digital assets Bullish buys to resell to customers \u2014 $32,076M against $32,091M of digital asset sales, leaving just $15M of spread on the pass-through.",
+    "grossProfitM": 72.07,
+    "grossName": "Gross profit",
+    "opex": [
+      {
+        "name": "Administrative expenses",
+        "amountM": 51.328,
+        "note": "Staff, offices and the cost of running the exchange and CoinDesk."
+      },
+      {
+        "name": "Other expenses",
+        "amountM": 22.06,
+        "note": "Other operating costs, including share-based payments and non-recurring items the release does not split out."
+      }
+    ],
+    "operatingIncomeM": -1.318,
+    "otherIncomeM": 578.421,
+    "taxM": 0.82,
+    "netIncomeM": 576.283
+  },
+  "otherDetail": "Other income of $578.4M is dominated by a $598.4M non-cash gain on revaluing digital assets held, plus an $82.7M gain on investments in financial assets and a $10.2M gain on a financial liability, partly offset by a $96.9M loss on derivatives and $16.1M of finance expense.",
+  "follow100": [
+    {
+      "label": "Digital asset sales",
+      "amount": 99.82
+    },
+    {
+      "label": "Other revenues",
+      "amount": 0.18
+    },
+    {
+      "label": "Cost of digital assets",
+      "amount": -99.78
+    },
+    {
+      "label": "Administrative expenses",
+      "amount": -0.16
+    },
+    {
+      "label": "Other expenses",
+      "amount": -0.07
+    },
+    {
+      "label": "Other income",
+      "amount": 1.8
+    },
+    {
+      "label": "Tax",
+      "amount": -0.0
+    },
+    {
+      "label": "Kept as profit",
+      "amount": 1.79
+    }
+  ],
+  "follow100Note": "Almost every dollar of Bullish's reported revenue is a digital asset bought and immediately resold \u2014 $99.78 of each $100 goes straight back out. The real business is the $84.4M of adjusted revenue. Rows may not add exactly due to rounding.",
+  "takeaways": [
+    {
+      "stat": "$598M",
+      "statColor": "#cf5f4e",
+      "title": "The headline profit is mostly a paper gain",
+      "text": "A $598.4M non-cash gain from revaluing the digital assets Bullish holds \u2014 versus an $11.4M loss a year ago \u2014 is bigger than the entire $576.3M net income. Strip out the mark-to-market swings and adjusted net income was $18.7M, up 36%."
+    },
+    {
+      "stat": "+24%",
+      "statColor": "#3e8e5a",
+      "title": "The underlying business is growing",
+      "text": "Adjusted revenue rose 10% to $84.4M and adjusted EBITDA rose 24% to $35.6M, a 42% margin, as subscription, services and other revenue grew 13%. Adjusted transaction revenue was $28.0M, up from $26.7M."
+    },
+    {
+      "stat": "$300M",
+      "statColor": "#3d7bc8",
+      "title": "Buyback authorized, Equiniti deal on track",
+      "text": "Bullish's board authorized a $300M share repurchase program, and the Equiniti acquisition \u2014 the deal that would put Bullish into tokenized equities \u2014 is expected to close in January 2027. Digital asset sales fell 23% to $32.1B in a weaker market."
+    }
+  ],
+  "oneTimers": [
+    "A $598.4M non-cash gain from the change in fair value of digital assets held (vs an $11.4M loss in Q3 2025) is the main reason GAAP net income of $576.3M dwarfs adjusted net income of $18.7M.",
+    "A $96.9M loss on the change in fair value of derivatives (vs $5.5M a year ago) and an $82.7M gain on investments in financial assets (vs $55.0M) also swung with crypto markets and are excluded from Bullish's adjusted figures.",
+    "Share-based payment expenses were $44.6M in the first nine months of 2026 ($15.6M employee awards plus $29.0M other awards) \u2014 a real cost that Bullish's adjusted net income and adjusted EBITDA both set aside."
+  ],
+  "footerNote": "Bullish reports under IFRS. Nearly all of its $32.1B of reported revenue is digital-asset sales passed straight through to customers \u2014 the business it actually keeps is the $84.4M of adjusted revenue (non-IFRS).",
+  "pngFooterNote": "Most of the $32.1B is pass-through digital-asset sales; adjusted revenue was $84.4M.",
+  "sources": [
+    {
+      "label": "Official Q3 2026 earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1872195/000143774926037471/ex_1007396.htm"
+    },
+    {
+      "label": "Unaudited condensed consolidated financial statements, Q3 2026 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1872195/000143774926037471/ex_1007397.htm"
+    }
+  ]
+}

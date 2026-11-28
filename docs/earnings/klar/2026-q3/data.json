@@ -1,0 +1,179 @@
+{
+  "ticker": "KLAR",
+  "company": "Klarna",
+  "quarterLabel": "Q3 2026",
+  "quarterSlug": "2026-q3",
+  "periodEnd": "2026-09-30",
+  "reportedDate": "2026-11-17",
+  "verdict": "Klarna passed $1B in revenue for the fourth straight quarter and its transaction margin jumped 32% to $371M, but share-based pay and other costs still left a $65M net loss.",
+  "revenueYoY": "+12%",
+  "kpis": [
+    {
+      "label": "Revenue",
+      "value": "$1.0B",
+      "note": "+12% YoY"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "value": "$(0.19)",
+      "note": "vs $(0.25) a year ago"
+    },
+    {
+      "label": "GMV",
+      "value": "$36.1B",
+      "note": "+10% YoY"
+    },
+    {
+      "label": "Transaction margin",
+      "value": "$371M",
+      "note": "+32% YoY, 36.8% of revenue"
+    }
+  ],
+  "segments": [
+    {
+      "name": "Transaction and service revenue",
+      "amountM": 683,
+      "note": "Fees Klarna earns when shoppers check out with buy now, pay later and other payment products \u2014 $36.1B of purchases flowed through in the quarter.",
+      "yoy": "+8%"
+    },
+    {
+      "name": "Gains on consumer receivables, net",
+      "amountM": 53,
+      "note": "Gains from selling consumer loans onward to other buyers through Klarna's forward-flow programs \u2014 about $7.7B of loans were sold in the quarter.",
+      "yoy": "n.m."
+    },
+    {
+      "name": "Interest income",
+      "amountM": 273,
+      "note": "Interest earned on the loans Klarna keeps on its own books, mainly its Fair Financing instalment loans.",
+      "yoy": "+1%"
+    }
+  ],
+  "flow": {
+    "revenueM": 1009,
+    "costOfRevenueM": 638,
+    "costName": "Transaction costs",
+    "costPlain": "What each purchase costs Klarna to run: $255M to process and service payments, $201M set aside for credit losses, and $182M to fund the loans.",
+    "grossProfitM": 371,
+    "grossName": "Transaction margin",
+    "opex": [
+      {
+        "name": "Technology and product development",
+        "amountM": 138,
+        "note": "Engineers and designers building Klarna's app, card and checkout products."
+      },
+      {
+        "name": "Sales and marketing",
+        "amountM": 127,
+        "note": "Winning merchants and shoppers, including the Fiserv partnership and new U.S. retailers."
+      },
+      {
+        "name": "Customer service and operations",
+        "amountM": 54,
+        "note": "Support for 122 million active consumers and 1.35 million merchants."
+      },
+      {
+        "name": "General and administrative",
+        "amountM": 99,
+        "note": "Running the company: finance, legal, risk and offices."
+      },
+      {
+        "name": "Depreciation & amortization",
+        "amountM": 6,
+        "note": "Spreading the cost of software and other long-lived assets, plus small impairments."
+      }
+    ],
+    "operatingIncomeM": -53,
+    "otherIncomeM": 3,
+    "taxM": 15,
+    "netIncomeM": -65
+  },
+  "otherDetail": "Other income (expense) was a $3M gain \u2014 immaterial next to the operating loss.",
+  "follow100": [
+    {
+      "label": "Transaction & service revenue",
+      "amount": 67.69
+    },
+    {
+      "label": "Gains on consumer receivables",
+      "amount": 5.25
+    },
+    {
+      "label": "Interest income",
+      "amount": 27.06
+    },
+    {
+      "label": "Transaction costs",
+      "amount": -63.23
+    },
+    {
+      "label": "Technology & product dev",
+      "amount": -13.68
+    },
+    {
+      "label": "Sales & marketing",
+      "amount": -12.59
+    },
+    {
+      "label": "Customer service & ops",
+      "amount": -5.35
+    },
+    {
+      "label": "G&A",
+      "amount": -9.81
+    },
+    {
+      "label": "Depreciation & amortization",
+      "amount": -0.59
+    },
+    {
+      "label": "Other income",
+      "amount": 0.3
+    },
+    {
+      "label": "Tax",
+      "amount": -1.49
+    },
+    {
+      "label": "Kept as profit",
+      "amount": -6.44
+    }
+  ],
+  "follow100Note": "Klarna's transaction costs \u2014 processing, credit-loss provisions and funding \u2014 eat $63.23 of every $100 before its own running costs, and the quarter ended in a loss, so the 'kept as profit' row is negative. Rows may not add exactly due to rounding.",
+  "takeaways": [
+    {
+      "stat": "$371M",
+      "statColor": "#3e8e5a",
+      "title": "It keeps much more from each purchase than a year ago",
+      "text": "Transaction margin \u2014 what Klarna keeps after paying to process, fund and cover losses on each purchase \u2014 rose 32% to $371M, or 36.8% of revenue, up 5.7 points. Fair Financing, its highest-earning product per dollar of volume, was also its fastest growing, up 61%."
+    },
+    {
+      "stat": "+500%",
+      "statColor": "#3d7bc8",
+      "title": "Subscriptions are becoming a real business",
+      "text": "Subscription revenue rose more than 500% to $43M in the quarter \u2014 $178M a year at September's run rate \u2014 as paying Klarna Card subscribers tripled to 2.6 million. Card volume more than doubled to $4.5B, and card users shop with Klarna about three times as often."
+    },
+    {
+      "stat": "$(65)M",
+      "statColor": "#cf5f4e",
+      "title": "Still loss-making on the official books",
+      "text": "The operating loss was $53M and the net loss $65M, both $30M better than a year ago. Share-based payments jumped 38% to $54M on the timing of the annual compensation cycle; strip those and depreciation out and adjusted operating income was +$21M, up $35M year over year."
+    }
+  ],
+  "oneTimers": [
+    "Share-based payments were $54M, up 38% year over year, on the timing of Klarna's annual compensation cycle \u2014 the company says they should return to pre-Q3 levels. They are the main reason adjusted operating income (+$21M) is $74M above the reported operating loss ($(53)M), along with $22M of depreciation and amortization, partly offset by a $2M restructuring gain.",
+    "Gains on consumer receivables of $53M are new this quarter (nil a year ago) \u2014 they come from Klarna's forward-flow loan-sale programs, which sold about $7.7B of loans in the quarter."
+  ],
+  "footerNote": "Klarna reports under IFRS. 'Transaction margin dollars' \u2014 revenue minus processing, credit-loss and funding costs \u2014 is its gross-profit line; the $21M adjusted operating income excludes $54M of share-based payments and $22M of depreciation and amortization.",
+  "pngFooterNote": "IFRS reporter; transaction margin is its gross-profit line.",
+  "sources": [
+    {
+      "label": "Official Q3 2026 earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/2003292/000162828026074361/exhibitno992earningsrele.htm"
+    },
+    {
+      "label": "Unaudited interim condensed consolidated financial statements, Q3 2026 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/2003292/000162828026074554/exhibitno991klarnagroupp.htm"
+    }
+  ]
+}

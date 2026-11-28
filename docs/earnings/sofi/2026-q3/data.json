@@ -1,0 +1,195 @@
+{
+  "ticker": "SOFI",
+  "company": "SoFi",
+  "quarterLabel": "Q3 2026",
+  "quarterSlug": "2026-q3",
+  "periodEnd": "2026-09-30",
+  "reportedDate": "2026-10-27",
+  "verdict": "SoFi posted record net revenue of $1.4B, up 44%, and net income of $241M \u2014 its 12th straight profitable quarter \u2014 as lending revenue jumped 66% and a record 1.2 million new members joined.",
+  "revenueYoY": "+44%",
+  "kpis": [
+    {
+      "label": "Net revenue",
+      "value": "$1.4B",
+      "note": "+44% YoY (GAAP total net revenue)"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "value": "$0.18",
+      "note": "diluted, vs $0.11 a year ago; adjusted EPS also $0.18"
+    },
+    {
+      "label": "Members",
+      "value": "17.1M",
+      "note": "+35% YoY \u2014 a record 1.2M added in the quarter"
+    },
+    {
+      "label": "Adjusted EBITDA",
+      "value": "$470M",
+      "note": "+70% YoY \u2014 a 34% margin"
+    }
+  ],
+  "segments": [
+    {
+      "name": "Interest income",
+      "amountM": 1343.163,
+      "note": "Interest earned on loans and securities \u2014 up 51% as average interest-earning assets grew 51% and funding costs fell.",
+      "yoy": "+51%"
+    },
+    {
+      "name": "Loan origination & platform fees",
+      "amountM": 303.469,
+      "note": "Fees for originating loans and for loans originated for third-party partners \u2014 up 32%; loan origination fees alone rose 158% on personal loan growth.",
+      "yoy": "+32%"
+    },
+    {
+      "name": "Crypto transaction revenue",
+      "amountM": 161.606,
+      "note": "Revenue from crypto trading, relaunched in late 2025 \u2014 almost all of it goes straight back out as the cost of buying the crypto.",
+      "yoy": "new"
+    },
+    {
+      "name": "Technology products & solutions",
+      "amountM": 55.679,
+      "note": "Fees from the Galileo technology platform that powers other fintechs \u2014 down 38% after a large client left the platform; up 18% excluding that client.",
+      "yoy": "-38%"
+    },
+    {
+      "name": "Other noninterest income",
+      "amountM": 94.866,
+      "note": "Interchange, brokerage and other fees \u2014 up 68%, with interchange up 77% on $31B of annualized card and Money spend.",
+      "yoy": "+68%"
+    }
+  ],
+  "flow": {
+    "revenueM": 1958.783,
+    "costOfRevenueM": 573.684,
+    "costName": "Funding & crypto costs",
+    "costPlain": "What SoFi pays to fund itself \u2014 $414M of interest on deposits, securitizations and borrowings \u2014 plus $160M it pays to buy the crypto it sells to members.",
+    "grossProfitM": 1385.099,
+    "grossName": "Total net revenue",
+    "opex": [
+      {
+        "name": "Provision for credit losses",
+        "amountM": 14.738,
+        "note": "Money set aside for loans that may not be repaid \u2014 up 60% YoY as the loan book grew.",
+        "shortName": "Credit losses"
+      },
+      {
+        "name": "Technology and product development",
+        "amountM": 197.656,
+        "note": "Building the app, the bank platform and new products."
+      },
+      {
+        "name": "Sales and marketing",
+        "amountM": 444.015,
+        "note": "Advertising and brand building to win members \u2014 the biggest running cost, up 55% YoY."
+      },
+      {
+        "name": "Cost of operations",
+        "amountM": 209.74,
+        "note": "Day-to-day operations and member support."
+      },
+      {
+        "name": "General and administrative",
+        "amountM": 201.118,
+        "note": "Running the company: finance, legal, risk and offices."
+      }
+    ],
+    "operatingIncomeM": 317.832,
+    "otherIncomeM": 0,
+    "taxM": 76.843,
+    "netIncomeM": 240.989
+  },
+  "follow100": [
+    {
+      "label": "Interest income",
+      "amount": 68.57
+    },
+    {
+      "label": "Lending fees",
+      "amount": 15.49
+    },
+    {
+      "label": "Crypto revenue",
+      "amount": 8.25
+    },
+    {
+      "label": "Other income",
+      "amount": 4.84
+    },
+    {
+      "label": "Technology products",
+      "amount": 2.84
+    },
+    {
+      "label": "Funding & crypto costs",
+      "amount": -29.29
+    },
+    {
+      "label": "Credit losses",
+      "amount": -0.75
+    },
+    {
+      "label": "Technology & development",
+      "amount": -10.09
+    },
+    {
+      "label": "Sales & marketing",
+      "amount": -22.67
+    },
+    {
+      "label": "Operations",
+      "amount": -10.71
+    },
+    {
+      "label": "G&A",
+      "amount": -10.27
+    },
+    {
+      "label": "Tax",
+      "amount": -3.92
+    },
+    {
+      "label": "Kept as profit",
+      "amount": 12.3
+    }
+  ],
+  "follow100Note": "SoFi headlines total net revenue ($1.39B), which is already net of funding costs \u2014 the chart starts from gross revenue ($1.96B) so the funding cost is visible. The rows before 'Kept as profit' add to $12.29 of profit per $100; the $0.01 gap is rounding. SoFi reports no other income or expense.",
+  "takeaways": [
+    {
+      "stat": "+66%",
+      "statColor": "#3e8e5a",
+      "title": "Lending is the engine",
+      "text": "Lending segment net revenue jumped 66% to $821M. Net interest income rose 57%, loan origination fees rose 158% on personal loan growth, and the Loan Platform Business originated $3.8B of loans for third parties, adding $153M to adjusted net revenue."
+    },
+    {
+      "stat": "17.1M",
+      "statColor": "#3d7bc8",
+      "title": "Members are arriving in record numbers",
+      "text": "SoFi added a record 1.2 million members in the quarter, taking the total to 17.1 million (+35% YoY). Deposits grew $5.8B in the quarter to $51.3B, and Financial Services products rose 44% to 23.2 million."
+    },
+    {
+      "stat": "$162M",
+      "statColor": "#d96a57",
+      "title": "Crypto is huge and nearly profitless",
+      "text": "Crypto transaction revenue of $162M cost $160M to deliver, netting just $1.6M \u2014 the same pattern as Block's bitcoin. Technology Platform revenue also fell 24% after a large client left, though it grew 18% excluding that client."
+    }
+  ],
+  "oneTimers": [
+    "GAAP net revenue of $1,385M includes a $14M non-cash change in the value of loan servicing rights; SoFi's adjusted net revenue of $1,371M excludes it. Adjusted net income was $243M vs GAAP net income of $241M."
+  ],
+  "otherDetail": "SoFi reports no other income or expense line \u2014 income before income taxes is operating income. Adjusted net revenue was $1,371M after excluding a $14M non-cash servicing-rights valuation change.",
+  "footerNote": "SoFi reports total net revenue \u2014 interest income minus funding costs. The chart starts from gross revenue ($1.96B) so the $414M paid to depositors and lenders shows as a direct cost; the bar after direct costs is SoFi's reported $1.39B total net revenue.",
+  "pngFooterNote": "Gross revenue shown so funding costs are visible.",
+  "sources": [
+    {
+      "label": "Official Q3 2026 earnings release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818874/000181887426000065/a2026q3earningsrelease.htm"
+    },
+    {
+      "label": "Form 10-Q financial statements (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818874/000181887426000070/sofi-20260930.htm"
+    }
+  ]
+}

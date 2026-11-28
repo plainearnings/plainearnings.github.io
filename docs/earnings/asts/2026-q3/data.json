@@ -1,0 +1,167 @@
+{
+  "ticker": "ASTS",
+  "company": "AST SpaceMobile",
+  "quarterLabel": "Q3 2026",
+  "quarterSlug": "2026-q3",
+  "periodEnd": "2026-09-30",
+  "reportedDate": "2026-11-09",
+  "verdict": "AST SpaceMobile's revenue nearly tripled to $42.3M as gateway deliveries and U.S. government milestones ramped up \u2014 but it still lost $132M for shareholders, spending about $5 to run the business for every $1 of revenue while it builds its satellite constellation.",
+  "revenueYoY": "+187%",
+  "kpis": [
+    {
+      "label": "Revenue",
+      "value": "$42.3M",
+      "note": "+187% YoY, from $14.7M"
+    },
+    {
+      "label": "EPS (GAAP)",
+      "value": "-$0.44",
+      "note": "vs -$0.45 a year ago"
+    },
+    {
+      "label": "Cash & restricted cash",
+      "value": "$3.2B",
+      "note": "plus ~$1.0B non-dilutive funding from Japan"
+    },
+    {
+      "label": "2026 revenue guidance",
+      "value": "$150\u2013200M",
+      "note": "reaffirmed, with upside from recent contracts"
+    }
+  ],
+  "segments": [
+    {
+      "name": "Products",
+      "amountM": 20.571,
+      "note": "Gateway equipment delivered to commercial and government customers, including $1.4M from a related party.",
+      "yoy": "+166%"
+    },
+    {
+      "name": "Services",
+      "amountM": 21.75,
+      "note": "Services revenue, mostly U.S. government milestones met during the quarter.",
+      "yoy": "+211%"
+    }
+  ],
+  "flow": {
+    "revenueM": 42.321,
+    "costOfRevenueM": 25.314,
+    "costPlain": "What it costs to deliver the gateways and services sold this quarter \u2014 $22.5M for products and $2.9M for services.",
+    "grossProfitM": 17.007,
+    "opex": [
+      {
+        "name": "Engineering services costs",
+        "amountM": 95.788,
+        "note": "Engineers designing and building the satellite network \u2014 the biggest running cost, more than twice revenue."
+      },
+      {
+        "name": "General and administrative",
+        "amountM": 55.705,
+        "note": "Running the company \u2014 legal, finance and admin."
+      },
+      {
+        "name": "Research and development",
+        "amountM": 9.094,
+        "note": "Research into the next generation of satellites and technology."
+      },
+      {
+        "name": "Depreciation and amortization",
+        "amountM": 25.078,
+        "note": "Spreading the cost of satellites, factories and equipment over their useful lives."
+      },
+      {
+        "name": "Loss on involuntary conversion",
+        "amountM": 0.047,
+        "note": "A small loss from an asset damaged or destroyed and replaced through insurance."
+      }
+    ],
+    "operatingIncomeM": -168.705,
+    "otherIncomeM": -6.89,
+    "taxM": -3.785,
+    "netIncomeM": -171.81
+  },
+  "follow100": [
+    {
+      "label": "Products",
+      "amount": 48.61
+    },
+    {
+      "label": "Services",
+      "amount": 51.39
+    },
+    {
+      "label": "Cost of revenue",
+      "amount": -59.81
+    },
+    {
+      "label": "Engineering services",
+      "amount": -226.34
+    },
+    {
+      "label": "G&A",
+      "amount": -131.62
+    },
+    {
+      "label": "R&D",
+      "amount": -21.49
+    },
+    {
+      "label": "Depreciation & amortization",
+      "amount": -59.26
+    },
+    {
+      "label": "Loss on conversion",
+      "amount": -0.11
+    },
+    {
+      "label": "Other expense",
+      "amount": -16.28
+    },
+    {
+      "label": "Tax benefit",
+      "amount": 8.94
+    },
+    {
+      "label": "Net loss",
+      "amount": -405.97
+    }
+  ],
+  "follow100Note": "For every $100 of revenue, AST spent about $499 running the business. The $406 shortfall is covered by cash on hand. Rows may not add exactly due to rounding.",
+  "takeaways": [
+    {
+      "stat": "+187%",
+      "statColor": "#3d7bc8",
+      "title": "Revenue is ramping, from a tiny base",
+      "text": "Revenue hit $42.3M, up from $14.7M a year ago, driven by gateway deliveries and U.S. government milestones. The company stayed on track for $150\u2013200M of revenue for the full year, with upside from contracts signed recently."
+    },
+    {
+      "stat": "$3.2B",
+      "statColor": "#3e8e5a",
+      "title": "A fortress balance sheet buys time",
+      "text": "Cash, cash equivalents and restricted cash totalled about $3.2B at quarter-end. On top of that, Japan's Ministry of Internal Affairs and Communications is providing about $1.0B of non-dilutive funding for midband satellites, and a further ~$1.2B pipeline of U.S. quasi-government financing is in the works for 2027."
+    },
+    {
+      "stat": "100+",
+      "statColor": "#5b6b7c",
+      "title": "The constellation is the whole bet",
+      "text": "Production is running through BlueBird 51, with a target of about 45 satellites in orbit by mid-2027 and launch agreements covering more than 100 BlueBirds across 2027\u20132028. AST also announced Blacklift, its own 20-ton reusable rocket, to launch up to five satellites at a time starting in late 2028."
+    }
+  ],
+  "oneTimers": [
+    "Stock-based compensation was $52.3M in the quarter \u2014 more than revenue. Adjusted operating expenses, which exclude it, depreciation and the conversion loss, were $133.6M.",
+    "The $0.05M loss on involuntary conversion this quarter compares with a $125.9M loss in Q2 2026, which is why total operating expenses fell from $329.1M to $211.0M quarter over quarter."
+  ],
+  "otherDetail": "Other expense of $6.9M, net: interest expense of $30.3M was almost entirely offset by interest income of $30.1M on the company's large cash balance, plus $6.7M of other expense, net.",
+  "footerNote": "Net loss of $171.8M is before allocating $39.4M to noncontrolling interests; the loss attributable to common stockholders was $132.4M ($0.44 per Class A share). This is a loss quarter: the shortfall is covered by the company's cash on hand.",
+  "pngFooterNote": "Revenue nearly tripled; the build costs ~$5 per $1 of revenue.",
+  "sources": [
+    {
+      "label": "Official Q3 2026 press release (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1780312/000119312526453758/asts-ex99_1.htm"
+    },
+    {
+      "label": "Q3 2026 Form 10-Q (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1780312/000119312526453759/asts-20260930.htm"
+    }
+  ]
+}
